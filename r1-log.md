@@ -12,6 +12,4 @@ project at the end of each lesson.
 
 Day1 was a beginner revision about variables and how to manage data
 Different topics were discussed, such as: print, inputs
-The end project is [Band Name Generator](Projects\Day1\BandNameGenerator.py)
-
-### R1D2
+The end project is [Band Name Generator](Projects/Day1/BandNameGenerator.py)
