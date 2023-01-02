@@ -16,4 +16,4 @@ The end project is [Band Name Generator](https://github.com/RuiFSP/100-days-of-c
 
 ### R1D2
 Day2 was basically a revision about understanding types and how to manipulate strings
-The end project is [Tip Calculator]()
+The end project is [Tip Calculator](Projects/Day2/TipCalculator.py)
