@@ -12,8 +12,8 @@ project at the end of each lesson.
 
 Day1 was a beginner revision about variables and how to manage data
 Different topics were discussed, such as: print, inputs
-The end project is [Band Name Generator](https://github.com/RuiFSP/100-days-of-code/blob/f676cf83ffec04e71e1a2569ebea84a8b1fe62d2/Projects/Day1/BandNameGenerator.py)
+The end project is [Band Name Generator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day1)
 
 ### R1D2
 Day2 was basically a revision about understanding types and how to manipulate strings
-The end project is [Tip Calculator](Projects/Day2/TipCalculator.py)
+The end project is [Tip Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day2)
