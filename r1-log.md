@@ -10,12 +10,22 @@ project at the end of each lesson.
 
 ### R1D1
 
-Day1 - was a beginner revision about variables and how to manage data.Different topics were discussed, such as: print, inputs
+Day1 - Revision about variables and how to manage data.
+ - print, inputs
 
 The end project is [Band Name Generator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day1)
 
 ### R1D2
 
-Day2 - was basically a revision about understanding types and how to manipulate strings.
+Day2 - Revision about understanding types and how to manipulate strings.
 
 The end project is [Tip Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day2)
+
+### R1D3
+
+Day3 - Revision about Control Flow and Logical Operators
+ - importance of indentation
+ - if/else, nested if/else, if/elif /else, multiple if
+ - and, or, not 
+
+The end project is [Tip Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day3)
