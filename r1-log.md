@@ -28,4 +28,4 @@ Day3 - Revision about Control Flow and Logical Operators
  - if/else, nested if/else, if/elif /else, multiple if
  - and, or, not 
 
-The end project is [Tip Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day3)
+The end project is [TreasureIsland](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day3)
