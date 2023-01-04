@@ -6,7 +6,7 @@ The log of my #100DaysOfCode challenge. Started on [January 01, Sunday, 2023].
 
 I was looking for a structured way to learn python and also project based.
 I came across Dr.Angela Yu [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code/) which have a mini 
-project at the end of each lesson.
+project at the end of each day.
 
 ### R1D1
 
@@ -29,3 +29,14 @@ Day3 - Revision about Control Flow and Logical Operators
  - and, or, not 
 
 The end project is [Treasure Island](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day3)
+
+### R1D4
+
+Day4 - Randomisation and Python Lists
+ - import random (.randInt,.random)
+ - list - data structure
+   - Python Docs: https://docs.python.org/3/tutorial/datastructures.html
+   - IndexErrors - outbound
+   - Nested Lists - list[[],[]]
+
+The end project is [Rock Paper Scissors](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day4)
