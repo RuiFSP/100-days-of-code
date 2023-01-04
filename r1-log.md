@@ -13,28 +13,6 @@ All my projects and training exercises will be separated by day
    - training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
    - project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
 
-### R1D1
-
-Day1 - Revision about variables and how to manage data.
- - print, inputs
-
-The end project is [Band Name Generator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day1)
-
-### R1D2
-
-Day2 - Revision about understanding types and how to manipulate strings.
-
-The end project is [Tip Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day2)
-
-### R1D3
-
-Day3 - Revision about Control Flow and Logical Operators
- - importance of indentation
- - if/else, nested if/else, if/elif /else, multiple if
- - and, or, not 
-
-The end project is [Treasure Island](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day3)
-
 ### R1D4
 
 Day4 - Randomisation and Python Lists
@@ -45,3 +23,30 @@ Day4 - Randomisation and Python Lists
    - Nested Lists - list[[],[]]
 
 The end project is [Rock Paper Scissors](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day4)
+
+### R1D3
+
+Day3 - Revision about Control Flow and Logical Operators
+ - importance of indentation
+ - if/else, nested if/else, if/elif /else, multiple if
+ - and, or, not 
+
+The end project is [Treasure Island](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day3)
+
+### R1D2
+
+Day2 - Revision about understanding types and how to manipulate strings.
+
+The end project is [Tip Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day2)
+
+### R1D1
+
+Day1 - Revision about variables and how to manage data.
+ - print, inputs
+
+The end project is [Band Name Generator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day1)
+
+
+
+
+
