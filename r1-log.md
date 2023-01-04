@@ -9,8 +9,8 @@ I came across Dr.Angela Yu [The Complete 2023 Web Development Bootcamp](https://
 project at the end of each day.
 
 All my projects and training exercises will be separated by day:
-   training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
-   project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
+   - training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
+   - project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
 
 ### R1D1
 
