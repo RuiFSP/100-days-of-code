@@ -8,7 +8,8 @@ I was looking for a structured way to learn python and also project based.
 I came across Dr.Angela Yu [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code/) which have a mini 
 project at the end of each day.
 
-All my projects and training exercises will be separated by day.
+All my projects and training exercises will be separated by day
+
    - training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
    - project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
 
