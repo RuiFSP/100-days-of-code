@@ -15,7 +15,7 @@ All my projects and training exercises will be separated by day
 
 ### R1D4
 
-Day4 - Randomisation and Python Lists
+Day4 - Randomization and Python Lists
  - import random (.randInt,.random)
  - list - data structure
    - Python Docs: https://docs.python.org/3/tutorial/datastructures.html
