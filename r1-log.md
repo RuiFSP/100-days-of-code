@@ -13,6 +13,14 @@ All my projects and training exercises will be separated by day
    - training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
    - project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
 
+### R1D5
+
+Day5 - Python Loops, Range and Code Blocks
+   - for loop, for loop with range
+   - random.shuffle, random.sample, random.choice
+
+The end project is [Password Generator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day5)
+
 ### R1D4
 
 Day4 - Randomization and Python Lists
