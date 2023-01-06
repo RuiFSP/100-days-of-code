@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Rui Pinto]
 
-The log of my #100DaysOfCode challenge. Started on [January 01, Sunday, 2023].
+The log of my <b>#100DaysOfCode</b> challenge. Started on [January 01, Sunday, 2023].
 
 ## Log
 
@@ -12,6 +12,17 @@ All my projects and training exercises will be separated by day
 
    - training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
    - project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
+
+
+### R1D6
+
+Day6 - Functions, Code Blocks and While Loops
+   - Built-in functions: https://docs.python.org/3/library/functions.html
+   - User defined functions: <b>def myfuncton()</b>:
+   - While loops
+   - Style guide - PEP8: https://peps.python.org/pep-0008/
+   - Python practice and project from: https://reeborg.ca/index_en.html
+
 
 ### R1D5
 
