@@ -14,6 +14,18 @@ All my projects and training exercises will be separated by day
    - project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
 
 
+### R1D7
+
+Day7 - Dedicated to revisions of past knowledge with a bigger project
+   - Flow Chart Programming: https://app.diagrams.net/
+   - For & While loops : https://developers.google.com/edu/python/lists#for-and-in
+   - IF/ ELSE, Lists, Strings, Range
+   - Modules: https://www.askpython.com/python/python-import-statement
+     - from x import y,x
+     - import os.system("cls" or "clear") to clear terminal
+
+The end project is [HangMan](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day7)
+
 ### R1D6
 
 Day6 - Functions, Code Blocks and While Loops
@@ -22,7 +34,6 @@ Day6 - Functions, Code Blocks and While Loops
    - While loops
    - Style guide - PEP8: https://peps.python.org/pep-0008/
    - Python practice and project from: https://reeborg.ca/index_en.html
-
 
 ### R1D5
 
