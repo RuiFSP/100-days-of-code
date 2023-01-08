@@ -13,6 +13,14 @@ All my projects and training exercises will be separated by day
    - training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
    - project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
 
+### R1D8
+
+Day8 - Functions with inputs
+   - Example: <b> def my_function(something):</b>
+   - Parameter vs Argument
+   - Positional Arguments vs Keyword Arguments
+
+The end project is [Caeser Cipher](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day8)
 
 ### R1D7
 
