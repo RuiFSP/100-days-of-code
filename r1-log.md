@@ -13,6 +13,14 @@ All my projects and training exercises will be separated by day
    - training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
    - project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
 
+### R1D9
+
+Day9 - Dictionaries and Nesting
+   - Dictionaries -> <b>{Key: Value}</b>
+   - Nesting Lists and Dictionaries
+
+The end Project is [Secret Action](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day9)
+
 ### R1D8
 
 Day8 - Functions with inputs
