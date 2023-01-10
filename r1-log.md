@@ -10,8 +10,20 @@ project at the end of each day.
 
 All my projects and training exercises will be separated by day
 
-   - training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
-   - project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
+   - Training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
+   - Project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
+
+### R1D10 
+
+Day10 - Functions with outputs
+   - Multiple return values
+   - Docstrings '''document something'''
+   - Print vs Return
+   - While loops, flags and Recursion
+   - call a function with a string: https://docs.python.org/3/library/functions.html#globals
+     - <b>globals()"myfunction"()</b>
+
+The end Project is [Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day10)
 
 ### R1D9
 
