@@ -1,5 +1,4 @@
 from art import logo
-from os import system
 
 # Calculator
 print(logo)

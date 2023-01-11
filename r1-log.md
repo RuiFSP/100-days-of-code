@@ -13,6 +13,14 @@ All my projects and training exercises will be separated by day
    - Training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
    - Project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
 
+### R1D11
+
+Day11 - The Blackjack Capstone Project
+   - The project was a recap and practical approach of all the concepts learn in previous days 😀
+   - For the record: Blackjack is my favorite casino game, o i had tons of fun with it 😂 
+
+The end Project is [Blackjack](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day11)
+
 ### R1D10 
 
 Day10 - Functions with outputs
