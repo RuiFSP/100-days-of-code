@@ -13,6 +13,25 @@ All my projects and training exercises will be separated by day
    - Training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
    - Project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
 
+### R1D12
+
+Day12 - Scope
+   - Namespaces - local vs global
+   - Difference between global scope, local and block scope
+   - Block scope such as (for, if , while) does not exist in python, different in language such as java, javascript
+     - If you create a variable within a function, it only available inside of that function
+     - If you create a variable with a block type, that does not count has local scope
+   - Modify variables with global scope, inside functions, we need to explicitly mention them inside function with <b>global variable_name </b>
+     - considered bad practice to update global variable inside a function
+     - we should use <b>return</b> and save that value as an alternative to use global variables
+   - Python Constants and Global Scope
+     - This is execution for global scope variables, such as 3.14159 
+     - naming convention is to use uppercase and underscore if needed: PI = 3.14159
+     - This way is easier to not modify it inside local scope
+   - ASCII Art: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+
+The end Project is [Guessing Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day12)
+
 ### R1D11
 
 Day11 - The Blackjack Capstone Project
