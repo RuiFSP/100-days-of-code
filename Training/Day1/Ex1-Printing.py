@@ -17,6 +17,3 @@
 # print("Day 1 - Python Print Function")
 # print("The function is declared like this:")
 # print("print('what to print')")
-
-# solution using \n (new line)
-print("Day 1 - Python Print Function\n""The function is declared like this:\n""print('what to print')")

@@ -1,5 +1,6 @@
 ################### Scope ####################
 
+# Exercise 1
 # enemies = 1
 #
 #
@@ -52,8 +53,7 @@
 #
 # print(new_enemy) -> this codeis still valid
 
-
-# game_level = 3
+# best practice
 # def create_enemy():
 #     enemies = ["Skeleton", "Zombie", "Alien"]
 #     if game_level < 5:
