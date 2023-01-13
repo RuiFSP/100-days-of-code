@@ -104,10 +104,7 @@ while play_game:
                         dealer_hand.append(get_random_card())
                         if get_score(dealer_hand) > 21:
                             dealer_inplay = False
-                if not dealer_inplay:
-                    print_final_result()
-                    check_blackjack()
-                elif get_score(dealer_hand) < get_score(player_hand) <= 21:
+                if not dealer_inplay or get_score(dealer_hand) < get_score(player_hand) <= 21:
                     print_final_result()
                     check_blackjack()
                 elif get_score(dealer_hand) == get_score(player_hand) and get_score(player_hand) <= 21:

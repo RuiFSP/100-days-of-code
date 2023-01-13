@@ -28,11 +28,6 @@ scissors = '''
 # Write your code below this line 👇
 import random
 
-# rules
-# rock > scissors
-# paper > rock
-# scissors > paper
-
 # player_choice
 player_pick = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.\n"))
 
@@ -48,12 +43,17 @@ else:
 # computer_choice
 random_generated_pick_from_computer = random.randint(0, 2)
 
+
+def response(option):
+    print(f"Computer chose:\n " + option)
+
+
 if random_generated_pick_from_computer == 0:
-    print("Computer chose:\n" + rock)
+    response(rock)
 elif random_generated_pick_from_computer == 1:
-    print("Computer chose:\n" + paper)
+    response(paper)
 elif random_generated_pick_from_computer == 2:
-    print("Computer chose:\n" + scissors)
+    response(scissors)
 else:
     print("Wrong option")
 
