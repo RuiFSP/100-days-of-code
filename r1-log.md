@@ -13,6 +13,49 @@ All my projects and training exercises will be separated by day
    - Training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
    - Project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
 
+My working IDE
+   - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
+
+### R1D13
+
+Day13 - Debugging 😀
+1) Describe problem (example)
+   - what is the for-loop doing ?
+   - when is the function meant to print "You got it" ?
+   - What are the assumptions about i
+2) Reproduce the Bug 😁
+   - to fully understand the bug, we should be able to reproduce it
+3) Play Computer 😂
+   - imagine what the computer will do each time, when we execute the code
+4) Fix Errors 😄
+   - fix errors highlighted in your editor first
+   - run the code and we get for example a TypeError, because we forgot to convert an str input to int
+     - we can also copy the error and search for an answer on the web : google, stackoverflow, chatgpt 🤣
+   - we have a print statement and for example we forgot to correct use fstrings(annoying bugs, we do not have any help)
+5) Print is your friend 😆
+   - make some print statements, to help debug your code. It can be one of your best friends
+6) Use a Debugger 😎
+   - The BIG Gun for all Devs
+     - all IDE's have a debugger
+     - we also tried using python tutor for debugger: https://pythontutor.com/
+7) Take a break 🌞
+   - sometimes is just better to get some fresh air if we are stuck
+8) Ask a Friend 🍟
+   - A fresh pair of eyes to look at our code or a more experienced developer might help
+9) Run your code often 💻
+   - Do not wait for end to find out we have lots of bugs 
+   - Importance of breaking the problem into smaller chunks and test them
+10) Ask Stackoverflow 🐍
+    - big community with experienced programmers that can help you tackle the biggest issues
+    - https://stackoverflow.com/
+
+Today there was no final project, but took the opportunity to do a smaller project and experiment stuff
+   - Had the opportunity to us carriage return <b>"\r"</b>
+   - explored a new library for time: https://docs.python.org/3/library/time.html
+   - formatted strings: https://docs.python.org/3/tutorial/inputoutput.html#the-string-format-method
+
+The end Project is [Countdown Timer](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day13)
+
 ### R1D12
 
 Day12 - Scope
