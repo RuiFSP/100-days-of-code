@@ -18,7 +18,7 @@ My working IDE
 
 ### R1D14
 
-Da14 - Project Higher Lower
+Da14 - Final project for beginner section
 - Steps:
   - Breakdown the problem into smaller ones
   - Make a Todo List for those problem
