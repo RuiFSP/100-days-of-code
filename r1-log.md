@@ -16,6 +16,19 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D14
+
+Da14 - Project Higher Lower
+- Steps:
+  - Breakdown the problem into smaller ones
+  - Make a Todo List for those problem
+    - start with the easiest item
+    - Turn the problem into comments
+    - write code -> run code -> fix code
+    - next task
+
+The end Project is [Higher Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day14)
+
 ### R1D13
 
 Day13 - Debugging 😀
