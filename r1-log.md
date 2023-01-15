@@ -16,9 +16,29 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D15
+
+Day15 - Local Development environment and project coffee machine
+  - Setup local environment: Python + Pycharm
+  - Pycharm keyboard shortcuts: https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html
+  - Using Pycharm <b>"# TODO: "</b>  to manage tasks and organize problem solving steps
+  - Setup project requirements
+  - Get some emojis: 
+    - news emojis: https://emojipedia.org/
+    - windows: https://support.microsoft.com/en-gb/windows/windows-keyboard-tips-and-tricks-588e0b72-0fff-6d3f-aeee-6e5116097942
+    - mac: https://support.apple.com/en-gb/guide/mac-help/mchlp1560/mac
+  - Coffee Machine
+    - Control Flow and logical operators
+    - Loops
+    - Functions with inputs and outputs
+    - Dictionaries, Nesting
+    - Score of variables
+
+The end Project is [Coffee Machine](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day15)
+
 ### R1D14
 
-Da14 - Final project for beginner section
+Day14 - Final project for beginner section
 - Steps:
   - Breakdown the problem into smaller ones
   - Make a Todo List for those problem
