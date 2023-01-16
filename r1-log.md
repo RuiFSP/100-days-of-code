@@ -16,6 +16,19 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D16
+
+Day16 - OOP - Object Oriented Programming
+  - Procedural programming (First programming paradigm) - past examples
+  - Increased complexity needs a more structured way - OOP (Second programming paradigm)
+  - Using Turtle Graphics: https://docs.python.org/3/library/turtle.html
+    - default library with python and great to study OOP
+  - Python Packages vs Python modules
+    - The Python Package Index (PyPI) is a repository of software for the Python programming language
+      - python packages: https://pypi.org/
+
+The end Project is [OOP Coffee Machine](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day16)
+
 ### R1D15
 
 Day15 - Local Development environment and project coffee machine
