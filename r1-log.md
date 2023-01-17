@@ -16,6 +16,16 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+
+### R1D17 
+Day 17 - OOP - Creating Classes
+  - Classes names convention is to use PascalCase
+  - Trivia data was the data provider: https://opentdb.com/
+  - Manipulation JSON files : https://docs.python.org/3/library/json.html
+  - Transforming JSON file to a list of dictionaries
+
+The end Project is [OOP The Quiz](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day17)
+
 ### R1D16
 
 Day16 - OOP - Object Oriented Programming
