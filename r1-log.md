@@ -17,7 +17,24 @@ My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
 
+### R1D18 
+
+Day 18 - Turtle library and The Graphical User Interface
+  - Using Turtle Graphics: https://docs.python.org/3/library/turtle.html
+  - Colors RGB values: https://trinket.io/docs/colors
+  - Types of imports:
+    - basic, for when we do not use it often: import turtle
+    - compact, for plenty uses: from turtle import Turtle
+    - give alias modules: import turtle as t
+    - installing modules: some modules cannot be imported and we need to install them first
+      - library: https://pypi.org/
+  - Generating Tuples and RGB Colours - immutable value
+
+
+The end Project is [OOP - The Hirst Painting](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day18)
+
 ### R1D17 
+
 Day 17 - OOP - Creating Classes
   - Classes names convention is to use PascalCase
   - Trivia data was the data provider: https://opentdb.com/
