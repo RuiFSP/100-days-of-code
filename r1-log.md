@@ -16,6 +16,19 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D19
+
+Day19 - Instances, State and Higher Order functions
+  - More on Turtle Graphics: https://docs.python.org/3/library/turtle.html
+  - Event Listeners: https://docs.python.org/3/library/turtle.html#turtle.listen
+  - Functions as Inputs
+    - Higher Order Functions - receives a function as inputs
+    - useful to use keyword arguments to be more clear
+  - State
+  - Multiples Instances - object is and instance of a class
+    - Each instance can have different states
+
+The end Project is [Turtle Race](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day19)
 
 ### R1D18 
 
@@ -31,7 +44,7 @@ Day 18 - Turtle library and The Graphical User Interface
   - Generating Tuples and RGB Colours - immutable value
 
 
-The end Project is [OOP - The Hirst Painting](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day18)
+The end Project is [The Hirst Painting](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day18)
 
 ### R1D17 
 
@@ -41,7 +54,7 @@ Day 17 - OOP - Creating Classes
   - Manipulation JSON files : https://docs.python.org/3/library/json.html
   - Transforming JSON file to a list of dictionaries
 
-The end Project is [OOP The Quiz](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day17)
+The end Project is [The Quiz](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day17)
 
 ### R1D16
 
