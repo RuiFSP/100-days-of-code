@@ -5,7 +5,7 @@ The log of my <b>#100DaysOfCode</b> challenge. Started on [January 01, Sunday, 2
 ## Log
 
 I was looking for a structured way to learn python and also project based.
-I came across Dr.Angela Yu [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code/) which have a mini 
+I came across Dr.Angela Yu [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) which have a mini 
 project at the end of each day.
 
 All my projects and training exercises will be separated by day
