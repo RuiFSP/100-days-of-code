@@ -25,6 +25,8 @@ Day20 - Started working on Snake Game Part-1
   - Used time library to handle time related tasks: https://docs.python.org/3/library/time.html
   - Used a combination of Turtle methods tracer() and update() to work with turtle animations
 
+The end Project is [Snake - Part1](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day20)
+
 ### R1D19
 
 Day19 - Instances, State and Higher Order functions
