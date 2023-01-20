@@ -16,6 +16,15 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D20
+
+Day20 - Started working on Snake Game Part-1
+  - Step1: create a snake body
+  - Step2: move the snake
+  - Step3: control the snake
+  - Used time library to handle time related tasks: https://docs.python.org/3/library/time.html
+  - Used a combination of Turtle methods tracer() and update() to work with turtle animations
+
 ### R1D19
 
 Day19 - Instances, State and Higher Order functions
