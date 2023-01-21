@@ -25,7 +25,7 @@ Day21 - Finished Snake Game Part-2/2
   - Step7: detect collision with tail
   - Inheritance - classes and inheritance from other classes
     - <b>super()</b> inheritance from parent class
-  - Slicing lists, dictionaries
+  - Slicing list
     - <b>list[start slice : end slice : step]</b>
   - turtle.write() - write text on screen: https://docs.python.org/3/library/turtle.html#turtle.write
 
