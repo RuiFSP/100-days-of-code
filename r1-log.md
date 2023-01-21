@@ -20,7 +20,7 @@ My working IDE
 
 Day21 - Finished Snake Game Part-2/2
   - Step4: detect collision with food
-  - Step5: create a score board
+  - Step5: create a scoreboard
   - Step6: detect collision with walk
   - Step7: detect collision with tail
   - Inheritance - classes and inheritance from other classes
