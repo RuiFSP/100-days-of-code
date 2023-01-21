@@ -1,5 +1,5 @@
 from turtle import Screen
-from snake import Snake
+from snake1 import Snake
 import time
 
 # screen setup

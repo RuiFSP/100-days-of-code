@@ -16,16 +16,31 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D21
+
+Day21 - Finished Snake Game Part-2/2
+  - Step4: detect collision with food
+  - Step5: create a score board
+  - Step6: detect collision with walk
+  - Step7: detect collision with tail
+  - Inheritance - classes and inheritance from other classes
+    - <b>super()</b> inheritance from parent class
+  - Slicing lists, dictionaries
+    - <b>list[start slice : end slice : step]</b>
+  - turtle.write() - write text on screen: https://docs.python.org/3/library/turtle.html#turtle.write
+
+The end Project is [Snake - Part 2/2](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day21)
+
 ### R1D20
 
-Day20 - Started working on Snake Game Part-1
+Day20 - Started working on Snake Game Part-1/2
   - Step1: create a snake body
   - Step2: move the snake
   - Step3: control the snake
   - Used time library to handle time related tasks: https://docs.python.org/3/library/time.html
   - Used a combination of Turtle methods tracer() and update() to work with turtle animations
 
-The end Project is [Snake - Part1](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day20)
+The end Project is [Snake - Part 1/2](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day20)
 
 ### R1D19
 
