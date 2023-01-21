@@ -51,7 +51,7 @@ Day19 - Instances, State and Higher Order functions
     - Higher Order Functions - receives a function as inputs
     - useful to use keyword arguments to be more clear
   - State
-  - Multiples Instances - object is and instance of a class
+  - Multiple Instances - object is and instance of a class
     - Each instance can have different states
 
 The end Project is [Turtle Race](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day19)
