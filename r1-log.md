@@ -16,6 +16,21 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+
+### R1D22
+Day22 - Building the famous game - Pong
+ - Decomposing the problem:
+   - Step1: create the screen
+   - Step2: create and move a paddle
+   - Step3: create another paddle
+   - Step4: create the ball and make it move
+   - Step5: Detect collision with wall and bounce
+   - Step6: Detect collision with paddle
+   - Step7: Detect when paddle misses
+   - Step8: Keep Score
+
+The end Project is [Pong Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day22)
+
 ### R1D21
 
 Day21 - Finished Snake Game Part-2/2
