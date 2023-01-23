@@ -16,8 +16,21 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D23
+
+Day23 - Capstone Project - Turtle Crossing
+ - Decomposing the problem:
+   - Step1: create the screen
+   - Step2: create a turtle and move with keypress
+   - Step3: create n random cars and move them
+   - Step4: detect collisions between turtle and cards
+   - Step5: detect turtle reach finished line 
+   - Step6: create scoreboard and increase level difficulty
+
+The end Project is [Turtle Crossing](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day23)
 
 ### R1D22
+
 Day22 - Building the famous game - Pong
  - Decomposing the problem:
    - Step1: create the screen
