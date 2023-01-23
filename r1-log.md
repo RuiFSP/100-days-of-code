@@ -21,11 +21,11 @@ My working IDE
 Day23 - Capstone Project - Turtle Crossing
  - Decomposing the problem:
    - Step1: create the screen
-   - Step2: create a turtle and move with keypress
-   - Step3: create n random cars and move them
-   - Step4: detect collisions between turtle and cards
+   - Step2: create a turtle and move with only keypress "Up"
+   - Step3: create n random cars and move them in the same direction
+   - Step4: detect collisions between turtle and cars
    - Step5: detect turtle reach finished line 
-   - Step6: create scoreboard and increase level difficulty
+   - Step6: create scoreboard and increase level difficulty by increasing car speed
 
 The end Project is [Turtle Crossing](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day23)
 
