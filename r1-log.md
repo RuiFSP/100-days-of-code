@@ -16,6 +16,22 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D24
+
+Day24 - Mail merger example to read, write files
+ - refactoring snake game
+   - add scoreboard
+   - keep track of high_score saved in a file
+    - file system: https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
+      - <b>open(filename, mode)</b> 
+ - Understating Relative and Absolute paths
+   - Absolute File Path start in root (origin)
+     - root folder: windows (c:) or mac (/)
+   - Relative File Path
+     - related to the working directory
+
+The end Project is [Mail Merger](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day24)
+
 ### R1D23
 
 Day23 - Capstone Project - Turtle Crossing
