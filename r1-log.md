@@ -16,6 +16,23 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+
+### R1D25
+
+Day25 - Working with csv files and analysing Data with Pandas
+ - Reading csv files with Python - differences between different methods
+   - default python with/open
+   - with import csv
+   - with pandas
+ - Library: [Pandas](https://pandas.pydata.org/) 
+   - commonly use to data analysis for its functionality
+   - feching data from a csv
+   - grab summary statistics using panda, count, max, min, etc..
+   - creating dataframes from a list or dictionary <b>pandas.DataFrame(arg)</b>
+   - converting dataframes to csv
+
+The end Project is [USA States Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day25)
+
 ### R1D24
 
 Day24 - Mail merger example to read, write files
