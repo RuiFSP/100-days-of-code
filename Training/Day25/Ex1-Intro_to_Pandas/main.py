@@ -1,6 +1,6 @@
 # # worst approach
 # with open("weather_data.csv") as data_file:
-#     data = data_file.readlines()
+#     data = data_file "read lines"
 #     for row in data:
 #         data_stripped = row.strip()
 #         print(data_stripped)
@@ -20,7 +20,6 @@
 
 # best approach : using pandas
 import pandas
-from statistics import mean
 
 data = pandas.read_csv("weather_data.csv")
 # # data frame  the whole table
@@ -32,7 +31,7 @@ data = pandas.read_csv("weather_data.csv")
 # temp_list = data["temp"].to_list()
 # print(temp_list)
 
-# you do not have to do this, take advanatge of pandas series
+# you do not have to do this, take advantage of pandas series
 #
 # avg_temp_list = sum(temp_list) / len(temp_list)
 # avg_temp_list1 = mean(temp_list)
@@ -41,9 +40,9 @@ data = pandas.read_csv("weather_data.csv")
 # print(avg_temp_list1)
 
 # #pandas method mean
-# print(f"The is the average temperature: {data['temp'].mean()}")
-# print(f"The is the max temperature: {data['temp'].max()}")
-# print(f"The is the min temperature: {data['temp'].min()}")
+# print(f"The average temperature: {data['temp'].mean()}")
+# print(f"The max temperature: {data['temp'].max()}")
+# print(f"The min temperature: {data['temp'].min()}")
 #
 # #alternative way to call column data, by .name vs ['name']
 # print(data.condition)
