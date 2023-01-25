@@ -26,7 +26,7 @@ Day25 - Working with csv files and analysing Data with Pandas
    - with pandas
  - Library: [Pandas](https://pandas.pydata.org/) 
    - commonly use to data analysis for its functionality
-   - feching data from a csv
+   - fetching data from a csv
    - grab summary statistics using panda, count, max, min, etc..
    - creating dataframes from a list or dictionary <b>pandas.DataFrame(arg)</b>
    - converting dataframes to csv
@@ -126,7 +126,7 @@ Day 18 - Turtle library and The Graphical User Interface
     - basic, for when we do not use it often: import turtle
     - compact, for plenty uses: from turtle import Turtle
     - give alias modules: import turtle as t
-    - installing modules: some modules cannot be imported and we need to install them first
+    - installing modules: some modules cannot be imported, and we need to install them first
       - library: https://pypi.org/
   - Generating Tuples and RGB Colours - immutable value
 
@@ -136,7 +136,7 @@ The end Project is [The Hirst Painting](https://github.com/RuiFSP/100-days-of-co
 ### R1D17 
 
 Day 17 - OOP - Creating Classes
-  - Classes names convention is to use PascalCase
+  - Class names convention is to use PascalCase
   - Trivia data was the data provider: https://opentdb.com/
   - Manipulation JSON files : https://docs.python.org/3/library/json.html
   - Transforming JSON file to a list of dictionaries
@@ -145,7 +145,7 @@ The end Project is [The Quiz](https://github.com/RuiFSP/100-days-of-code/tree/ma
 
 ### R1D16
 
-Day16 - OOP - Object Oriented Programming
+Day16 - Object-Oriented-Programming
   - Procedural programming (First programming paradigm) - past examples
   - Increased complexity needs a more structured way - OOP (Second programming paradigm)
   - Using Turtle Graphics: https://docs.python.org/3/library/turtle.html
@@ -161,7 +161,7 @@ The end Project is [OOP Coffee Machine](https://github.com/RuiFSP/100-days-of-co
 Day15 - Local Development environment and project coffee machine
   - Setup local environment: Python + Pycharm
   - Pycharm keyboard shortcuts: https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html
-  - Using Pycharm <b>"# TODO: "</b>  to manage tasks and organize problem solving steps
+  - Using Pycharm <b>"# TODO: "</b>  to manage tasks and organize problem-solving steps
   - Setup project requirements
   - Get some emojis: 
     - news emojis: https://emojipedia.org/
@@ -181,7 +181,7 @@ The end Project is [Coffee Machine](https://github.com/RuiFSP/100-days-of-code/t
 Day14 - Final project for beginner section
 - Steps:
   - Breakdown the problem into smaller ones
-  - Make a Todo List for those problem
+  - Make a Todo List for those problems
     - start with the easiest item
     - Turn the problem into comments
     - write code -> run code -> fix code
@@ -202,7 +202,7 @@ Day13 - Debugging 😀
    - imagine what the computer will do each time, when we execute the code
 4) Fix Errors 😄
    - fix errors highlighted in your editor first
-   - run the code and we get for example a TypeError, because we forgot to convert an str input to int
+   - run the code, and we get for example a TypeError, because we forgot to convert a str input to int
      - we can also copy the error and search for an answer on the web : google, stackoverflow, chatgpt 🤣
    - we have a print statement and for example we forgot to correct use fstrings(annoying bugs, we do not have any help)
 5) Print is your friend 😆
@@ -252,7 +252,7 @@ The end Project is [Guessing Game](https://github.com/RuiFSP/100-days-of-code/tr
 
 Day11 - The Blackjack Capstone Project
    - The project was a recap and practical approach of all the concepts learn in previous days 😀
-   - For the record: Blackjack is my favorite casino game, o i had tons of fun with it 😂 
+   - For the record: Blackjack is my favorite casino game, o I had tons of fun with it 😂 
 
 The end Project is [Blackjack](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day11)
 
@@ -301,7 +301,7 @@ The end project is [HangMan](https://github.com/RuiFSP/100-days-of-code/tree/mas
 
 Day6 - Functions, Code Blocks and While Loops
    - Built-in functions: https://docs.python.org/3/library/functions.html
-   - User defined functions: <b>def myfuncton()</b>:
+   - User defined functions: <b>def my functon()</b>:
    - While loops
    - Style guide - PEP8: https://peps.python.org/pep-0008/
    - Python practice and project from: https://reeborg.ca/index_en.html
