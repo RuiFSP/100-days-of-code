@@ -17,6 +17,21 @@ My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
 
+### R1D26
+Day26 - List and Dictionary Comprehensions
+ - Python sequences - list, range, string, tuple
+    - list comprehension: <b>[item-expression for item in iterator] or [x for x in iterator]  </b> 
+    - conditional list comprehension: <b> [item-expression for item in iterator if conditional]. </b>
+    - dictionary comprehension:  <b> {new_key:new_value for item in list} </b>
+    - dictionary comprehension: <b> {new_key:new_value for (key,value) in dict.items()} </b>
+    - conditional dictionary comprehension: <b> {new_key:new_value for (key,value) in dict.items() if test} </b>
+ - Pandas
+   - Usefully for dataframes: [DataFrame.iterrows()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iterrows.html)
+     - <b>for (index, row) in data_frame.iterrows():</b>
+
+
+The end Project is [USA States Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day26)
+
 ### R1D25
 
 Day25 - Working with csv files and analysing Data with Pandas
