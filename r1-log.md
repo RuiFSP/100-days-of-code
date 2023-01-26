@@ -30,7 +30,7 @@ Day26 - List and Dictionary Comprehensions
      - <b>for (index, row) in data_frame.iterrows():</b>
 
 
-The end Project is [USA States Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day26)
+The end Project is [NATO Alphabet](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day26)
 
 ### R1D25
 
