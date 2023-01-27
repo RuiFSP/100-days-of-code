@@ -16,8 +16,45 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D27
+
+Day27 - Graphical User Interfaces (GUI) with Tkinter and function Arguments
+ - [Tkinter](https://docs.python.org/3/library/tkinter.html)
+   - The packer is one of Tk’s geometry-management mechanisms - [Packer](https://docs.python.org/3/library/tkinter.html#the-packer) 
+   - Tk Commands [Tk commads](https://tcl.tk/man/tcl8.6/TkCmd/contents.htm)
+   - Tk widgets: Labels, Buttons, Entry, Radiobutton, Scale, Checkbutton, Spinbox, Listbox 
+   - Tk layout managers: pack(), place() and grid() 
+   - Setting Options [Options control](https://docs.python.org/3/library/tkinter.html#setting-options)
+     - At object creation time, using keyword arguments
+       ```
+            fred = Button(self, fg="red", bg="blue")
+       ```
+     - After object creation, treating the option name like a dictionary index
+       ```
+          fred["fg"] = "red"
+          fred["bg"] = "blue"
+       ```
+     - Use the config() method to update multiple attrs subsequent to object creation
+       ```
+          fred.config(fg="red", bg="blue")
+       ```
+ - Advanced Python Arguments
+   - Arguments with default values <b>def my_function(a=1, b=2, c=3)</b>
+   - Unlimited Positional Arguments <b>def add(*args)</b>
+     - important part is the <b>*args</b>
+       - add (1,2)
+       - creates a tuple ( 1, 2)
+   - Many Keyword Arguments <b> def calculate(**kwargs) </b>
+     - important part is the <b>**kwargs</b>
+       - calculate(add=3, multiply=5)
+       - creates a dict {'add': 3, 'multiply': 5}
+
+
+The end Project is [Mile Converter](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day27)
+
 
 ### R1D26
+
 Day26 - List and Dictionary Comprehensions
  - Python sequences - list, range, string, tuple
     - list comprehension: <b>[item-expression for item in iterator] or [x for x in iterator]  </b> 
