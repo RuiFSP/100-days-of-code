@@ -26,12 +26,12 @@ Day28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
  - Python Strongly Dynamic Typed
    - https://stackoverflow.com/questions/11328920/is-python-strongly-typed
  - Make and executable file for our application
-   - pyinstaller: pip install pyinstaller
+   - pyinstaller: ```pip install pyinstaller```
    - build in everything in one file: 
    ```pyinstaller --onefile -w .\<application name>.py```
      - video: [How to Convert any Python File to .EXE](https://www.youtube.com/watch?v=UZX5kH72Yx4)
  - Install sounds
-   - playsound: pip install playsound
+   - playsound: ```pip install playsound```
    - add you .mp3 or .wav file
 
 
