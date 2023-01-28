@@ -18,6 +18,28 @@ My working IDE
 
 ### R1D27
 
+Day28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+ - [Tkinter](https://docs.python.org/3/library/tkinter.html)
+   - [Canvas Widge](https://tcl.tk/man/tcl8.6/TkCmd/canvas.htm) - Create and manipulate 'canvas' hyper graphics drawing surface widgets
+   - [Tel commands](https://tcl.tk/man/tcl8.6/TclCmd/contents.htm)
+     - [window.after()](https://tcl.tk/man/tcl8.6/TclCmd/after.htm) - execute a command after a time delay
+ - Python Strongly Dynamic Typed
+   - https://stackoverflow.com/questions/11328920/is-python-strongly-typed
+ - Make and executable file for our application
+   - pyinstaller: pip install pyinstaller
+   - build in everything in one file: 
+   ```pyinstaller --onefile -w .\<application name>.py```
+     - video: [How to Convert any Python File to .EXE](https://www.youtube.com/watch?v=UZX5kH72Yx4)
+ - Install sounds
+   - playsound: pip install playsound
+   - add you .mp3 or .wav file
+
+
+The end Project is [Pomodoro Timer](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day28)
+
+   
+### R1D27
+
 Day27 - Graphical User Interfaces (GUI) with Tkinter and function Arguments
  - [Tkinter](https://docs.python.org/3/library/tkinter.html)
    - The packer is one of Tk’s geometry-management mechanisms - [Packer](https://docs.python.org/3/library/tkinter.html#the-packer) 
