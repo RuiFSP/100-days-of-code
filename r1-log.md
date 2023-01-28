@@ -16,7 +16,7 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-### R1D28
+### R1D28 --------------------------------------------------------------------------------
 
 Day28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
  - [Tkinter](https://docs.python.org/3/library/tkinter.html)
@@ -38,7 +38,7 @@ Day28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
 The end Project is [Pomodoro Timer](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day28)
 
    
-### R1D27
+### R1D27 --------------------------------------------------------------------------------
 
 Day27 - Graphical User Interfaces (GUI) with Tkinter and function Arguments
  - [Tkinter](https://docs.python.org/3/library/tkinter.html)
@@ -75,7 +75,7 @@ Day27 - Graphical User Interfaces (GUI) with Tkinter and function Arguments
 The end Project is [Mile Converter](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day27)
 
 
-### R1D26
+### R1D26 --------------------------------------------------------------------------------
 
 Day26 - List and Dictionary Comprehensions
  - Python sequences - list, range, string, tuple
@@ -91,7 +91,7 @@ Day26 - List and Dictionary Comprehensions
 
 The end Project is [NATO Alphabet](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day26)
 
-### R1D25
+### R1D25 --------------------------------------------------------------------------------
 
 Day25 - Working with csv files and analysing Data with Pandas
  - Reading csv files with Python - differences between different methods
@@ -107,7 +107,7 @@ Day25 - Working with csv files and analysing Data with Pandas
 
 The end Project is [USA States Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day25)
 
-### R1D24
+### R1D24 --------------------------------------------------------------------------------
 
 Day24 - Mail merger example to read, write files
  - refactoring snake game
@@ -123,7 +123,7 @@ Day24 - Mail merger example to read, write files
 
 The end Project is [Mail Merger](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day24)
 
-### R1D23
+### R1D23 --------------------------------------------------------------------------------
 
 Day23 - Capstone Project - Turtle Crossing
  - Decomposing the problem:
@@ -136,7 +136,7 @@ Day23 - Capstone Project - Turtle Crossing
 
 The end Project is [Turtle Crossing](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day23)
 
-### R1D22
+### R1D22 --------------------------------------------------------------------------------
 
 Day22 - Building the famous game - Pong
  - Decomposing the problem:
@@ -151,7 +151,7 @@ Day22 - Building the famous game - Pong
 
 The end Project is [Pong Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day22)
 
-### R1D21
+### R1D21 --------------------------------------------------------------------------------
 
 Day21 - Finished Snake Game Part-2/2
   - Step4: detect collision with food
@@ -166,7 +166,7 @@ Day21 - Finished Snake Game Part-2/2
 
 The end Project is [Snake - Part 2/2](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day21)
 
-### R1D20
+### R1D20 --------------------------------------------------------------------------------
 
 Day20 - Started working on Snake Game Part-1/2
   - Step1: create a snake body
@@ -177,7 +177,7 @@ Day20 - Started working on Snake Game Part-1/2
 
 The end Project is [Snake - Part 1/2](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day20)
 
-### R1D19
+### R1D19 --------------------------------------------------------------------------------
 
 Day19 - Instances, State and Higher Order functions
   - More on Turtle Graphics: https://docs.python.org/3/library/turtle.html
@@ -191,7 +191,7 @@ Day19 - Instances, State and Higher Order functions
 
 The end Project is [Turtle Race](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day19)
 
-### R1D18 
+### R1D18 -------------------------------------------------------------------------------- 
 
 Day 18 - Turtle library and The Graphical User Interface
   - Using Turtle Graphics: https://docs.python.org/3/library/turtle.html
@@ -207,7 +207,7 @@ Day 18 - Turtle library and The Graphical User Interface
 
 The end Project is [The Hirst Painting](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day18)
 
-### R1D17 
+### R1D17 -------------------------------------------------------------------------------- 
 
 Day 17 - OOP - Creating Classes
   - Class names convention is to use PascalCase
@@ -217,7 +217,7 @@ Day 17 - OOP - Creating Classes
 
 The end Project is [The Quiz](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day17)
 
-### R1D16
+### R1D16 --------------------------------------------------------------------------------
 
 Day16 - Object-Oriented-Programming
   - Procedural programming (First programming paradigm) - past examples
@@ -230,7 +230,7 @@ Day16 - Object-Oriented-Programming
 
 The end Project is [OOP Coffee Machine](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day16)
 
-### R1D15
+### R1D15 --------------------------------------------------------------------------------
 
 Day15 - Local Development environment and project coffee machine
   - Setup local environment: Python + Pycharm
@@ -250,7 +250,7 @@ Day15 - Local Development environment and project coffee machine
 
 The end Project is [Coffee Machine](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day15)
 
-### R1D14
+### R1D14 --------------------------------------------------------------------------------
 
 Day14 - Final project for beginner section
 - Steps:
@@ -263,7 +263,7 @@ Day14 - Final project for beginner section
 
 The end Project is [Higher Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day14)
 
-### R1D13
+### R1D13 --------------------------------------------------------------------------------
 
 Day13 - Debugging 😀
 1) Describe problem (example)
@@ -303,7 +303,7 @@ Today there was no final project, but took the opportunity to do a smaller proje
 
 The end Project is [Countdown Timer](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day13)
 
-### R1D12
+### R1D12 --------------------------------------------------------------------------------
 
 Day12 - Scope
    - Namespaces - local vs global
@@ -322,7 +322,7 @@ Day12 - Scope
 
 The end Project is [Guessing Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day12)
 
-### R1D11
+### R1D11 --------------------------------------------------------------------------------
 
 Day11 - The Blackjack Capstone Project
    - The project was a recap and practical approach of all the concepts learn in previous days 😀
@@ -330,7 +330,7 @@ Day11 - The Blackjack Capstone Project
 
 The end Project is [Blackjack](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day11)
 
-### R1D10 
+### R1D10 -------------------------------------------------------------------------------- 
 
 Day10 - Functions with outputs
    - Multiple return values
@@ -342,7 +342,7 @@ Day10 - Functions with outputs
 
 The end Project is [Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day10)
 
-### R1D9
+### R1D9 --------------------------------------------------------------------------------
 
 Day9 - Dictionaries and Nesting
    - Dictionaries -> <b>{Key: Value}</b>
@@ -350,7 +350,7 @@ Day9 - Dictionaries and Nesting
 
 The end Project is [Secret Action](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day9)
 
-### R1D8
+### R1D8 --------------------------------------------------------------------------------
 
 Day8 - Functions with inputs
    - Example: <b> def my_function(something):</b>
@@ -359,7 +359,7 @@ Day8 - Functions with inputs
 
 The end project is [Caeser Cipher](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day8)
 
-### R1D7
+### R1D7 --------------------------------------------------------------------------------
 
 Day7 - Dedicated to revisions of past knowledge with a bigger project
    - Flow Chart Programming: https://app.diagrams.net/
@@ -371,7 +371,7 @@ Day7 - Dedicated to revisions of past knowledge with a bigger project
 
 The end project is [HangMan](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day7)
 
-### R1D6
+### R1D6 --------------------------------------------------------------------------------
 
 Day6 - Functions, Code Blocks and While Loops
    - Built-in functions: https://docs.python.org/3/library/functions.html
@@ -380,7 +380,7 @@ Day6 - Functions, Code Blocks and While Loops
    - Style guide - PEP8: https://peps.python.org/pep-0008/
    - Python practice and project from: https://reeborg.ca/index_en.html
 
-### R1D5
+### R1D5 --------------------------------------------------------------------------------
 
 Day5 - Python Loops, Range and Code Blocks
    - for loop, for loop with range
@@ -388,7 +388,7 @@ Day5 - Python Loops, Range and Code Blocks
 
 The end project is [Password Generator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day5)
 
-### R1D4
+### R1D4 --------------------------------------------------------------------------------
 
 Day4 - Randomization and Python Lists
  - import random (.randInt,.random)
@@ -399,7 +399,7 @@ Day4 - Randomization and Python Lists
 
 The end project is [Rock Paper Scissors](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day4)
 
-### R1D3
+### R1D3 --------------------------------------------------------------------------------
 
 Day3 - Revision about Control Flow and Logical Operators
  - importance of indentation
@@ -408,13 +408,13 @@ Day3 - Revision about Control Flow and Logical Operators
 
 The end project is [Treasure Island](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day3)
 
-### R1D2
+### R1D2 --------------------------------------------------------------------------------
 
 Day2 - Revision about understanding types and how to manipulate strings.
 
 The end project is [Tip Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day2)
 
-### R1D1
+### R1D1 --------------------------------------------------------------------------------
 
 Day1 - Revision about variables and how to manage data.
  - print, inputs
