@@ -16,11 +16,11 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-### R1D27
+### R1D28
 
 Day28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
  - [Tkinter](https://docs.python.org/3/library/tkinter.html)
-   - [Canvas Widge](https://tcl.tk/man/tcl8.6/TkCmd/canvas.htm) - Create and manipulate 'canvas' hyper graphics drawing surface widgets
+   - [Canvas Widget](https://tcl.tk/man/tcl8.6/TkCmd/canvas.htm) - Create and manipulate 'canvas' hyper graphics drawing surface widgets
    - [Tel commands](https://tcl.tk/man/tcl8.6/TclCmd/contents.htm)
      - [window.after()](https://tcl.tk/man/tcl8.6/TclCmd/after.htm) - execute a command after a time delay
  - Python Strongly Dynamic Typed
