@@ -23,6 +23,7 @@ Day29 - Building a Password Manager GUI App with Tkinter
    - support from: [Tkinter tutorial](https://tkdocs.com/tutorial/canvas.html)
  - used python join method: https://www.w3schools.com/python/ref_string_join.asp
  - cool package to immediately copy stuff to clipboard: https://pypi.org/project/pyperclip/
+ - messages boxes for popups:  https://docs.python.org/3/library/tkinter.messagebox.html
 
 The end Project is [Password Manager](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day29)
 
