@@ -1,4 +1,4 @@
-from tkinter import Tk, Button, Entry, Text, Spinbox, Scale, IntVar, Checkbutton, END, Radiobutton
+from tkinter import Tk, Button, Entry, Text, Spinbox, Scale, IntVar, Checkbutton, END, Radiobutton, Label, Listbox
 
 # Creating a new window and configurations
 window = Tk()

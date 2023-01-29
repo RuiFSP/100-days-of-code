@@ -16,6 +16,17 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D29 --------------------------------------------------------------------------------
+
+Day29 - Building a Password Manager GUI App with Tkinter
+ - Working with Tkinter  :
+   - support from: [Tkinter tutorial](https://tkdocs.com/tutorial/canvas.html)
+ - used python join method: https://www.w3schools.com/python/ref_string_join.asp
+ - cool package to immediately copy stuff to clipboard: https://pypi.org/project/pyperclip/
+
+The end Project is [Password Manager](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day29)
+
+
 ### R1D28 --------------------------------------------------------------------------------
 
 Day28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
@@ -43,10 +54,10 @@ The end Project is [Pomodoro Timer](https://github.com/RuiFSP/100-days-of-code/t
 Day27 - Graphical User Interfaces (GUI) with Tkinter and function Arguments
  - [Tkinter](https://docs.python.org/3/library/tkinter.html)
    - The packer is one of Tk’s geometry-management mechanisms - [Packer](https://docs.python.org/3/library/tkinter.html#the-packer) 
-   - Tk Commands [Tk commads](https://tcl.tk/man/tcl8.6/TkCmd/contents.htm)
+   - [Tk commands](https://tcl.tk/man/tcl8.6/TkCmd/contents.htm)
    - Tk widgets: Labels, Buttons, Entry, Radiobutton, Scale, Checkbutton, Spinbox, Listbox 
    - Tk layout managers: pack(), place() and grid() 
-   - Setting Options [Options control](https://docs.python.org/3/library/tkinter.html#setting-options)
+   - Setting [Options control](https://docs.python.org/3/library/tkinter.html#setting-options)
      - At object creation time, using keyword arguments
        ```
             fred = Button(self, fg="red", bg="blue")
@@ -56,7 +67,7 @@ Day27 - Graphical User Interfaces (GUI) with Tkinter and function Arguments
           fred["fg"] = "red"
           fred["bg"] = "blue"
        ```
-     - Use the config() method to update multiple attrs subsequent to object creation
+     - Use the config() method to update multiple attributes after object creation
        ```
           fred.config(fg="red", bg="blue")
        ```
