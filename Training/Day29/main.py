@@ -1,4 +1,4 @@
-from tkinter import Label
+from tkinter import Label, Tk
 
 window = Tk()
 
@@ -10,6 +10,5 @@ g.grid(row=1, column=1)
 
 b = Label(bg="blue", width=40, height=5)
 b.grid(row=2, column=0, columnspan=2)
-
 
 window.mainloop()
