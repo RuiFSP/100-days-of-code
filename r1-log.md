@@ -16,6 +16,51 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+
+### R1D29 --------------------------------------------------------------------------------
+
+Day30 - Errors, Exceptions and JSON data. Improving Password Manager
+ - [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html#)
+ - Errors
+   - KeyError: 'non_existing_key'
+   - IndexError: list index out of range
+   - TypeError: can only concatenate str (not "int") to str
+   - FileNotFoundError: No such file or directory: 'example.txt'
+ - Error Handling and Executions
+   - try/except/else/finally
+ - Raise Exception
+   - raise keyword
+ - Write, read and update JSON data (better format to store data) 
+   - json - javascript object notation
+     - library: [json](https://docs.python.org/3/library/json.html)
+       - write: json.dump()
+         - indent() -makes the json file more readable to humans
+         ```  
+              with open(file="data.json", mode="r") as data_file:
+                json.dump(new_data, fp=data_file, indent=4)
+         ```
+       - read: json.load()
+         ```  
+              with open(file="data.json", mode="w") as data_file:
+                data = json.load(fp=data_file)
+                print(data)
+         ```
+       - json.update()
+         ```  
+            with open(file="data.json", mode="r") as data_file:
+                # Reading old data
+                data = json.load(fp=data_file)
+                # Updating old data with enw data
+                data.update(new_data)
+            with open(file="data.json", mode="w") as data_file:
+                # Saving updated data
+                json.dump(data, fp=data_file, indent=4)
+         ```
+
+The end Project is [Improved Password Manager](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day30)
+
+
+
 ### R1D29 --------------------------------------------------------------------------------
 
 Day29 - Building a Password Manager GUI App with Tkinter
