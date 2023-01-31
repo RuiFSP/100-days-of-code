@@ -17,7 +17,20 @@ My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
 
-### R1D29 --------------------------------------------------------------------------------
+### R1D30 --------------------------------------------------------------------------------
+Day31 - Capstone Project -  Flash Card App
+ - Create a Flash Card to study french words
+ - Information for this project:
+   - Wiki [Frequency_lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)
+   - GitHug [Frequency words](https://github.com/hermitdave/FrequencyWords/tree/master/content/2018)
+   - Google sheets to translate words
+     - Google [Function Translate](https://support.google.com/docs/answer/3093331?hl=en-GB
+     - Google [Language support](https://cloud.google.com/translate/docs/languages?hl=en)
+   - Pandas [convert DataFrame to Dictionary](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_dict.html) 
+
+The end Project is [Flash Card App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day31)
+
+### R1D30 --------------------------------------------------------------------------------
 
 Day30 - Errors, Exceptions and JSON data. Improving Password Manager
  - [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html#)
