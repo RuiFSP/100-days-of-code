@@ -17,9 +17,65 @@ My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
 
-### R1D30 --------------------------------------------------------------------------------
+### R1D32 --------------------------------------------------------------------------------
+
+Day32 - Send email and Manage Dates
+ - SMTP Protocol Client: [Simple Mail Transfer Protocol](https://docs.python.org/3/library/smtplib.html)
+    ```
+   import smtplib
+
+    from_email = "your_email@gmail.com"
+    to_email = "another_email@gmail.com"
+    password = "your_password"
+    
+    with smtplib.SMTP("smtp.gmail.com") as connection:
+        connection.starttls()
+        connection.login(user=from_email, password=password)
+        connection.sendmail(
+            from_addr=from_email,
+            to_addrs=to_email,
+            msg="Subject:Hello\n\nThis is the body of my email"
+        )
+   ```
+   - gmail needs permissions to less secure aps:
+     - get 2F-authentication
+     - get password for other applications
+       - select: other applications
+       - name it: "your application name"
+   
+ - Date time Module [datetime](https://docs.python.org/3/library/datetime.html)
+    
+   ```
+   import datetime as dt
+
+    # current date and time as a datetime object
+    now = dt.datetime.now()
+    print(now)  # not useful -> 2023-02-01 10:04:35.478033
+    
+    year = now.year
+    print(year)
+    print(type(year))  # this is an int
+    
+    month = now.month
+    print(month)
+    print(type(month))  # this is an int
+    
+    
+    # create a datetime object
+    
+    date_of_birth = dt.datetime(year=1969, month=2, day=13)
+    print(date_of_birth)
+
+   ```
+ - run python code in Cloud [Python Anywhere](https://www.pythonanywhere.com/)  
+ 
+
+The end Project is [Automated Birthday Wisher](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day32)
+
+### R1D31 --------------------------------------------------------------------------------
+
 Day31 - Capstone Project -  Flash Card App
- - Create a Flash Card to study french words
+ - Create a Flash Card to study French words
  - Information for this project:
    - Wiki [Frequency_lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)
    - GitHug [Frequency words](https://github.com/hermitdave/FrequencyWords/tree/master/content/2018)

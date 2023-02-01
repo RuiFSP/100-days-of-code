@@ -1,5 +1,4 @@
 import turtle
-
 import pandas
 import pandas as pd
 from board_data import BoardData
