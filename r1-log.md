@@ -17,6 +17,27 @@ My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
 
+### R1D33 --------------------------------------------------------------------------------
+
+Day33 - API endpoints & API Parameters - ISS Overhead Notifier
+ - API - Application Programming Interfaces [WIKI](https://en.wikipedia.org/wiki/API)
+    - A set of commands, functions, protocols and objects that programmers can use to create software or 
+    - interact with an external system
+    - Understand API Endpoint, API Request, API Parameters
+    - Utilities 
+      - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related)
+      - [Requests Library](https://pypi.org/project/requests/)
+        - Documentation [DOCS](https://docs.python-requests.org/en/latest/)
+      - [HTTP Status Codes Glossary](https://www.webfx.com/web-development/glossary/http-status-codes/)
+ 
+ - Example of APIs
+   - Sunset and sunrise times API - [API](https://sunrise-sunset.org/api)  
+   - Kanye API - [API](https://kanye.rest/)
+   - ISS API - [API](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)  
+     - WIKI [International Space Station](https://en.wikipedia.org/wiki/International_Space_Station)
+ 
+The end Project is [ISS Overhead Notifier](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day33)
+
 ### R1D32 --------------------------------------------------------------------------------
 
 Day32 - Send email and Manage Dates
