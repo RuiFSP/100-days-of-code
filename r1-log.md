@@ -17,6 +17,48 @@ My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
 
+### R1D34 --------------------------------------------------------------------------------
+
+Day34 - The Trivia API and The Quizzler App
+ - API we are going to use [Trivia API](https://opentdb.com/)
+   - revision:
+     - Everything after "?" and parameters for the API
+       ```
+       import requests
+
+        parameters = {
+            "amount": 10,
+            "type": "boolean",
+        }
+        
+        response = requests.get("https://opentdb.com/api.php", params=parameters)
+        response.raise_for_status()
+        
+        question_data = response.json()['results']
+       ```
+  - Reserved characters in HTML must be replaced with character entities.
+    - HTML [HTML Entities](https://www.w3schools.com/html/html_entities.asp)
+    - Manual tool to do conversion [FREEFORMATER](https://www.freeformatter.com/html-escape.html)
+    - library tool do decode HTML entities in Python string
+      - Decode HTML entities: https://stackoverflow.com/questions/2087370/decode-html-entities-in-python-string
+      ```
+        import html
+      
+        <variable_to_save> = html.unescape(<text_to_decode>)
+
+      ```
+  - Python Typing [Python Typing](https://docs.python.org/3/library/typing.html)
+      - age: int
+      - name: str
+      - height: float
+      - is_human: bool
+    ```
+    def greeting(name: str) -> str:
+    return f"Hello + {name}"
+    ```
+
+The end Project is [Trivia APP](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day34)
+
 ### R1D33 --------------------------------------------------------------------------------
 
 Day33 - API endpoints & API Parameters - ISS Overhead Notifier
