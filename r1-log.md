@@ -16,10 +16,40 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D35 --------------------------------------------------------------------------------
+
+Day35 - API Keys, Authentication & Environment Variables: Send SMS
+ - API - Signup to [Open Weather](https://home.openweathermap.org/users/sign_up)
+ - API Key - personal access to the API
+ - Account creation
+   - for automation tasks: [Python everywhere](https://www.pythonanywhere.com/)
+   - for sms service: [Twilio](https://www.twilio.com/)
+    - we will need account_sid and auth_token for our application
+
+ - Setting environments variables
+   - More protection for public files and avoid hardcoded sensible data
+     ```
+      import os
+   
+      #enviroment variables
+
+      account_sid = os.environ.get("ACCOUNT_ID")  # TWILIO_ACCOUNT_SID
+      auth_token = os.environ.get("AUTH_TOKEN") # TWILIO_ACCOUNT_TOKEN
+      API_KEY = os.environ.get("API_KEY") #OPEN_WEATHER_KEY
+    
+      manual setup on terminal
+   
+      export API_KEY=number_and_letters
+      export AUTH_TOKEN=number_and_letters
+
+     ```
+   - add variables in Pycharm - [wiki](https://www.jetbrains.com/help/objc/add-environment-variables-and-program-arguments.html)
+
+The end Project is [Rain Alert](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day35)
 
 ### R1D34 --------------------------------------------------------------------------------
 
-Day34 - The Trivia API and The Quizzler App
+Day34 - The Trivia API and The Quizz Mania App
  - API we are going to use [Trivia API](https://opentdb.com/)
    - revision:
      - Everything after "?" and parameters for the API
@@ -57,7 +87,7 @@ Day34 - The Trivia API and The Quizzler App
     return f"Hello + {name}"
     ```
 
-The end Project is [Trivia APP](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day34)
+The end Project is [Trivia APP Update](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day34)
 
 ### R1D33 --------------------------------------------------------------------------------
 
@@ -71,6 +101,7 @@ Day33 - API endpoints & API Parameters - ISS Overhead Notifier
       - [Requests Library](https://pypi.org/project/requests/)
         - Documentation [DOCS](https://docs.python-requests.org/en/latest/)
       - [HTTP Status Codes Glossary](https://www.webfx.com/web-development/glossary/http-status-codes/)
+      - [Geographic Tools](https://www.latlong.net/geo-tools)
  
  - Example of APIs
    - Sunset and sunrise times API - [API](https://sunrise-sunset.org/api)  
