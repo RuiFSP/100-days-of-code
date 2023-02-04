@@ -45,11 +45,6 @@ resp2 = requests.get(url=OWM_Endpoint, params=paras2)
 resp2.raise_for_status()
 data2 = resp2.json()
 
-# Checking data
-# example_timestamp = data2["list"][0]["dt"]  # 2023-02-04T15:00:00.000Z
-# my_date1 = data2["list"][0]["dt"]  # 1675522800
-# my_weather_condition_code = data2["list"][0]["weather"][0]["id"]  # 800
-
 my_list_of_dicts = []
 
 for forecast in data2["list"]:
