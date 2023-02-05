@@ -16,6 +16,19 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D36 --------------------------------------------------------------------------------
+
+Day36 - Stock New Monitoring Project
+ - Alpha Vantage provides enterprise-grade financial market data through a set of powerful and developer-friendly data APIs and spreadsheets. From traditional asset classes (e.g., stocks, ETFs, mutual funds) to economic indicators, from foreign exchange rates to commodities, from fundamental data to technical indicators, Alpha Vantage is your one-stop-shop for real-time and historical global market data delivered through cloud-based APIs, Excel, and Google Sheets 
+   - [Stock Price API](https://www.alphavantage.co/)
+ - Locate articles and breaking news headlines from news sources and blogs across the web with our JSON API 
+   - [News API](https://newsapi.org/)
+ - Twilio makes sending and receiving SMS easy. Find the documentation, sample code, and developer tools you need to build exactly what you want, fast. We’ll handle the complexity of mobile carrier and global regulations. Let’s get building
+   - [Twilio API](https://www.twilio.com/docs/sms)
+
+
+The end Project is [Stock New Monitoring Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day36)
+
 ### R1D35 --------------------------------------------------------------------------------
 
 Day35 - API Keys, Authentication & Environment Variables: Send SMS
