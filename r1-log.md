@@ -27,7 +27,7 @@ Day36 - Stock New Monitoring Project
    - [Twilio API](https://www.twilio.com/docs/sms)
 
 
-The end Project is [Stock New Monitoring Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day36)
+The end Project is [Stock News Monitoring Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day36)
 
 ### R1D35 --------------------------------------------------------------------------------
 
