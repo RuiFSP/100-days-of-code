@@ -16,6 +16,28 @@ All my projects and training exercises will be separated by day
 My working IDE
    - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D37 --------------------------------------------------------------------------------
+
+Day37 - Advanced Authentication and POST/ PUT / DELETE Requests
+ - Record and Track your habits or effort by API
+  -  [PIXELA](https://docs.pixe.la/)
+ - This part of the documentation covers all the interfaces of Requests. For parts where Requests depends on external libraries, we document the most important right here and provide links to the canonical documentation
+   - GET/POST/PUT/DELETE
+   - [requests](https://requests.readthedocs.io/en/latest/api/)
+ - Advanced Authentication using HTTP Header
+ - A date in Python is not a data type of its own, but we can import a module named datetime to work with dates as date objects
+  - [Python Datetime](https://www.w3schools.com/python/python_datetime.asp)  
+  - The strftime() Method - The datetime object has a method for formatting date objects into readable strings.
+  ```
+    import datetime
+    x = datetime.datetime(2018, 6, 1)
+    print(x.strftime("%B")) 
+  ```
+ 
+The end Project is [Habit Tracker](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day37)
+
+
+
 ### R1D36 --------------------------------------------------------------------------------
 
 Day36 - Stock New Monitoring Project
