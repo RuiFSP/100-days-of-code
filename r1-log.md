@@ -29,7 +29,7 @@ Day40 - Capstone Part2: Flight Deal Finder
     - Tequila [API](https://tequila.kiwi.com/portal/login)
 - Google Sheets to read/save data [Google Sheets](https://www.google.com/sheets/about/)
 
-The end Project is [Flight Deal Finder](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day34)
+The end Project is [Flight Deal Finder](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day40)
 
 ### R1D39 --------------------------------------------------------------------------------
 
