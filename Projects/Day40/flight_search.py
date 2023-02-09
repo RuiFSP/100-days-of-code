@@ -45,7 +45,7 @@ class FlightSearch:
         try:
             data = response.json()["data"][0]
         except IndexError:
-            query["max_stopovers"] = 3
+            query["max_stopovers"] = 1
             response = requests.get(
                 url=f"{TEQUILA_ENDPOINT}/v2/search",
                 headers=headers,
