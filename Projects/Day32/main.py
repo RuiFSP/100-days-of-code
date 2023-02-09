@@ -2,9 +2,10 @@ import datetime as dt
 import pandas as pd
 import random
 import smtplib
+import os
 
-MY_EMAIL = "my_email@gmail.com"
-MY_PASSWORD = "my_password"
+MY_EMAIL = os.environ["MY_EMAIL"]
+MY_PASSWORD = os.environ["MY_PASSWORD"]
 date_now = dt.datetime.now()
 month_of_birthday = date_now.month
 day_of_birthday = date_now.day

@@ -19,6 +19,18 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D40 --------------------------------------------------------------------------------
+
+Day40 - Capstone Part2: Flight Deal Finder
+
+- APIs used:
+    - Sheety [API](https://sheety.co/)
+    - Twilio [API](https://www.twilio.com/)
+    - Tequila [API](https://tequila.kiwi.com/portal/login)
+- Google Sheets to read/save data [Google Sheets](https://www.google.com/sheets/about/)
+
+The end Project is [Flight Deal Finder](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day34)
+
 ### R1D39 --------------------------------------------------------------------------------
 
 Day39 - Capstone Part1: Flight Deal Finder
