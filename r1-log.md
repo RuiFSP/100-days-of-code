@@ -19,6 +19,18 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D41 --------------------------------------------------------------------------------
+
+Day41 - Web Foundation - Introduction HTML
+
+- The Submarine Cable [Map](The Submarine Cable Map)
+- Website:
+    - HTML - structure of website
+    - CSS - styling the website
+    - Javascript - behaviour and functionality - do stuff
+
+The end Project is [Flight Deal Finder](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day41)
+
 ### R1D40 --------------------------------------------------------------------------------
 
 Day40 - Capstone Part2: Flight Deal Finder
