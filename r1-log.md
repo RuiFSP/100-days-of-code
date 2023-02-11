@@ -23,26 +23,25 @@ My working IDE
 
 Day42 - Web Foundation - Intermediate HTML
 
-
 - Website:
     - HTML - structure of website
-    - CSS - styling the website
-    - Javascript - behaviour and functionality - do stuff
+        - [Tables](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
+        - [Forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+        - [Inputs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+        - [Github Pages](https://pages.github.com/)
 
-The end Project is [Flight Deal Finder](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day42)
-
+The end Project is [Html Personal page example](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day42)
 
 ### R1D41 --------------------------------------------------------------------------------
 
 Day41 - Web Foundation - Introduction HTML
 
-- The Submarine Cable [Map](The Submarine Cable Map)
 - Website:
     - HTML - structure of website
     - CSS - styling the website
     - Javascript - behaviour and functionality - do stuff
 
-The end Project is [Html Practice](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day41)
+The end Project is [Revisions](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day41)
 
 ### R1D40 --------------------------------------------------------------------------------
 
