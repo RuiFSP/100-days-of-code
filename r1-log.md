@@ -19,6 +19,19 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D42 --------------------------------------------------------------------------------
+
+Day42 - Web Foundation - Intermediate HTML
+
+
+- Website:
+    - HTML - structure of website
+    - CSS - styling the website
+    - Javascript - behaviour and functionality - do stuff
+
+The end Project is [Flight Deal Finder](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day42)
+
+
 ### R1D41 --------------------------------------------------------------------------------
 
 Day41 - Web Foundation - Introduction HTML
@@ -29,7 +42,7 @@ Day41 - Web Foundation - Introduction HTML
     - CSS - styling the website
     - Javascript - behaviour and functionality - do stuff
 
-The end Project is [Flight Deal Finder](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day41)
+The end Project is [Html Practice](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day41)
 
 ### R1D40 --------------------------------------------------------------------------------
 
