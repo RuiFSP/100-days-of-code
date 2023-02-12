@@ -28,10 +28,10 @@ Day43 - Web Foundation - Introduction CSS
         - Priority goes for the most specific selector
         - Color Palettes - [Color hunt](https://colorhunt.co/)
             - Default CSS Default Values
-              References [css default](https://www.w3schools.com/cssref/css_default_values.php)
-            - background-color: [background-colo](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
-            - color: [color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
-            - hover: [hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
+              References [CSS default](https://www.w3schools.com/cssref/css_default_values.php)
+            - background-color: [Background-Color](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
+            - color: [Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+            - hover: [Hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
                 - Inlines CSS - inline the with
                 - Internal CSS - within html style
                 - External CSS - with a external css file
