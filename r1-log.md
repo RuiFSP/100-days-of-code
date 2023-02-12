@@ -19,6 +19,33 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D43 --------------------------------------------------------------------------------
+
+Day43 - Web Foundation - Introduction CSS
+
+- Website:
+    - CSS - Cascading Style Sheets
+        - Priority goes for the most specific selector
+        - Color Palettes - [Color hunt](https://colorhunt.co/)
+            - Default CSS Default Values
+              References [css default](https://www.w3schools.com/cssref/css_default_values.php)
+            - background-color: [background-colo](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
+            - color: [color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+            - hover: [hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
+                - Inlines CSS - inline the with
+                - Internal CSS - within html style
+                - External CSS - with a external css file
+        - Anatomy of CSS Syntax [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+          ```
+            style-rule ::=
+               selectors-list {
+                  properties-list
+               }
+  
+          ```
+
+The end Project is [HTML+CSS Personal](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day43)
+
 ### R1D42 --------------------------------------------------------------------------------
 
 Day42 - Web Foundation - Intermediate HTML
