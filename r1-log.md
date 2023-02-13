@@ -19,6 +19,48 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D44 --------------------------------------------------------------------------------
+
+Day44 - Web Foundation - Intermediate CSS
+
+- Website:
+    - Create a [favicon](https://www.favicon.cc/)
+    - Color palette [Color Hunt](https://colorhunt.co/)
+    - CSS - The Box Model (margin+border+padding+height+width)
+        - Common Block elements - use the entire width and can be configured
+            - Paragraphs(<p>)
+            - Headers(<h1> through <h6>)
+            - Divisions (<div>)
+            - Lists and list items (<ol>,<ul>, and <li>)
+            - forms(<form>)
+        - Common Inline elements - only uses the space it needs, width does not do anything
+            - Spans (<span>)
+            - Images(<img>)
+            - Anchors(<a>)
+        - Display: property sets an element's inner and outer display
+          types [display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+            - Display - Block, Inline, Inline-block, None
+        - Visibility: CSS property shows or hides an element without changing the layout of a
+          document [visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/visibility)
+        - CSS Static and Relative Positioning
+            - default
+                1) content is everything - even inline element are subject to the height of content
+                2) order comes from code - position top-down
+                3) children sits on parents - layers [z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)
+            - position - to change defaults [CSS-Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+                1) static (default) - The element is positioned according to the normal flow of the document
+                2) relative - The element is positioned according to the normal flow of the document, and then offset
+                   relative to itself based on the values of top, right, bottom, and left
+                3) absolute - relative to its parent position and affects the flow of document
+                4) fixed - The element is removed from the normal document flow, and no space is created for the element
+                   in the page layout - example for a nav bar we want to fix or sidebar
+        - Web Safe Fonts - CSS [Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php)
+        - Google Fonts - CSS [Fonts](https://fonts.google.com/)
+        - Text generator [Lorem ipsum](https://loremipsum.io/)
+        - Packs of Icons [Flaticon](https://www.flaticon.com/) 
+
+The end Project is [HTML+CSS Intermediate](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day44)
+
 ### R1D43 --------------------------------------------------------------------------------
 
 Day43 - Web Foundation - Introduction CSS
@@ -44,7 +86,7 @@ Day43 - Web Foundation - Introduction CSS
   
           ```
 
-The end Project is [HTML+CSS Personal](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day43)
+The end Project is [HTML+CSS Introduction](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day43)
 
 ### R1D42 --------------------------------------------------------------------------------
 
@@ -57,7 +99,7 @@ Day42 - Web Foundation - Intermediate HTML
         - [Inputs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
         - [Github Pages](https://pages.github.com/)
 
-The end Project is [Html Personal page example](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day42)
+The end Project is [HTML Intermediate](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day42)
 
 ### R1D41 --------------------------------------------------------------------------------
 
