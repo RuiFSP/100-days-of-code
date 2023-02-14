@@ -19,6 +19,14 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D45 --------------------------------------------------------------------------------
+
+Day45 - Web Scraping with Beautiful Soup
+
+- Documentation [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+The end Project is [Top 100 Movies](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day45)
+
 ### R1D44 --------------------------------------------------------------------------------
 
 Day44 - Web Foundation - Intermediate CSS
@@ -57,7 +65,7 @@ Day44 - Web Foundation - Intermediate CSS
         - Web Safe Fonts - CSS [Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php)
         - Google Fonts - CSS [Fonts](https://fonts.google.com/)
         - Text generator [Lorem ipsum](https://loremipsum.io/)
-        - Packs of Icons [Flaticon](https://www.flaticon.com/) 
+        - Packs of Icons [Flaticon](https://www.flaticon.com/)
 
 The end Project is [HTML+CSS Intermediate](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day44)
 
