@@ -19,6 +19,18 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D46 --------------------------------------------------------------------------------
+
+Day46 - Create a Spotify Playlist using a Musical Time machine
+
+- Documentation [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- Documentation [Spotify](https://spotipy.readthedocs.io/en/latest/)
+  - SignUp [Spotify SignUp](https://open.spotify.com/)
+  - Developer [Spotify Developer](https://developer.spotify.com/dashboard/)
+
+The end Project is [Musical Time Machine](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day46)
+
+
 ### R1D45 --------------------------------------------------------------------------------
 
 Day45 - Web Scraping with Beautiful Soup
