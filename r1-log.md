@@ -19,6 +19,21 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D47 --------------------------------------------------------------------------------
+
+Day47 - Amazon Price Tracker Project
+
+- check browser headers: [myhttpheader](http://myhttpheader.com/)
+    - Using headers with python [url](https://stackoverflow.com/questions/6260457/using-headers-with-the-python-requests-librarys-get-method)
+- modules:
+  - Requests: [HTTP for Humans](https://requests.readthedocs.io/en/latest/)
+  - SMTP protocol client: [smtplib](https://docs.python.org/3/library/smtplib.html)
+  - Beautiful soup: [bs4](https://beautiful-soup-4.readthedocs.io/en/latest/)
+
+
+The end Project is [Amazon Price Tracker](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day47)
+
+
 ### R1D46 --------------------------------------------------------------------------------
 
 Day46 - Create a Spotify Playlist using a Musical Time machine
