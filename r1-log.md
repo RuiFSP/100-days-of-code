@@ -19,20 +19,45 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D48 --------------------------------------------------------------------------------
+
+Day48 - Selenium Web Driver
+
+- ChromeDrive: [download](https://chromedriver.chromium.org/downloads)
+- SeleniumWebDriver : [docs](https://www.selenium.dev/documentation/webdriver/)
+
+    - Selenium closes after it opens [link](https://stackoverflow.com/questions/73743866/selenium-closes-after-it-opens)
+    ```
+    from selenium import webdriver
+    from selenium.webdriver.chrome.service import Service
+    
+    op = webdriver.ChromeOptions()
+    op.add_experimental_option("detach", True)
+    chrome_drive_path = Service("c:\seleniumDrivers\chromedriver.exe")
+    driver = webdriver.Chrome(service=chrome_drive_path, options=op)
+
+    driver.get("https://www.amazon.com")  
+  
+    ```
+
+- troubleshoot articles:
+    - bypass language question [selenium cookie-clicker](https://stackoverflow.com/questions/72813898/i-am-not-able-to-bypass-language-question-in-cookieclicker-site-with-my-selenium)
+
+The end Project is [Cookie Clicker](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day48)
+
 ### R1D47 --------------------------------------------------------------------------------
 
 Day47 - Amazon Price Tracker Project
 
 - check browser headers: [myhttpheader](http://myhttpheader.com/)
-    - Using headers with python [url](https://stackoverflow.com/questions/6260457/using-headers-with-the-python-requests-librarys-get-method)
+    - Using headers with
+      python [url](https://stackoverflow.com/questions/6260457/using-headers-with-the-python-requests-librarys-get-method)
 - modules:
-  - Requests: [HTTP for Humans](https://requests.readthedocs.io/en/latest/)
-  - SMTP protocol client: [smtplib](https://docs.python.org/3/library/smtplib.html)
-  - Beautiful soup: [bs4](https://beautiful-soup-4.readthedocs.io/en/latest/)
-
+    - Requests: [HTTP for Humans](https://requests.readthedocs.io/en/latest/)
+    - SMTP protocol client: [smtplib](https://docs.python.org/3/library/smtplib.html)
+    - Beautiful soup: [bs4](https://beautiful-soup-4.readthedocs.io/en/latest/)
 
 The end Project is [Amazon Price Tracker](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day47)
-
 
 ### R1D46 --------------------------------------------------------------------------------
 
@@ -40,11 +65,10 @@ Day46 - Create a Spotify Playlist using a Musical Time machine
 
 - Documentation [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - Documentation [Spotify](https://spotipy.readthedocs.io/en/latest/)
-  - SignUp [Spotify SignUp](https://open.spotify.com/)
-  - Developer [Spotify Developer](https://developer.spotify.com/dashboard/)
+    - SignUp [Spotify SignUp](https://open.spotify.com/)
+    - Developer [Spotify Developer](https://developer.spotify.com/dashboard/)
 
 The end Project is [Musical Time Machine](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day46)
-
 
 ### R1D45 --------------------------------------------------------------------------------
 
