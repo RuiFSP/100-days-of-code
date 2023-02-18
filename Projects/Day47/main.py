@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
 # Use BeautifulSoup to Scrape the Product Price
 URL = os.getenv("URL")
 

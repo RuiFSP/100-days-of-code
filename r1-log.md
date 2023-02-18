@@ -19,6 +19,15 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D49 --------------------------------------------------------------------------------
+
+Day49 - Automated Job Application with Selenium
+
+- This problem is outdated, because of all linkedin verifications to prevent bots
+
+The end Project is [Job Application Linkedin](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day49)
+
+
 ### R1D48 --------------------------------------------------------------------------------
 
 Day48 - Selenium Web Driver
