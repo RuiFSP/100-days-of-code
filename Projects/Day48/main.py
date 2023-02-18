@@ -17,8 +17,8 @@ driver.find_element(By.CSS_SELECTOR, '#langSelect-EN').click()
 driver.implicitly_wait(10)
 
 time.sleep(5)
-time_out = time.time() + 60 * 10
-buy_time = time.time() + 30
+time_out = time.time() + 60 * 20
+buy_time = time.time() + 1
 
 cookie = driver.find_element(By.CSS_SELECTOR, '#bigCookie')
 
@@ -32,7 +32,7 @@ while time.time() < time_out:
             id_index = (len(unlocked_upgrades) - 1)
 
             buy_upgrade = driver.find_element(By.CSS_SELECTOR, f'#upgrade{id_index}.crate.upgrade.enabled')
-            print(f"Bought upgrade : {buy_upgrade.text}")
+            print(f"Bought upgrade")
             buy_upgrade.click()
 
         unlock_items_prices = driver.find_elements(By.CSS_SELECTOR, '.product.unlocked.enabled span.price')
@@ -44,7 +44,7 @@ while time.time() < time_out:
         print(f"Bought item : {buy_item.text}")
         buy_item.click()
 
-        buy_time = time.time() + 30
+        buy_time = time.time() + 10
 
 time.sleep(5)
 driver.get_screenshot_as_file("my_score.png")
