@@ -19,6 +19,23 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D50 --------------------------------------------------------------------------------
+
+Day50 - Auto Tinder Swiping Bot
+
+- Make tinder account [tinder](https://tinder.com/)
+- Connect using facebook [facebook](https://www.facebook.com/)
+- Selenium webdriver
+    - In Selenium, each window has a identification handle:
+      ```
+          driver.window_handles
+      ```
+    - Dealing with some exceptions - [Selenium Docs](https://www.selenium.dev/)
+        - NoSuchElementException
+        - ElementClickInterceptedException
+
+The end Project is [Auto Tinder Swiping Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day50)
+
 ### R1D49 --------------------------------------------------------------------------------
 
 Day49 - Automated Job Application with Selenium
@@ -26,7 +43,6 @@ Day49 - Automated Job Application with Selenium
 - This problem is outdated, because of all linkedin verifications to prevent bots
 
 The end Project is [Job Application Linkedin](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day49)
-
 
 ### R1D48 --------------------------------------------------------------------------------
 
@@ -50,7 +66,8 @@ Day48 - Selenium Web Driver
     ```
 
 - troubleshoot articles:
-    - bypass language question [selenium cookie-clicker](https://stackoverflow.com/questions/72813898/i-am-not-able-to-bypass-language-question-in-cookieclicker-site-with-my-selenium)
+    - bypass language
+      question [selenium cookie-clicker](https://stackoverflow.com/questions/72813898/i-am-not-able-to-bypass-language-question-in-cookieclicker-site-with-my-selenium)
 
 The end Project is [Cookie Clicker](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day48)
 
