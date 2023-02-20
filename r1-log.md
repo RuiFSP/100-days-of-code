@@ -19,6 +19,16 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D51 --------------------------------------------------------------------------------
+
+Day51 - Internet Speed Twitter Complain Bot
+
+- Make tinder account [twitter account](https://twitter.com/home)
+- Speedtest Site [speedtest](https://www.speedtest.net/)
+
+The end Project is [Twitter Complain Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day51)
+
+
 ### R1D50 --------------------------------------------------------------------------------
 
 Day50 - Auto Tinder Swiping Bot
