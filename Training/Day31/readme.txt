@@ -1,1 +1,0 @@
-Today, there was not any practice exercises, just Capstone Project

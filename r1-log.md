@@ -12,7 +12,6 @@ project at the end of each day.
 
 All my projects and training exercises will be separated by day
 
-- Training folder: [All Exercises](https://github.com/RuiFSP/100-days-of-code/tree/master/Training)
 - Project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
 
 My working IDE
