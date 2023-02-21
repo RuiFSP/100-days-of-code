@@ -18,6 +18,18 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D52 --------------------------------------------------------------------------------
+
+Day52 - Internet Follower Bot (careful you might get banned/restricted)
+
+- Instagram [link](https://www.instagram.com/accounts/login/)
+- Selenium Scroll inside of popup
+  div [Stackoverflow link](https://stackoverflow.com/questions/38041974/selenium-scroll-inside-of-popup-div)
+- ElementScrollTop [MDN link](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop)
+- ElementScrollHeight [MDN link](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollHeight)
+
+The end Project is [Instagram Follower Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day52)
+
 ### R1D51 --------------------------------------------------------------------------------
 
 Day51 - Internet Speed Twitter Complain Bot
@@ -26,7 +38,6 @@ Day51 - Internet Speed Twitter Complain Bot
 - Speedtest Site [speedtest](https://www.speedtest.net/)
 
 The end Project is [Twitter Complain Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day51)
-
 
 ### R1D50 --------------------------------------------------------------------------------
 

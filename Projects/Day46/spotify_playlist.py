@@ -40,11 +40,11 @@ songs_uris = []
 year = date.split("-")[0]
 for song in song_names:
     result = sp.search(q=f"track:{song} year:{year}", type="track")
-    # print(result)
+    #print(result)
     try:
         uri = result["tracks"]["items"][0]["uri"]
         songs_uris.append(uri)
-        # print(uri)
+        #print(uri)
     except IndexError:
         print(f"{song} doesn't exist in Spotify. Skipped.")
 
