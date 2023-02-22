@@ -22,12 +22,12 @@ My working IDE
 
 Day53 - Capstone Project - Data Entry Job
 
-- Scraping data from Zillow [stackoverflow link](https://stackoverflow.com/questions/69024599/scraping-data-from-zillow-com-using-beautifulsoup)
-- Usefull video [video youtube](https://www.youtube.com/watch?v=dRcvJRmqFHQ)
-- 
+- Scraping data from
+  Zillow [stackoverflow link](https://stackoverflow.com/questions/69024599/scraping-data-from-zillow-com-using-beautifulsoup)
+- Useful video [video youtube](https://www.youtube.com/watch?v=dRcvJRmqFHQ)
+-
+
 The end Project is [Instagram Follower Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day53)
-
-
 
 ### R1D52 --------------------------------------------------------------------------------
 
