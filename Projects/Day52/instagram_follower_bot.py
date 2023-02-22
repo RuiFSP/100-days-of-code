@@ -2,6 +2,7 @@ import os
 from random import choice
 from time import sleep
 
+
 from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.common import ElementClickInterceptedException
