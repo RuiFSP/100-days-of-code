@@ -18,6 +18,29 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D54 --------------------------------------------------------------------------------
+
+Day54 - Introduction to Web Development with Flask
+
+- Command Line
+    - Linux cheatsheet [github page](https://github.com/appbrewery/terminal-mac-cheatsheet)
+- Special attributes
+    - The implementation adds a few special read-only attributes to several object
+      types [DOCS](The implementation adds a few special read-only attributes to several object types)
+      ```
+          if __name__ == "__main__":
+              app.run() 
+      ```
+- Python Decorators
+    - Useful
+      post [stackoverflow](https://stackoverflow.com/questions/739654/how-do-i-make-function-decorators-and-chain-them-together/1594484#1594484)
+- Web Development with Flask
+    - Flask Website [DOCS](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
+    - pip install flask [DOCS](https://pypi.org/project/Flask/)
+    - Pycharm Integration [community version](https://flask.palletsprojects.com/en/2.0.x/cli/#pycharm-integration)
+
+The end Project is [Instagram Follower Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day54)
+
 ### R1D53 --------------------------------------------------------------------------------
 
 Day53 - Capstone Project - Data Entry Job
@@ -25,7 +48,6 @@ Day53 - Capstone Project - Data Entry Job
 - Scraping data from
   Zillow [stackoverflow link](https://stackoverflow.com/questions/69024599/scraping-data-from-zillow-com-using-beautifulsoup)
 - Useful video [video youtube](https://www.youtube.com/watch?v=dRcvJRmqFHQ)
--
 
 The end Project is [Instagram Follower Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day53)
 
