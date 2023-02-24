@@ -18,6 +18,17 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D55 --------------------------------------------------------------------------------
+
+Day55 - Introduction to Web Development with Flask
+
+- Routing [flask docs](https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing)
+- Variables Rules [flask docs](https://flask.palletsprojects.com/en/1.1.x/quickstart/#variable-rules)
+- Gifs at [Ghiphy](https://giphy.com/)
+
+
+The end Project is [Higher or Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day55)
+
 ### R1D54 --------------------------------------------------------------------------------
 
 Day54 - Introduction to Web Development with Flask
@@ -39,7 +50,7 @@ Day54 - Introduction to Web Development with Flask
     - pip install flask [DOCS](https://pypi.org/project/Flask/)
     - Pycharm Integration [community version](https://flask.palletsprojects.com/en/2.0.x/cli/#pycharm-integration)
 
-The end Project is [Instagram Follower Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day54)
+The end Project is [Python Decorators](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day54)
 
 ### R1D53 --------------------------------------------------------------------------------
 
@@ -49,7 +60,7 @@ Day53 - Capstone Project - Data Entry Job
   Zillow [stackoverflow link](https://stackoverflow.com/questions/69024599/scraping-data-from-zillow-com-using-beautifulsoup)
 - Useful video [video youtube](https://www.youtube.com/watch?v=dRcvJRmqFHQ)
 
-The end Project is [Instagram Follower Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day53)
+The end Project is [Data Entry Job](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day53)
 
 ### R1D52 --------------------------------------------------------------------------------
 
