@@ -18,6 +18,25 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D56 --------------------------------------------------------------------------------
+
+Day56 - Rendering HTML/Static files and Using website Templates
+
+- Rendering Templates - html
+  files - [Flask Docs](https://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates)
+- Static Files - css, images, videos - [Flask Docs](https://flask.palletsprojects.com/en/1.1.x/quickstart/#static-files)
+- Add Favicons - [Flask Docks](https://flask.palletsprojects.com/en/1.1.x/patterns/favicon/)
+- Free Html Templates - [html5up](https://html5up.net/)
+- Free Images - [unsplash](https://unsplash.com/)
+    - trick1 pycharm: select text + CTRL+R = find and replace
+    - trick2 clean cache from browser: CTRL + click reload (solves 304 error)
+    - trick3 : change in console of website -> save website -> import to folder:
+      ```
+        document.body.contentEditable=true
+      ``` 
+
+The end Project is [Higher or Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day56)
+
 ### R1D55 --------------------------------------------------------------------------------
 
 Day55 - Introduction to Web Development with Flask
@@ -25,7 +44,6 @@ Day55 - Introduction to Web Development with Flask
 - Routing [flask docs](https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing)
 - Variables Rules [flask docs](https://flask.palletsprojects.com/en/1.1.x/quickstart/#variable-rules)
 - Gifs at [Ghiphy](https://giphy.com/)
-
 
 The end Project is [Higher or Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day55)
 
