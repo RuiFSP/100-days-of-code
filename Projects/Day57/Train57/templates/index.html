@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<!--
+	Identity by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="en">
+	<head>
+		<title>Identity by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="shortcut icon" href="{{ url_for('static', filename='assets/css/images/favicon.ico') }}">
+	</head>
+	<body>
+
+		<h1>Hello World</h1>
+		<h2>{{5 * 6}}</h2>
+		<h3>Random Number: {{num}}</h3>
+		<a href="{{ url_for('get_blog', num=3) }}">Go To Blog</a>
+
+	</body>
+	<footer>
+		<p>Copyright {{year}}. Built by Rui Pinto💗</p>
+	</footer>
+</html>

@@ -20,6 +20,21 @@ My working IDE
 
 ### R1D56 --------------------------------------------------------------------------------
 
+Day56 - URL Building and Templating with Jinja in Flask Application
+
+- Rendering templates with Jinja [Jinja Docs](https://flask.palletsprojects.com/en/2.2.x/tutorial/templates/)
+- Update footer dynamically [Update Footer](https://updateyourfooter.com/)
+- Flash Routing [Flask Docs](https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing)
+- JSON storage bins that won't break your app [n_point](https://www.npoint.io/)
+
+-APIs used:
+- Determine the gender of a name: [gender-api](https://genderize.io/)
+- Predict the age of a name: [age-api](https://agify.io/)
+
+The end Project is [Higher or Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day56)
+
+### R1D56 --------------------------------------------------------------------------------
+
 Day56 - Rendering HTML/Static files and Using website Templates
 
 - Rendering Templates - html
