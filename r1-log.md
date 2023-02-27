@@ -18,9 +18,21 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-### R1D56 --------------------------------------------------------------------------------
+### R1D58 --------------------------------------------------------------------------------
 
-Day56 - URL Building and Templating with Jinja in Flask Application
+Day58 - Web Foundation Bootstrap
+
+- Bootstrap [website](https://getbootstrap.com/)
+  - Navbar [docs](https://getbootstrap.com/docs/4.5/components/navbar/)
+  - Buttons [docs](https://getbootstrap.com/docs/4.5/components/buttons/)
+- Explore design portfolios [dribble](https://dribbble.com/)
+- User Interface Design Patterns [UIPatterns](https://ui-patterns.com/patterns)
+
+The end Project is [TinDog - Part1](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day58)
+
+### R1D57 --------------------------------------------------------------------------------
+
+Day57 - URL Building and Templating with Jinja in Flask Application
 
 - Rendering templates with Jinja [Jinja Docs](https://flask.palletsprojects.com/en/2.2.x/tutorial/templates/)
 - Update footer dynamically [Update Footer](https://updateyourfooter.com/)
@@ -28,10 +40,11 @@ Day56 - URL Building and Templating with Jinja in Flask Application
 - JSON storage bins that won't break your app [n_point](https://www.npoint.io/)
 
 -APIs used:
+
 - Determine the gender of a name: [gender-api](https://genderize.io/)
 - Predict the age of a name: [age-api](https://agify.io/)
 
-The end Project is [Higher or Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day56)
+The end Project is [Higher or Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day57)
 
 ### R1D56 --------------------------------------------------------------------------------
 
