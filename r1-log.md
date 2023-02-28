@@ -18,6 +18,19 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D59 --------------------------------------------------------------------------------
+
+Day59 - Web Foundation Bootstrap
+
+- Bootstrap [website](https://getbootstrap.com/)
+  - Layout Grids [docs](https://getbootstrap.com/docs/4.5/layout/grid/) 
+  - Containers [docs](https://getbootstrap.com/docs/4.5/layout/overview/#containers)
+  - Buttons [docs](https://getbootstrap.com/docs/4.5/components/buttons/)
+
+The end Project is [TinDog - Part2](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day59)
+
+
+
 ### R1D58 --------------------------------------------------------------------------------
 
 Day58 - Web Foundation Bootstrap
