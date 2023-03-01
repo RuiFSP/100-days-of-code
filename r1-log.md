@@ -18,26 +18,42 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-### R1D59 --------------------------------------------------------------------------------
+### R1D60 --------------------------------------------------------------------------------
 
-Day59 - Web Foundation Bootstrap
+Day60 - Web Foundation Bootstrap - part3
 
 - Bootstrap [website](https://getbootstrap.com/)
-  - Layout Grids [docs](https://getbootstrap.com/docs/4.5/layout/grid/) 
-  - Containers [docs](https://getbootstrap.com/docs/4.5/layout/overview/#containers)
-  - Buttons [docs](https://getbootstrap.com/docs/4.5/components/buttons/)
+    - Carousel [docs](https://getbootstrap.com/docs/4.5/components/carousel//)
+    - Cards [docs](https://getbootstrap.com/docs/4.5/components/card/)
+    - Code snippets for Bootstrap [Bootsnipp](https://bootsnipp.com/)
+
+- CSS concepts
+    - Using
+      z-index [mdn docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index)
+    - Responsive web design [media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+- Test if website is mobile friendly[Mobile Check](https://search.google.com/test/mobile-friendly)
+
+The end Project is [TinDog - Part3](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day60)
+
+### R1D59 --------------------------------------------------------------------------------
+
+Day59 - Web Foundation Bootstrap - part2
+
+- Bootstrap [website](https://getbootstrap.com/)
+    - Layout Grids [docs](https://getbootstrap.com/docs/4.5/layout/grid/)
+    - Containers [docs](https://getbootstrap.com/docs/4.5/layout/overview/#containers)
+    - Buttons [docs](https://getbootstrap.com/docs/4.5/components/buttons/)
 
 The end Project is [TinDog - Part2](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day59)
 
-
-
 ### R1D58 --------------------------------------------------------------------------------
 
-Day58 - Web Foundation Bootstrap
+Day58 - Web Foundation Bootstrap - part1
 
 - Bootstrap [website](https://getbootstrap.com/)
-  - Navbar [docs](https://getbootstrap.com/docs/4.5/components/navbar/)
-  - Buttons [docs](https://getbootstrap.com/docs/4.5/components/buttons/)
+    - Navbar [docs](https://getbootstrap.com/docs/4.5/components/navbar/)
+    - Buttons [docs](https://getbootstrap.com/docs/4.5/components/buttons/)
 - Explore design portfolios [dribble](https://dribbble.com/)
 - User Interface Design Patterns [UIPatterns](https://ui-patterns.com/patterns)
 
