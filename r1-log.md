@@ -18,9 +18,41 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+
+### R1D61 --------------------------------------------------------------------------------
+
+Day61 - Web Foundation Bootstrap - part 4/4
+
+- Code Refactoring
+- Advanced CSS - Combining Selectors
+  - Multiple selectors (comma)
+    ```
+        selector1, selector2 {
+        }
+
+    ```
+  - Hierarchical selectors (parent-space-child)
+    ```
+        selector1  selector2 {
+        }
+
+    ```
+  - Combined selectors (no space in the same line)
+    ```
+        selector1.selector2 {
+        }
+        selector1#selector2 {
+        }
+    ```
+- Selector Priority
+  - last css rule has priority
+  - html element < class selector < id selector < inline style(avoid last one)
+
+The end Project is [TinDog - Part4](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day61)
+
 ### R1D60 --------------------------------------------------------------------------------
 
-Day60 - Web Foundation Bootstrap - part3
+Day60 - Web Foundation Bootstrap - part 3/4
 
 - Bootstrap [website](https://getbootstrap.com/)
     - Carousel [docs](https://getbootstrap.com/docs/4.5/components/carousel//)
@@ -38,7 +70,7 @@ The end Project is [TinDog - Part3](https://github.com/RuiFSP/100-days-of-code/t
 
 ### R1D59 --------------------------------------------------------------------------------
 
-Day59 - Web Foundation Bootstrap - part2
+Day59 - Web Foundation Bootstrap - part 2/4
 
 - Bootstrap [website](https://getbootstrap.com/)
     - Layout Grids [docs](https://getbootstrap.com/docs/4.5/layout/grid/)
@@ -49,7 +81,7 @@ The end Project is [TinDog - Part2](https://github.com/RuiFSP/100-days-of-code/t
 
 ### R1D58 --------------------------------------------------------------------------------
 
-Day58 - Web Foundation Bootstrap - part1
+Day58 - Web Foundation Bootstrap - part 1/4
 
 - Bootstrap [website](https://getbootstrap.com/)
     - Navbar [docs](https://getbootstrap.com/docs/4.5/components/navbar/)
