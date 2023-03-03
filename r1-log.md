@@ -19,6 +19,14 @@ My working IDE
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
 
+### R1D62 --------------------------------------------------------------------------------
+
+Day62 - Blog Capstone Project
+
+- Bootstrap not rendering color [stackoverflow](https://stackoverflow.com/questions/65272229/style-tag-in-flask-doesnt-render-the-text-color)
+
+The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day62)
+
 ### R1D61 --------------------------------------------------------------------------------
 
 Day61 - Web Foundation Bootstrap - part 4/4
