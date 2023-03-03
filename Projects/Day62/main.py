@@ -9,10 +9,12 @@ from post import Post
 posts = requests.get("https://api.npoint.io/92d366edff0c0b191438").json()
 post_objects = []
 for post in posts:
-    post_obj = Post(post["id"], post["title"], post["subtitle"], post["body"], post['date'], post['image'], post['author'])
+    post_obj = Post(post["id"], post["title"], post["subtitle"], post["body"], post['date'], post['image'],
+                    post['author'])
     post_objects.append(post_obj)
 
 app = Flask(__name__)
+
 
 @app.route('/')
 def home():
