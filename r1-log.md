@@ -19,6 +19,20 @@ My working IDE
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
 
+### R1D63 --------------------------------------------------------------------------------
+
+Day63 - Make POST Requests with Flask and HTML Forms
+
+- Revision:
+  - HTML FORMS [w3_docs](https://www.w3schools.com/html/html_forms.asp)
+    -1) [action attribute](https://www.w3schools.com/tags/att_form_action.asp)
+    -2) [method attribute](https://www.w3schools.com/tags/att_form_method.asp)
+
+- Flask [docs](https://flask.palletsprojects.com/en/2.0.x/quickstart/)
+  - send data from html form to python flask [stackoverflow](https://stackoverflow.com/questions/11556958/sending-data-from-html-form-to-a-python-script-in-flask)
+
+The end Project is [Blog Capstone Project - contact form improvement](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day63)
+
 ### R1D62 --------------------------------------------------------------------------------
 
 Day62 - Blog Capstone Project
