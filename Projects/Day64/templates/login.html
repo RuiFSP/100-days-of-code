@@ -1,0 +1,16 @@
+<!--#1. This line of code tells the templating engine (Jinja) to use "base.html" as the template for this page.-->
+{% extends "bootstrap/base.html" %}
+
+<!--Flask-Bootstrap Supports WTForms-->
+{% import "bootstrap/wtf.html" as wtf %}
+
+<!--#2. This block inserts a custom title into the header of the template.-->
+{% block title %}Login{% endblock %}
+
+<!--#3. This block provides the content of the website. The part that is going to vary between webpages.-->
+{% block content %}
+        <div class="container">
+			<h1>LOGIN</h1>
+			{{ wtf.quick_form(form) }}
+		</div>
+{% endblock %}
