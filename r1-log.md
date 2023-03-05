@@ -18,26 +18,47 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D64 --------------------------------------------------------------------------------
+
+Day64 - Building advanced Forms with flask-WTForms
+
+- WTForms - WTForms is a flexible forms validation and rendering library for Python web development.
+- It can work with whatever web framework and template engine you choose. It supports data validation,
+- CSRF protection, internationalization (I18N), and more. There are various community libraries that
+- provide closer integration with popular frameworks [DOCS](https://wtforms.readthedocs.io/en/2.3.x/)
+    - Quickstart [creating forms](https://flask-wtf.readthedocs.io/en/1.0.x/quickstart/)
+    - demystify Flask app.secret_key [stackoverflow](demystify Flask app.secret_key)
+    - wtform fields [fields class](demystify Flask app.secret_key)
+    - wtform validating [validators](https://wtforms.readthedocs.io/en/2.3.x/crash_course/#validators)
+    - wtform errors [displaying erros](https://wtforms.readthedocs.io/en/2.3.x/crash_course/#displaying-errors)
+
+- The bootstrap/wtf.html template contains macros to help you output forms quickly [Flask-bootstrap](https://pythonhosted.org/Flask-Bootstrap/basic-usage.html)
+
+The end Project
+is [Blog Capstone Project - contact form improvement](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day64)
 
 ### R1D63 --------------------------------------------------------------------------------
 
 Day63 - Make POST Requests with Flask and HTML Forms
 
 - Revision:
-  - HTML FORMS [w3_docs](https://www.w3schools.com/html/html_forms.asp)
-    -1) [action attribute](https://www.w3schools.com/tags/att_form_action.asp)
-    -2) [method attribute](https://www.w3schools.com/tags/att_form_method.asp)
+    - HTML FORMS [w3_docs](https://www.w3schools.com/html/html_forms.asp)
+      -1) [action attribute](https://www.w3schools.com/tags/att_form_action.asp)
+      -2) [method attribute](https://www.w3schools.com/tags/att_form_method.asp)
 
 - Flask [docs](https://flask.palletsprojects.com/en/2.0.x/quickstart/)
-  - send data from html form to python flask [stackoverflow](https://stackoverflow.com/questions/11556958/sending-data-from-html-form-to-a-python-script-in-flask)
+    - send data from html form to python
+      flask [stackoverflow](https://stackoverflow.com/questions/11556958/sending-data-from-html-form-to-a-python-script-in-flask)
 
-The end Project is [Blog Capstone Project - contact form improvement](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day63)
+The end Project
+is [Blog Capstone Project - contact form improvement](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day63)
 
 ### R1D62 --------------------------------------------------------------------------------
 
 Day62 - Blog Capstone Project
 
-- Bootstrap not rendering color [stackoverflow](https://stackoverflow.com/questions/65272229/style-tag-in-flask-doesnt-render-the-text-color)
+- Bootstrap not rendering
+  color [stackoverflow](https://stackoverflow.com/questions/65272229/style-tag-in-flask-doesnt-render-the-text-color)
 
 The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day62)
 
@@ -47,28 +68,28 @@ Day61 - Web Foundation Bootstrap - part 4/4
 
 - Code Refactoring
 - Advanced CSS - Combining Selectors
-  - Multiple selectors (comma)
-    ```
-        selector1, selector2 {
-        }
-
-    ```
-  - Hierarchical selectors (parent-space-child)
-    ```
-        selector1  selector2 {
-        }
-
-    ```
-  - Combined selectors (no space in the same line)
-    ```
-        selector1.selector2 {
-        }
-        selector1#selector2 {
-        }
-    ```
+    - Multiple selectors (comma)
+      ```
+          selector1, selector2 {
+          }
+  
+      ```
+    - Hierarchical selectors (parent-space-child)
+      ```
+          selector1  selector2 {
+          }
+  
+      ```
+    - Combined selectors (no space in the same line)
+      ```
+          selector1.selector2 {
+          }
+          selector1#selector2 {
+          }
+      ```
 - Selector Priority
-  - last css rule has priority
-  - html element < class selector < id selector < inline style(avoid last one)
+    - last css rule has priority
+    - html element < class selector < id selector < inline style(avoid last one)
 
 The end Project is [TinDog - Part4](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day61)
 
