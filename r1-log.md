@@ -18,6 +18,12 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D65 --------------------------------------------------------------------------------
+
+Day65 - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+
+The end Project is [Coffee & wifi Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day65)
+
 ### R1D64 --------------------------------------------------------------------------------
 
 Day64 - Building advanced Forms with flask-WTForms
@@ -34,8 +40,7 @@ Day64 - Building advanced Forms with flask-WTForms
 
 - The bootstrap/wtf.html template contains macros to help you output forms quickly [Flask-bootstrap](https://pythonhosted.org/Flask-Bootstrap/basic-usage.html)
 
-The end Project
-is [Blog Capstone Project - contact form improvement](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day64)
+The end Project is [Flask-Bootstrap WTF Forms](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day64)
 
 ### R1D63 --------------------------------------------------------------------------------
 
