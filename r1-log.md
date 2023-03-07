@@ -18,6 +18,21 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D66 --------------------------------------------------------------------------------
+
+Day66 - Databases with SQLite and SQLAlchemy
+
+- Project-Idea: keep track of the books you have read and give each book a rating
+    - Example [Library Thing](https://www.librarything.com/)
+
+- SQLite is a C library that provides a lightweight disk-based database that doesn’t require a separate
+- server process and allows accessing the database using a nonstandard variant of the SQL query language
+    - sqlite3 [Docs](https://docs.python.org/3/library/sqlite3.html)
+    - sqlitebrowser [Docs](https://sqlitebrowser.org/dl/)
+    - Flask-SQLAlchemy [Docs](https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/quickstart/)
+
+The end Project is [Virtual Bookshelf](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day66)
+
 ### R1D65 --------------------------------------------------------------------------------
 
 Day65 - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
@@ -38,7 +53,8 @@ Day64 - Building advanced Forms with flask-WTForms
     - wtform validating [validators](https://wtforms.readthedocs.io/en/2.3.x/crash_course/#validators)
     - wtform errors [displaying erros](https://wtforms.readthedocs.io/en/2.3.x/crash_course/#displaying-errors)
 
-- The bootstrap/wtf.html template contains macros to help you output forms quickly [Flask-bootstrap](https://pythonhosted.org/Flask-Bootstrap/basic-usage.html)
+- The bootstrap/wtf.html template contains macros to help you output forms
+  quickly [Flask-bootstrap](https://pythonhosted.org/Flask-Bootstrap/basic-usage.html)
 
 The end Project is [Flask-Bootstrap WTF Forms](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day64)
 
