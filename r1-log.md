@@ -18,6 +18,20 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D67 --------------------------------------------------------------------------------
+
+Day67 - My Top 10 Movies Website
+
+- Project-Idea: Today, we're going to build a website just like that using Flask/WTForms/SQLite/SQLAlchemy and more.
+- It will allow us to create a beautiful website that lists our top 10 films of all time. As we watch more movies, 
+- we can always update our list and keep track of which movies to recommend people
+
+
+- Movie Database [API](https://developers.themoviedb.org/3/getting-started/introduction)
+
+The end Project is [Top 10 Movies Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day67)
+
+
 ### R1D66 --------------------------------------------------------------------------------
 
 Day66 - Databases with SQLite and SQLAlchemy
