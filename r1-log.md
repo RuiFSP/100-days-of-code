@@ -18,19 +18,64 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D68 --------------------------------------------------------------------------------
+
+Day68 - Web Design school - How to create a Website that people will love
+
+- Color Theory (what message i'm trying to say ?)
+    - Red: Love, Energy, Intensity - Ex: Car Adverts
+    - Yellow: Joy, Intellect, Attention - Ex: Protein, Beach Body, Weight Loss
+    - Green: Freshness, Safety, Growth - Ex: Groceries, fresh products, food
+    - Blue: Stability, Trust, Serenity - Ex: Paypal, Financial Companies
+    - Purple: Royalty, wealth, Femininity - Ex:
+
+        - Color Pallets [Adobe Color](https://color.adobe.com/create/color-wheel)
+            - Analogous Colors - two types of red - they do not stand out, but have harmony
+            - Complementary Colors - Green + Red - they stand out (logos or Icons)
+        - Color Hunt for professional combinations [Color Hunt](https://colorhunt.co/)
+
+- Typography
+    - Serif (Traditional, Stable, Respectable)
+    - Sans-Serifs (Sensible, Simple, StraightForward)
+    - Script(Personal, Creative, Elegant)
+    - Display(Friendly, Loud, Amusing)
+    - Modern(Stylish, Chic, Smart)
+
+- User Interface Design (UI)
+    - Hierarchy - Color Pallet for text, Size of the important Text .
+    - Layout of Page - block of text not to long or short
+    - Alignment - for example text alignment -> reduce the number of line alignments -> more coherent
+    - White Space - Empty space around our elements: Ex: luxury shops, space thing out
+    - Audience - design for your audience
+
+- User Experience Design (UX)
+    - Simplicity - keep things simple, can not be overwhelming
+    - Consistency - design consistency (home page versus other parts of website) - need to relearn how to use site
+    - Reading Patterns - how people look at a page (hot zones)
+        - The "F" Pattern, The "Z" Pattern.
+    - All Platform Design - desktop, mobile, responsive
+    - Don't use your power for Evil
+        - dark patterns: human psychology to be taken advantage, the product is not what is advertised.
+
+Useful website to improver design:
+    - Become a better Design [Daily UI](https://www.dailyui.co/)
+    - UI solutions for Daily UI [Collect UI](https://collectui.com/)
+    - Design easy with [Canva](https://www.canva.com/)
+
+The end Project is [Hotel Website](https://www.canva.com/design/DAFcvk98JNA/4CNq6A_t8K3n4ZKVWHhoNA/view?website#4:a-hotel)
+
 ### R1D67 --------------------------------------------------------------------------------
 
 Day67 - My Top 10 Movies Website
 
 - Project-Idea: Today, we're going to build a website just like that using Flask/WTForms/SQLite/SQLAlchemy and more.
-- It will allow us to create a beautiful website that lists our top 10 films of all time. As we watch more movies, 
+- It will allow us to create a beautiful website that lists our top 10 films of all time. As we watch more movies,
 - we can always update our list and keep track of which movies to recommend people
 
 
 - Movie Database [API](https://developers.themoviedb.org/3/getting-started/introduction)
 
 The end Project is [Top 10 Movies Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day67)
-
 
 ### R1D66 --------------------------------------------------------------------------------
 
