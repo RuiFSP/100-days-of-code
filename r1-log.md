@@ -18,6 +18,20 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D69 --------------------------------------------------------------------------------
+
+Day69 - Building your Own API with RESTful routing
+
+- REST - REpresentacional State Transfer
+    - HTTP Request Verbs: (GET, POST, PUT, PATCH, DELETE)
+    - Specific Patterns of Routes/endpoint URLs
+        - serialization: transform Object into a Json [jsonify](https://www.adamsmith.haus/python/docs/flask.jsonify)
+        - generation api
+          documentation [PostMan](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)
+    - HTTS Status Codes [Glossary](https://www.webfx.com/web-development/glossary/http-status-codes/)
+
+The end Project is [cafe API](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day69)
+
 ### R1D68 --------------------------------------------------------------------------------
 
 Day68 - Web Design school - How to create a Website that people will love
@@ -58,11 +72,13 @@ Day68 - Web Design school - How to create a Website that people will love
         - dark patterns: human psychology to be taken advantage, the product is not what is advertised.
 
 Useful website to improver design:
-    - Become a better Design [Daily UI](https://www.dailyui.co/)
-    - UI solutions for Daily UI [Collect UI](https://collectui.com/)
-    - Design easy with [Canva](https://www.canva.com/)
 
-The end Project is [Hotel Website](https://www.canva.com/design/DAFcvk98JNA/4CNq6A_t8K3n4ZKVWHhoNA/view?website#4:a-hotel)
+- Become a better Design [Daily UI](https://www.dailyui.co/)
+- UI solutions for Daily UI [Collect UI](https://collectui.com/)
+- Design easy with [Canva](https://www.canva.com/)
+
+The end Project
+is [Hotel Website](https://www.canva.com/design/DAFcvk98JNA/4CNq6A_t8K3n4ZKVWHhoNA/view?website#4:a-hotel)
 
 ### R1D67 --------------------------------------------------------------------------------
 
