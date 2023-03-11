@@ -18,6 +18,22 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D70--------------------------------------------------------------------------------
+
+Day70 - Blog Capstone Project Part3
+
+- RESTful Routing
+- Useful links:
+  - Flask-ckeditor [Docs](https://flask-ckeditor.readthedocs.io/en/latest/basic.html)
+  - Flask-Bootstrap [Docs](https://pythonhosted.org/Flask-Bootstrap/forms.html)
+  - Bootstrap Buttons [Docs](https://getbootstrap.com/docs/4.0/components/buttons/)
+  - datetime library [Docs](https://www.w3schools.com/python/python_datetime.asp)
+  - Jinja safe [Docs](https://jinja.palletsprojects.com/en/2.11.x/templates/#safe) 
+
+The end Project is [Blog Post - Part3](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day70)
+
+
+
 ### R1D69 --------------------------------------------------------------------------------
 
 Day69 - Building your Own API with RESTful routing
@@ -151,7 +167,7 @@ is [Blog Capstone Project - contact form improvement](https://github.com/RuiFSP/
 
 ### R1D62 --------------------------------------------------------------------------------
 
-Day62 - Blog Capstone Project
+Day62 - Blog Capstone Project - Part 2
 
 - Bootstrap not rendering
   color [stackoverflow](https://stackoverflow.com/questions/65272229/style-tag-in-flask-doesnt-render-the-text-color)
