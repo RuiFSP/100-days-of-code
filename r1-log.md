@@ -18,21 +18,41 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D71--------------------------------------------------------------------------------
+
+Day71 - Authentication with Flask
+
+- Flask-Login provides user session management for Flask [Docs](https://flask-login.readthedocs.io/en/latest/)
+- Flask [send_from_directory](https://flask.palletsprojects.com/en/2.2.x/api/#flask.send_from_directory)
+-
+Wekzeud [generate password hash](https://werkzeug.palletsprojects.com/en/2.2.x/utils/#werkzeug.security.generate_password_hash)
+- Message Flashing [flashing](https://flask.palletsprojects.com/en/2.2.x/patterns/flashing/)
+
+- Useful links:
+    - redirect while passing
+      arguments [stackoverflow](https://stackoverflow.com/questions/17057191/redirect-while-passing-arguments)
+
+- fun stuff
+    - encrypting/hashing [cryptii](https://cryptii.com/)
+    - most common passwords [wiki](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords)
+    - pwned password form data breaches [haveibeenpwned](https://haveibeenpwned.com/Passwords)
+    - not a hacker [hackertyper](https://hackertyper.net/)
+
+The end Project is [Flask Authentication](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day71)
+
 ### R1D70--------------------------------------------------------------------------------
 
 Day70 - Blog Capstone Project Part3
 
 - RESTful Routing
 - Useful links:
-  - Flask-ckeditor [Docs](https://flask-ckeditor.readthedocs.io/en/latest/basic.html)
-  - Flask-Bootstrap [Docs](https://pythonhosted.org/Flask-Bootstrap/forms.html)
-  - Bootstrap Buttons [Docs](https://getbootstrap.com/docs/4.0/components/buttons/)
-  - datetime library [Docs](https://www.w3schools.com/python/python_datetime.asp)
-  - Jinja safe [Docs](https://jinja.palletsprojects.com/en/2.11.x/templates/#safe) 
+    - Flask-ckeditor [Docs](https://flask-ckeditor.readthedocs.io/en/latest/basic.html)
+    - Flask-Bootstrap [Docs](https://pythonhosted.org/Flask-Bootstrap/forms.html)
+    - Bootstrap Buttons [Docs](https://getbootstrap.com/docs/4.0/components/buttons/)
+    - datetime library [Docs](https://www.w3schools.com/python/python_datetime.asp)
+    - Jinja safe [Docs](https://jinja.palletsprojects.com/en/2.11.x/templates/#safe)
 
 The end Project is [Blog Post - Part3](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day70)
-
-
 
 ### R1D69 --------------------------------------------------------------------------------
 
