@@ -18,6 +18,14 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D72--------------------------------------------------------------------------------
+
+Day72 - Blog Capstone Project - Part4.1
+
+- Resister new Users and Login Register Users
+
+The end Project is [Blog Capstone Project - Part4](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day72)
+
 ### R1D71--------------------------------------------------------------------------------
 
 Day71 - Authentication with Flask
