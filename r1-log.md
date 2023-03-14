@@ -18,11 +18,25 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D73--------------------------------------------------------------------------------
+
+Day73 - Blog Capstone Project - Part4.2
+
+features:
+- Creating Relational Databases - [SQLAlchemy](https://docs.sqlalchemy.org/en/20/orm/quickstart.html)
+- Allow any User to Add Comments to Blogposts
+- Flask Gravatars - [Docs](https://pythonhosted.org/Flask-Gravatar/)
+
+- Useful stuff
+  - [one-to-many relations](https://www.youtube.com/watch?v=VVX7JIWx-ss&list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW)
+
+The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day73)
+
 ### R1D72--------------------------------------------------------------------------------
 
 Day72 - Blog Capstone Project - Part4.1
 
-- Resister new Users and Login Register Users
+- Register new Users and Login Register Users
 
 The end Project is [Blog Capstone Project - Part4](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day72)
 
@@ -33,7 +47,9 @@ Day71 - Authentication with Flask
 - Flask-Login provides user session management for Flask [Docs](https://flask-login.readthedocs.io/en/latest/)
 - Flask [send_from_directory](https://flask.palletsprojects.com/en/2.2.x/api/#flask.send_from_directory)
 -
+
 Wekzeud [generate password hash](https://werkzeug.palletsprojects.com/en/2.2.x/utils/#werkzeug.security.generate_password_hash)
+
 - Message Flashing [flashing](https://flask.palletsprojects.com/en/2.2.x/patterns/flashing/)
 
 - Useful links:
