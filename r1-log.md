@@ -18,6 +18,19 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D74--------------------------------------------------------------------------------
+
+Day74 - Deploying Your Web Application with Render
+
+- Tools
+  - Heroku [website](https://www.heroku.com/)
+  - Render [website - free alternative to heroku](https://render.com/)
+  - GitHub [website](https://github.com/)
+  - gunicorn [website]()
+  - gitignore templates [gitignore](https://www.toptal.com/developers/gitignore/)  
+
+The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day74)
+
 ### R1D73--------------------------------------------------------------------------------
 
 Day73 - Blog Capstone Project - Part4.2
