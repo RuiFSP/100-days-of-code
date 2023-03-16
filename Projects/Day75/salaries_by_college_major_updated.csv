@@ -1,0 +1,828 @@
+Undergraduate Major,Starting Median Salary,Mid-Career Median Salary
+Petroleum Engineering,93200.0,187300.0
+Operations Research & Industrial Engineering,84800.0,170400.0
+Electrical Engineering & Computer Science (EECS),108500.0,159300.0
+Interaction Design,68300.0,155800.0
+Public Accounting,59800.0,147700.0
+Operations Research,83500.0,147400.0
+Applied Economics and Management,66100.0,146400.0
+Business Computing (BC),73000.0,143600.0
+Actuarial Mathematics,64300.0,143400.0
+Electrical Power Engineering,76100.0,142600.0
+Information & Computer Science,58600.0,140900.0
+Aeronautics & Astronautics,77600.0,139600.0
+Systems Engineering,77700.0,139200.0
+Econometrics,64200.0,139000.0
+Pharmacy,68600.0,138700.0
+Aerospace Studies,55800.0,136600.0
+Building Science,53800.0,135900.0
+Chemical Engineering,76900.0,135900.0
+Cognitive Science,68700.0,135200.0
+Actuarial Science,67700.0,134400.0
+Political Economy,65100.0,133500.0
+Computer Systems Engineering,79000.0,133200.0
+Electrical & Computer Engineering (ECE),78100.0,131600.0
+Computer Science (CS) & Engineering,79400.0,131300.0
+Marine Engineering,79900.0,131300.0
+Aeronautical Engineering,74700.0,131100.0
+Computer Engineering (CE),79000.0,131000.0
+Naval Architecture & Marine Engineering,74400.0,130700.0
+Entrepreneurship & Marketing,51400.0,129800.0
+Corporate Accounting & Finance,65200.0,129700.0
+Mechatronics,72800.0,129600.0
+Nuclear Engineering,76400.0,129400.0
+Electrical Engineering (EE),75600.0,127700.0
+Foreign Affairs,54800.0,127700.0
+Marine Transportation Management,71100.0,127500.0
+Mechanical & Aeronautical Engineering,70900.0,126900.0
+Welding Engineering,81000.0,126600.0
+Instrumentation & Control Engineering,73100.0,126400.0
+Computational & Applied Mathematics,75500.0,126000.0
+Electrical & Electronics Engineering (EEE),74700.0,125800.0
+Aerospace Engineering,74300.0,125700.0
+Astronomy,66600.0,125400.0
+Optical Science & Engineering,71000.0,125400.0
+Quantitative Business Analysis,74000.0,125400.0
+Computer Science (CS) & Mathematics,70500.0,125100.0
+Industrial & Systems Engineering,73100.0,124800.0
+Economics and Mathematics,68200.0,124100.0
+Biomedical Engineering (BME),71300.0,123600.0
+Managerial Economics,65200.0,123600.0
+Computer Science (CS),75100.0,123400.0
+Physics & Astronomy,56500.0,123400.0
+Petroleum Land Management,59300.0,123100.0
+Bioscience,49200.0,123100.0
+Electronics & Communications Engineering,67400.0,122900.0
+Control Engineering,69700.0,122800.0
+Pharmacology,57700.0,122700.0
+Business Analysis,63200.0,122300.0
+Aeronautical Science & Engineering,56000.0,122200.0
+Metallurgical Engineering,81800.0,122200.0
+Engineering Science,67900.0,122100.0
+Applied Mathematics,68300.0,122000.0
+Chemical & Biomolecular Engineering,76800.0,121900.0
+Materials Science,67100.0,121800.0
+Engineering,69900.0,121700.0
+Ocean Engineering (OE),69400.0,121400.0
+Bioengineering (BioE),70900.0,121300.0
+Aeronautical/Aerospace Engineering Technology,76900.0,121200.0
+Integrated Science & Technology,65200.0,121100.0
+Operations Management & Information Systems,66100.0,120900.0
+Software Engineering,75000.0,120000.0
+Physics,65900.0,119700.0
+Quantitative Economics,65000.0,119600.0
+Computer & Information Science,63600.0,119500.0
+Geophysics,58000.0,119000.0
+Accounting & Economics,65900.0,118900.0
+Physician Assistant Studies,95900.0,118500.0
+Mining Engineering,78800.0,118300.0
+Construction Engineering Management,68800.0,118200.0
+Mechanical Engineering (ME),71000.0,117600.0
+Materials Science & Engineering,72700.0,117500.0
+Engineering Mechanics,75500.0,117400.0
+Industrial Engineering (IE),71900.0,117400.0
+International Business & Finance,61400.0,117400.0
+Accounting & Computer Systems,63000.0,117300.0
+Business & Information Technology (IT),60100.0,116900.0
+Applied Physics,67300.0,116500.0
+International Economics,58700.0,116300.0
+Business & Economics,59600.0,116200.0
+Ceramic Engineering,69200.0,115700.0
+Economics,62000.0,115700.0
+Pharmaceutical Sciences (PS),52800.0,115700.0
+Telecommunications Engineering,66400.0,115400.0
+Information & Decision Sciences,65200.0,115200.0
+Materials Engineering,72300.0,115200.0
+Paper Science,77000.0,115200.0
+Asian Studies,47700.0,115100.0
+Structural Engineering (SE),67800.0,115100.0
+Industrial Distribution,63600.0,115000.0
+Management Information Systems (MIS),65000.0,114100.0
+Electronics Engineering,69600.0,113900.0
+Finance & Economics,62600.0,113900.0
+Medical Science,52000.0,113800.0
+Japanese Studies,51500.0,113800.0
+Automotive Engineering,67300.0,113800.0
+Information Management,64300.0,112800.0
+Management Science,64600.0,112700.0
+Mechanical,70200.0,112700.0
+Construction Engineering,67300.0,112500.0
+Finance & Investments,64100.0,112400.0
+Mathematics & Statistics,63100.0,112400.0
+Information Systems Management,59200.0,112300.0
+Construction Project Management,61100.0,112200.0
+Engineering Management,69000.0,112200.0
+Packaging Science,70000.0,112200.0
+Industrial Engineering & Management,68300.0,112000.0
+Engineering Physics,70500.0,111800.0
+Energy Management,72300.0,111700.0
+Aeronautical Science,57700.0,111600.0
+Government,55100.0,111200.0
+Software Applications & Programming,59300.0,110800.0
+Astrophysics,69300.0,110700.0
+Bioenvironmental Science,47700.0,110500.0
+Japanese Language,53300.0,110300.0
+Business Economics,58400.0,110200.0
+Finance & Real Estate,63000.0,110200.0
+Manufacturing Engineering,69300.0,110000.0
+Atmospheric Science,48700.0,109900.0
+Cybersecurity,65600.0,109800.0
+Information Security & Assurance,61400.0,109300.0
+Medicine,60600.0,109200.0
+Civil Engineering (CE),65000.0,109000.0
+Environmental Health & Safety Management,61100.0,108800.0
+Mathematics,63500.0,108700.0
+Applied Economics,61400.0,108600.0
+Construction Science,67400.0,108500.0
+Political Communication,48800.0,108500.0
+Marketing & International Business,52500.0,108400.0
+Software Development,65500.0,108400.0
+Biochemistry & Molecular Biology,53900.0,108100.0
+Computing,63500.0,108000.0
+Construction Management,63200.0,108000.0
+Accounting & Taxation,55600.0,107800.0
+Building Construction (BC),67200.0,107800.0
+International & Comparative Politics,45700.0,107800.0
+Civil & Environmental Engineering,65300.0,107500.0
+Business Information Systems,65000.0,107400.0
+Financial Economics,63300.0,107200.0
+Sales & Business Marketing,55900.0,107200.0
+Plastics Engineering,68400.0,107100.0
+Information Technology Management,63400.0,107000.0
+Polymer Science & Engineering,74500.0,106900.0
+Informatics,70300.0,106800.0
+Computer Management Information Systems (CMIS),55700.0,106600.0
+Information Systems (IS),63900.0,106600.0
+Agricultural Economics,55600.0,106300.0
+Data Processing,65600.0,106200.0
+European Studies,47500.0,106100.0
+Biosystems Engineering,64700.0,106000.0
+Nuclear Engineering Technology (NET),83500.0,106000.0
+Economics & Political Science,57100.0,105700.0
+Global & International Studies,50000.0,105700.0
+Organic Chemistry,44500.0,105600.0
+Industrial Hygiene,58600.0,105500.0
+Safety Science,62400.0,105500.0
+Commerce,66800.0,105400.0
+Rhetoric,51600.0,105400.0
+Business Computer Information Systems (BCIS),64000.0,105300.0
+Finance,60200.0,105200.0
+Plastics Engineering Technology,66900.0,105100.0
+Molecular Biology,54100.0,105000.0
+Environmental Engineering,62600.0,104800.0
+International Management,54100.0,104800.0
+Computer Information Systems,59400.0,104700.0
+Corporate Finance,63600.0,104300.0
+Genetics,52200.0,104100.0
+International Business,55300.0,104100.0
+Agricultural Engineering (AE),63100.0,104000.0
+Consumer Economics,53700.0,103800.0
+Finance & Marketing,56800.0,103700.0
+Computer Information Systems (CIS),60500.0,103500.0
+Business Finance,57200.0,103300.0
+Psychobiology,49600.0,103100.0
+Strategic Management,66200.0,103100.0
+Construction Trades,61900.0,103100.0
+Operations Management (OM),61500.0,103000.0
+Entrepreneurship & Leadership,57100.0,102900.0
+Electrical Engineering Technology (EET),66300.0,102800.0
+Computer Science & Information Technology,66000.0,102700.0
+Food Marketing,56300.0,102700.0
+International Marketing,59000.0,102600.0
+Network Engineering,60700.0,102600.0
+Building Construction Management,61300.0,102400.0
+Engineering Technology (ET),58400.0,102300.0
+International Relations,52800.0,102200.0
+Management & Finance,56800.0,102200.0
+Information Security,66400.0,102200.0
+Business Operations,63500.0,102100.0
+Industrial Management,57800.0,102000.0
+Architectural Engineering,65000.0,101900.0
+Hotel Administration,64900.0,101900.0
+Manufacturing,57600.0,101500.0
+Agricultural Economics & Business,54900.0,101400.0
+Web Development,56400.0,101300.0
+Aviation,54000.0,101200.0
+Telecommunications Management,55000.0,101200.0
+Property Management,55200.0,101000.0
+Comparative Literature,48100.0,100900.0
+Construction Science & Management,64700.0,100800.0
+Biotechnology,53100.0,100700.0
+Industrial & Labor Relations,69800.0,100600.0
+Real Estate,59900.0,100600.0
+Mechanical Engineering Technology (MET),64200.0,100400.0
+Labor Relations,53000.0,100300.0
+Electronics,57500.0,100200.0
+Biochemistry (BCH),50400.0,99900.0
+Politics,53000.0,99900.0
+Accounting & Auditing,57800.0,99800.0
+Chinese Language,54200.0,99600.0
+Information Science (IS),66300.0,99500.0
+East Asian Studies,49800.0,99400.0
+Accounting & Finance,59200.0,99300.0
+Network Security,62300.0,99300.0
+Information Technology (IT),59100.0,99200.0
+Aviation Management,50900.0,99100.0
+Occupational Health and Safety,59900.0,99100.0
+Agribusiness,50700.0,98900.0
+Business & Marketing,51000.0,98900.0
+Computer Engineering Technology (CET),63000.0,98900.0
+Computer Security,68100.0,98700.0
+Operations & Supply Chain Management,61300.0,98600.0
+Entomology,45900.0,98500.0
+Music Production & Engineering,43100.0,98400.0
+Industrial Engineering Technology,67200.0,98400.0
+Logistics & Supply Chain Management,59000.0,98300.0
+Supply Chain Management,61700.0,98300.0
+Accounts,59800.0,98300.0
+Economics & Management,54400.0,98200.0
+Environmental Policy Analysis & Planning,51000.0,98200.0
+Physical Therapy,55500.0,98200.0
+European History,52300.0,98000.0
+Robotics & Automation,66100.0,98000.0
+Geological Engineering,61700.0,97900.0
+Manufacturing Technology,59900.0,97900.0
+Chemistry,51600.0,97500.0
+Business Logistics & Transportation,56400.0,97400.0
+Food Science & Technology,53100.0,97300.0
+City & Regional Planning,51800.0,97200.0
+Civil Engineering Technology (CET),58300.0,97200.0
+Electronics Engineering Technology (EET),64300.0,97100.0
+English & Psychology,42600.0,97100.0
+Finance & Banking,55300.0,97100.0
+Mechanical Design,60900.0,97100.0
+Applied Technology,55500.0,97000.0
+Marketing & Management,50000.0,96900.0
+Technical & Scientific Communication,50700.0,96800.0
+Financial Planning,54000.0,96600.0
+Organizational Behavior,57000.0,96600.0
+Marketing,51700.0,96600.0
+Dairy Science,51200.0,96200.0
+Project Management,56800.0,96200.0
+Government & International Politics (GVIP),51300.0,96100.0
+Latin American Studies,46700.0,96100.0
+Industrial Design (ID),55100.0,95900.0
+Web Design & Development,53100.0,95900.0
+Computing & Information Systems (CIS),58100.0,95800.0
+Electromechanical Engineering,70500.0,95800.0
+Industrial Technology (IT),62200.0,95800.0
+Information Technology (IT) & Systems,61100.0,95800.0
+Biopsychology,53300.0,95700.0
+Government & Politics,52400.0,95700.0
+Microbiology & Immunology,54900.0,95400.0
+Chemistry & Environmental Science,48200.0,95400.0
+Interactive Media Design,54000.0,95300.0
+Risk Management,58500.0,95300.0
+Cell Biology,50100.0,95200.0
+Aeronautics,62800.0,95100.0
+Welding Engineering Technology,74700.0,95000.0
+Finance & Management Information Systems,63900.0,94800.0
+Computer Science (CS) & Business,81100.0,94600.0
+Environmental Science & Policy,49500.0,94500.0
+Marketing & Communications,49600.0,94500.0
+Safety Management,60100.0,94500.0
+Business Technology Management,57400.0,94400.0
+Computer Networking Systems,55600.0,94400.0
+Biomedical Sciences,43600.0,94300.0
+Philosophy,52600.0,94300.0
+Sales & Marketing,52700.0,94300.0
+Manufacturing Engineering Technology,66000.0,94300.0
+Environmental Health & Safety,57600.0,94200.0
+Organizational Psychology,51200.0,94100.0
+Industrial Psychology,50000.0,94000.0
+Political Science,50700.0,94000.0
+Real Estate Development,57100.0,94000.0
+Social Ecology,49000.0,93700.0
+Risk Management & Insurance,59500.0,93600.0
+Radiation Therapy,68400.0,93400.0
+French Literature,46400.0,93300.0
+Occupational Therapy (OT),54100.0,93300.0
+Advertising,47200.0,93200.0
+Accounting,54800.0,93100.0
+Geology,50400.0,93000.0
+Strategic Communication,47100.0,93000.0
+Transportation & Logistics Management,57600.0,93000.0
+Financial Accounting,56100.0,92900.0
+Cell & Molecular Biology,51900.0,92800.0
+Industrial Safety,55200.0,92800.0
+Insurance,56000.0,92800.0
+Manufacturing Management,64000.0,92800.0
+Networks & Telecommunications,54300.0,92800.0
+Labor Studies,46600.0,92600.0
+Digital Media Design,46700.0,92600.0
+Advertising & Marketing Communications,48300.0,92600.0
+Cinema Studies,47900.0,92500.0
+Electronic & Computer Technology,63800.0,92500.0
+Marketing Communication,45700.0,92500.0
+Construction Technology,59100.0,92400.0
+Architecture,51000.0,92300.0
+Applied Statistics,65900.0,92200.0
+Biological Sciences,49300.0,92100.0
+Food Science,52500.0,92100.0
+Urban & Regional Planning,51800.0,92100.0
+Marketing Management,51300.0,92000.0
+Computer & Network Administration,56800.0,91900.0
+Applied Computer Science,66100.0,91800.0
+Sales,61500.0,91600.0
+Environmental Design,47700.0,91400.0
+Hotel Management,49100.0,91400.0
+Advertising Design,52700.0,91300.0
+Digital Arts,45600.0,91300.0
+Financial Management,54300.0,91300.0
+Electronic Systems Technology (EST),81000.0,91200.0
+Italian Language,51400.0,91100.0
+German Studies,50000.0,91000.0
+Quality Management,57400.0,90800.0
+Microbiology,48400.0,90300.0
+Entrepreneurship,54800.0,90300.0
+Interactive Media,52700.0,90200.0
+Global Business Management,55900.0,90200.0
+Network Systems Administration,57900.0,90200.0
+Police Science,55400.0,90200.0
+Hydrology,48700.0,90100.0
+Business Data Analysis,64700.0,90000.0
+Database Management,65900.0,90000.0
+Spanish Literature,51100.0,90000.0
+Business Technology,52800.0,89900.0
+Business Management & Marketing,48900.0,89800.0
+Technical Management,64400.0,89700.0
+Human Biology,51100.0,89600.0
+Meteorology,46200.0,89500.0
+Computer Graphics Technology (CGT),49000.0,89200.0
+Urban Planning,50500.0,89200.0
+Aviation Technology,58100.0,89100.0
+Environmental Health,50000.0,89100.0
+Agricultural Science,48900.0,88900.0
+Agronomy,50200.0,88900.0
+International Studies,50000.0,88900.0
+Design,52800.0,88800.0
+Applied Science,46400.0,88700.0
+Architectural Engineering Technology,52200.0,88700.0
+German Language,50700.0,88700.0
+Technology,56200.0,88600.0
+Advertising & Promotion,46100.0,88500.0
+Pre-law,46800.0,88400.0
+Digital Media,47300.0,88200.0
+Biological Anthropology,46200.0,88100.0
+Personal Financial Planning,53800.0,88100.0
+Professional Pilot Education,63700.0,88000.0
+Textile Technology,54000.0,88000.0
+Web & Digital Media Development,52300.0,88000.0
+Entrepreneurial Studies,48700.0,87900.0
+Fashion Design,47500.0,87700.0
+Retailing,51300.0,87600.0
+Business Communication,50900.0,87300.0
+Environmental Science,49100.0,87300.0
+Product Design Engineering,65500.0,87200.0
+English Literature,47700.0,87000.0
+Logistics,57600.0,87000.0
+Math & Science,55600.0,86900.0
+International Trade & Business,54800.0,86800.0
+Pre-Medicine,50800.0,86800.0
+Speech & Drama,37500.0,86800.0
+Toxicology,44600.0,86800.0
+Advertising & Marketing,49000.0,86700.0
+Geographic Information Systems (GIS) & Spatial Analysis,54000.0,86700.0
+Marketing & Mass Communications,45400.0,86700.0
+Welding Technology,48400.0,86700.0
+General Business,50200.0,86600.0
+Construction Engineering Technology,55800.0,86400.0
+Architectural Studies,45400.0,86400.0
+Aviation Maintenance Technology,51000.0,86300.0
+Communication Studies & Journalism,44800.0,86200.0
+Management,51600.0,86200.0
+General Science,49100.0,86100.0
+Magazine Journalism,46800.0,86100.0
+Electronics & Computer Technology,55600.0,86000.0
+Theatre & Drama Studies,44800.0,86000.0
+Animation,45000.0,85900.0
+Biology & Chemistry,49200.0,85900.0
+Diagnostic Medical Ultrasound,67700.0,85900.0
+History & Politics,49500.0,85900.0
+Public Affairs,52700.0,85900.0
+Romance Languages,53000.0,85900.0
+Physiology,49300.0,85900.0
+Corporate Communications,48500.0,85700.0
+International Affairs,51600.0,85700.0
+Nursing Science,66800.0,85700.0
+Organizational Development,53800.0,85700.0
+Textile & Apparel Studies,47100.0,85700.0
+Business Administration,52800.0,85600.0
+Business Administration & Accounting,52400.0,85600.0
+Philosophy & Religion,43800.0,85600.0
+Architectural Design,47700.0,85400.0
+Textile Design,50000.0,85200.0
+Interpersonal & Organizational Communication,42400.0,85200.0
+Geographic Information Systems (GIS),50000.0,85100.0
+Business Management,51700.0,85000.0
+Linguistics,52100.0,84900.0
+French Language,49600.0,84800.0
+Communication,48000.0,84700.0
+Neuroscience,51800.0,84700.0
+Business Management & Human Resources Management (HRM),46800.0,84600.0
+Journalism & Mass Communication,46300.0,84600.0
+Accounting & Management,55500.0,84500.0
+Sociology & Organizational Studies,53500.0,84300.0
+Crop Science,48700.0,84200.0
+French Studies,52400.0,84200.0
+Writing,44200.0,84200.0
+Nursing,65000.0,84200.0
+History,47800.0,84100.0
+Biology,47100.0,84000.0
+Land Surveying,51900.0,84000.0
+Architectural Technology,46700.0,83900.0
+Health Care,44400.0,83900.0
+Integrated Marketing Communications,47000.0,83900.0
+Agriculture,47700.0,83800.0
+Digital Design,50000.0,83600.0
+Marketing & Advertising,49300.0,83600.0
+Organizational Communication,46400.0,83600.0
+Visual Effects & Motion Graphics,48100.0,83400.0
+Public Relations & Communication,45700.0,83300.0
+General & Strategic Management,51200.0,83300.0
+Foreign Languages,48400.0,83100.0
+Retail Merchandising,50900.0,83100.0
+Agribusiness Management,47700.0,83000.0
+Global Business,55800.0,83000.0
+Professional & Technical Writing,48500.0,83000.0
+Computer Art,40400.0,82900.0
+Environmental Management,50200.0,82900.0
+Environmental Studies,48500.0,82900.0
+Journalism,45900.0,82900.0
+Travel Industry Management,52600.0,82900.0
+International Development Studies,47700.0,82800.0
+Natural Sciences,45100.0,82800.0
+Retail & Consumer Science,51800.0,82800.0
+Literature,46800.0,82800.0
+Bachelor in Science Nursing,64000.0,82700.0
+History & Political Science,50600.0,82700.0
+Museum Studies,38900.0,82700.0
+Computer Information Management,49400.0,82600.0
+Dental Hygiene,72700.0,82600.0
+Law,54300.0,82600.0
+Network Technology,59800.0,82600.0
+Media Studies,50700.0,82400.0
+Environmental Geography,50200.0,82300.0
+Law Enforcement,46700.0,82200.0
+Nuclear Medicine,60300.0,81900.0
+Bachelor of Science in Nursing,63800.0,81900.0
+Computer Animation,46800.0,81800.0
+Landscape Architecture,51500.0,81800.0
+Publishing,46300.0,81800.0
+Interior Architecture,47600.0,81500.0
+Diagnostic Medical Sonography,64300.0,81400.0
+Environmental & Natural Resource Economics,52400.0,81400.0
+Public Relations (PR),45600.0,81400.0
+Workforce Education & Development,59900.0,81400.0
+American History (United States),50900.0,81300.0
+Drama,47400.0,81100.0
+Management (MGT),47000.0,81000.0
+Merchandising Management,46800.0,80900.0
+Environmental Biology,45000.0,80800.0
+Accounting & Business,52400.0,80700.0
+Automotive Technology & Service Management,48800.0,80500.0
+Speech Communication,46700.0,80500.0
+Allied Health,44800.0,80400.0
+Agricultural Systems Technology,60500.0,80300.0
+Emergency Management,50900.0,80300.0
+Network Administration,48700.0,80300.0
+Communication Management,46000.0,80200.0
+Historic Preservation,43400.0,80000.0
+Broadcast Journalism,42900.0,79900.0
+Broadcast & Cinematic Arts,42800.0,79900.0
+Automotive Technology,48100.0,79800.0
+Business Management & Administration,51400.0,79800.0
+Agricultural Business,52700.0,79700.0
+Technology Management,56400.0,79700.0
+Global Studies,51200.0,79600.0
+Professional Studies,42800.0,79600.0
+Interpersonal Communications,45000.0,79500.0
+Forestry,45900.0,79400.0
+Homeland Security,49200.0,79400.0
+Ancient History,46000.0,79300.0
+Botany,42600.0,79300.0
+Geography,49700.0,79300.0
+Computer Aided Design (CAD),48700.0,79200.0
+Nutrition Science,49500.0,79200.0
+Acting,44200.0,79100.0
+Public Management,50200.0,79100.0
+Nuclear Medicine Technology,61700.0,79000.0
+Apparel & Textile Manufacture,48300.0,78900.0
+English Language & Literature,46400.0,78900.0
+Urban Studies,51500.0,78900.0
+Mass Communication,44800.0,78800.0
+Forestry Management,48600.0,78700.0
+Radio/Television & Film Production,45700.0,78700.0
+Hospital Management,53200.0,78600.0
+Human Resources Management (HRM),47900.0,78500.0
+Marine Science,46100.0,78400.0
+American Sign Language Interpreting,43100.0,78300.0
+English & History,45700.0,78300.0
+English Language,44600.0,78300.0
+Cytotechnology,61900.0,78200.0
+Geosciences,48700.0,78200.0
+Hospital Administration,51200.0,78200.0
+Film Production,44600.0,78100.0
+Marine Biology,43300.0,78100.0
+Zoology,42100.0,77900.0
+Communication Design,51700.0,77800.0
+Leadership,47200.0,77500.0
+Music Technology,44800.0,77500.0
+Musicology,40000.0,77500.0
+Technical Writing,53300.0,77500.0
+Agricultural Communication,44600.0,77400.0
+Logistics Management,56300.0,77400.0
+German Language & Literature,49400.0,77300.0
+Administration,44600.0,77100.0
+Apparel Merchandising,47600.0,77100.0
+Computer Aided Drafting & Design (CADD),49100.0,77100.0
+Organizational Leadership & Supervision,49600.0,77100.0
+Printing Technology,46200.0,77100.0
+Spanish Language,47700.0,77100.0
+Multimedia,44700.0,77000.0
+Spanish Language Teacher Education,45500.0,76900.0
+Public Administration,46700.0,76900.0
+Human Nutrition,48600.0,76900.0
+Audio Engineering,48300.0,76800.0
+Graphics Technology & Management,39500.0,76800.0
+Physical Anthropology,52900.0,76800.0
+Organizational Leadership,50500.0,76700.0
+Environmental Health Science,53800.0,76600.0
+Health Sciences,44600.0,76600.0
+Journalism & Electronic Media,45200.0,76500.0
+Religious Studies,43900.0,76300.0
+Art History,46600.0,76200.0
+Radiologic Science,57600.0,76200.0
+3D Animation,51800.0,76000.0
+Culture Studies,48100.0,75900.0
+Merchandising,53100.0,75900.0
+Administrative Management,52700.0,75800.0
+Human Resources (HR),47300.0,75800.0
+Liberal Arts,44500.0,75800.0
+Adult Education & Training,48700.0,75600.0
+Fashion Merchandising,46900.0,75600.0
+Health & Fitness,39800.0,75600.0
+Natural Resources,47400.0,75500.0
+Organizational Management,48800.0,75500.0
+Modern Languages,50300.0,75400.0
+Natural Resource Management,46500.0,75400.0
+Retail Management,50100.0,75400.0
+Sociology & Anthropology,44500.0,75400.0
+Creative Writing,45300.0,75200.0
+Criminal Justice Administration,45700.0,75100.0
+Ethnic Studies,47500.0,74900.0
+Philosophy & Religious Studies,49300.0,74900.0
+Radiology,54800.0,74900.0
+Medical Laboratory Technology,56900.0,74400.0
+Sports Management,45400.0,74400.0
+Anthropology & English,48000.0,74300.0
+Broadcast Communication,40000.0,74300.0
+Criminology,44700.0,74300.0
+Earth Science,50000.0,74300.0
+Media & Technology,45200.0,74300.0
+Visual Communications,45400.0,74300.0
+Advertising & Graphic Design,46800.0,74200.0
+Applied Behavior Analysis,38700.0,74200.0
+Psychology,44700.0,74200.0
+Applied Management,45500.0,74100.0
+Hotel & Restaurant Management,47300.0,74100.0
+Anthropology,46400.0,73900.0
+Arts Management,39400.0,73800.0
+Diagnostic Medical Imaging,60600.0,73800.0
+Communication Arts,42400.0,73600.0
+Middle Eastern Studies,57100.0,73600.0
+Radiologic Technology,55200.0,73600.0
+Painting & Printmaking,34700.0,73600.0
+Cardiopulmonary Science,48900.0,73400.0
+Human Relations,45000.0,73400.0
+Humanities,48500.0,73200.0
+Health Care Administration,45800.0,73100.0
+Health Care Management,46700.0,73000.0
+Life Sciences,53100.0,73000.0
+Ecology,46400.0,72900.0
+Media Arts,46500.0,72900.0
+Respiratory Care,54800.0,72800.0
+Art & Design,45100.0,72700.0
+Health Information Management,49000.0,72700.0
+Hospitality Management,46400.0,72700.0
+Health Teacher Education,37900.0,72600.0
+Sports Medicine,50100.0,72600.0
+Multimedia & Web Design,50200.0,72600.0
+Sociology,46200.0,72500.0
+Liberal Studies,44300.0,72400.0
+Interior Design,45100.0,72300.0
+Medical Laboratory Science,55600.0,72300.0
+Secondary Education,44600.0,72300.0
+Child Psychology,38900.0,72200.0
+Exercise Physiology,44100.0,72200.0
+Radiography,55300.0,72200.0
+Archaeology,45900.0,72100.0
+Art Administration,40200.0,72100.0
+Hotel & Restaurant Tourism,44300.0,72100.0
+Illustration,45200.0,72100.0
+Arts & Science,45700.0,71900.0
+Health,44200.0,71900.0
+Turfgrass Management,53100.0,71900.0
+Animal Science & Management,44200.0,71800.0
+SocialStudies,45800.0,71700.0
+Human Resources Development,48600.0,71600.0
+Speech Pathology & Audiology,44100.0,71600.0
+Clinical Laboratory Science,55100.0,71500.0
+Forensic Science,46000.0,71500.0
+Health Administration,42700.0,71500.0
+Geomatics,52300.0,71400.0
+Media Communication,47000.0,71400.0
+Health Management,45100.0,71300.0
+Commercial Photography,43800.0,71300.0
+Fashion Design & Marketing,45300.0,71100.0
+Mass Media,40300.0,71100.0
+Medical Technology,56500.0,71000.0
+Respiratory Therapy,54500.0,70900.0
+Theater,44600.0,70700.0
+Forensic Psychology,43000.0,70600.0
+Kinesiology,44800.0,70600.0
+Performing Arts,45700.0,70500.0
+Psychology & Social Behavior,45800.0,70500.0
+Religion,44400.0,70500.0
+Radio & Television,43100.0,70500.0
+Technology Teacher Education,47700.0,70400.0
+Educational Studies (ED),40300.0,70200.0
+Music,44300.0,70200.0
+Business Leadership,50100.0,70200.0
+Drafting & Design,51000.0,70100.0
+Plant Sciences,48000.0,70100.0
+Criminal Justice,42800.0,69800.0
+Web Design,49900.0,69800.0
+Graphic Design,45100.0,69700.0
+Nutrition,48100.0,69600.0
+Nutrition & Dietetics,50800.0,69600.0
+Missions,41300.0,69500.0
+Dramatic Art,41400.0,69400.0
+Fashion Marketing & Management,47700.0,69100.0
+Interdisciplinary Studies (IS),44600.0,68900.0
+Hospitality & Tourism,44200.0,68800.0
+Human Ecology,42100.0,68800.0
+Ornamental Horticulture,46000.0,68800.0
+Physical Therapist Assistant Studies,49900.0,68800.0
+Public Health (PH),46000.0,68800.0
+Art Therapy,41100.0,68600.0
+Dietetics,51300.0,68600.0
+Landscape Management,52300.0,68600.0
+Applied Sociology,42200.0,68500.0
+Fine Arts,43200.0,68500.0
+Modern Language Spanish,43800.0,68500.0
+Women's Studies,45200.0,68500.0
+Social & Criminal Justice,44800.0,68500.0
+Animal Science,41200.0,68300.0
+New Media,46000.0,68300.0
+Textiles & Clothing,45100.0,68300.0
+Event Management,41700.0,68200.0
+Family & Consumer Science,42600.0,68000.0
+Speech-Language Pathology,44100.0,67900.0
+Technical Theatre,41000.0,67600.0
+Education,44100.0,67500.0
+Foods & Nutrition,47000.0,67500.0
+Recreation Management,42300.0,67500.0
+Business & Healthcare Management,46900.0,67300.0
+Agricultural Teacher Education,53500.0,67100.0
+Music Composition,44000.0,66900.0
+Art,43400.0,66700.0
+Psychology & Sociology,42800.0,66700.0
+Drawing & Painting,42800.0,66600.0
+Nonprofit Management,42300.0,66300.0
+Small Business Management,47100.0,66200.0
+Behavioral Science,43000.0,66000.0
+Horticulture & Agronomy,52500.0,65900.0
+Health Services Administration,42700.0,65800.0
+Multidisciplinary Studies,41800.0,65800.0
+Restaurant & Food Service Management,43900.0,65800.0
+Consumer Affairs,51000.0,65700.0
+Training and Development,52600.0,65600.0
+Health & Exercise Science,41700.0,65600.0
+Electronic Media,45300.0,65600.0
+Environmental Resource Management,48700.0,65500.0
+Theatre Arts,43500.0,65300.0
+Applied Linguistics,46800.0,65200.0
+African American & African Studies,46400.0,65100.0
+Exercise & Sports Science,42600.0,65100.0
+General Studies,43600.0,65100.0
+Justice Studies,45300.0,65100.0
+Video Production,42800.0,65100.0
+Graphic Arts,42700.0,64900.0
+Physical Education Teaching,42200.0,64900.0
+Health Services Management,41600.0,64800.0
+Physical Education & Exercise Science,44100.0,64800.0
+Drawing,37400.0,64800.0
+Exercise Science,41400.0,64700.0
+Printmaking,38400.0,64300.0
+Sports Administration,43300.0,64300.0
+Theology,42800.0,64300.0
+Interior Design & Merchandising,43700.0,64200.0
+Recreation & Leisure Studies,40300.0,64200.0
+Human Development,43700.0,64100.0
+Music Industry,45800.0,64100.0
+Wildlife Management,39700.0,64100.0
+Supervision & Management,41700.0,64100.0
+Health & Wellness,40100.0,64000.0
+Culinary Arts & Food Service Management,41300.0,64000.0
+Mortuary Science,43500.0,64000.0
+Clinical Psychology,43000.0,63900.0
+Community Health Education,42600.0,63900.0
+Dance,45100.0,63900.0
+Speech Pathology,42800.0,63700.0
+Gender Studies,45500.0,63600.0
+Secondary English Teacher Education,42000.0,63600.0
+Photography,43800.0,63500.0
+English Teacher Education,43300.0,63100.0
+Paralegal Studies,39600.0,63100.0
+Social Studies Teacher Education,43400.0,63100.0
+Teaching English as a Second Language (ESL),42800.0,63000.0
+Music Teacher Education,42000.0,63000.0
+Health Promotion,42300.0,62800.0
+Recording Arts,44800.0,62800.0
+Photojournalism,41900.0,62600.0
+Recreation Administration,47000.0,62500.0
+Radio Broadcasting,46300.0,62400.0
+Sculpture,40300.0,62200.0
+Painting,40700.0,62000.0
+Psychology & Social Sciences,42600.0,62000.0
+Health & Physical Education Teaching,38700.0,61900.0
+Organizational Administration,45000.0,61800.0
+Tourism Management,43100.0,61600.0
+Instrumental Music Teacher Education,41700.0,61600.0
+Emergency Medical Services (EMS),44200.0,61400.0
+Community Health,45400.0,61300.0
+Health & Human Performance,38100.0,61100.0
+Music Therapy,43100.0,60700.0
+Social Services,39900.0,60500.0
+Rehabilitation Services,35800.0,60200.0
+Horticulture,43000.0,60100.0
+University Studies,42400.0,60000.0
+Church Ministries,40000.0,59900.0
+Communicative Disorders,47400.0,59800.0
+Social Science Teacher Education,45400.0,59800.0
+Wildlife Biology,42900.0,59800.0
+Community Development,44600.0,59400.0
+Psychology & Human Services,35600.0,59400.0
+Athletic Training,42100.0,59300.0
+Biblical Studies,40500.0,59000.0
+Biblical Studies & Practical Ministries,36400.0,58900.0
+Counseling Psychology,42700.0,58900.0
+Recreational Studies,42100.0,58900.0
+Teaching,42000.0,58900.0
+Home Economics,41800.0,58700.0
+Library & Information Science,48200.0,58700.0
+Human Development & Family Studies,40300.0,58600.0
+Tourism & Travel,42200.0,58600.0
+Landscape Design,49000.0,58500.0
+Ceramics,42200.0,58300.0
+Clinical Social Work (CSW),43500.0,58300.0
+Parks & Recreation Management,42700.0,58300.0
+Pastoral Ministry,38700.0,58000.0
+Vocal Performance,42600.0,58000.0
+Art Teacher Education,40300.0,57500.0
+Bible Studies & Theology,40000.0,57500.0
+Forensic Accounting,48300.0,57200.0
+Communication Sciences & Disorders,43300.0,57100.0
+Legal Assistant Studies,38100.0,57100.0
+Special Education,41300.0,57000.0
+Conservation Biology,42800.0,56900.0
+Family Studies,39200.0,56800.0
+Christian Ministry,38100.0,56400.0
+Speech & Hearing,43300.0,56400.0
+Health and Human Services,43500.0,56300.0
+Musical Theatre,43500.0,56100.0
+History Teacher Education,47700.0,55600.0
+Developmental Psychology,38200.0,55000.0
+Therapeutic Recreation,39500.0,54900.0
+Applied Behavioral Science,40500.0,54600.0
+Community & Human Services,42400.0,54600.0
+Social Work (SW),38600.0,54600.0
+Office Administration,38700.0,54500.0
+Ministry,36700.0,54300.0
+Family & Community Services,42200.0,54300.0
+Youth Ministry,37400.0,54200.0
+Elementary Education,40000.0,53800.0
+Voice & Opera,34500.0,53300.0
+Christian Education,38700.0,53200.0
+Conflict Resolution,44400.0,53200.0
+Baking & Pastry Arts,37500.0,53000.0
+Human Services Management,45600.0,53000.0
+Hospitality & The Culinary Arts,38800.0,52900.0
+Human Services (HS),38700.0,52500.0
+Counseling,39900.0,51700.0
+Recreational Therapy,38400.0,51600.0
+Child Development,37400.0,51400.0
+Educational Psychology,36900.0,51200.0
+Middle School Education,41200.0,50800.0
+Mental Health Counseling,36100.0,50000.0
+Early Childhood & Elementary Education,38000.0,48400.0
+Equine Studies,35700.0,47100.0
+Addiction Studies,38000.0,47000.0
+Child & Family Studies,36400.0,46500.0
+Rehabilitation Counseling,39200.0,46400.0
+Outdoor Education,37400.0,46300.0
+Early Childhood Education,36100.0,45400.0
+Mental Health,36900.0,45000.0
+Medical Assisting,36000.0,44800.0
+Metalsmithing,40000.0,40300.0

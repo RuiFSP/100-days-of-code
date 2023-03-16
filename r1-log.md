@@ -18,16 +18,26 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D75--------------------------------------------------------------------------------
+
+- Data Science
+    - GoogleColab [Start](https://colab.research.google.com/)
+    - Jupyter [Docs](https://jupyter.org/)
+    - Pandas [Docs](https://pandas.pydata.org/)
+    - Beautiful Soup [Docs](https://beautiful-soup-4.readthedocs.io/en/latest/#)
+
+The end Project is [The Highest Paying Job ](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day75)
+
 ### R1D74--------------------------------------------------------------------------------
 
 Day74 - Deploying Your Web Application with Render
 
 - Tools
-  - Heroku [website](https://www.heroku.com/)
-  - Render [website - free alternative to heroku](https://render.com/)
-  - GitHub [website](https://github.com/)
-  - gunicorn [website]()
-  - gitignore templates [gitignore](https://www.toptal.com/developers/gitignore/)  
+    - Heroku [website](https://www.heroku.com/)
+    - Render [website - free alternative to heroku](https://render.com/)
+    - GitHub [website](https://github.com/)
+    - gunicorn [website]()
+    - gitignore templates [gitignore](https://www.toptal.com/developers/gitignore/)
 
 The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day74)
 
@@ -36,12 +46,13 @@ The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of
 Day73 - Blog Capstone Project - Part4.2
 
 features:
+
 - Creating Relational Databases - [SQLAlchemy](https://docs.sqlalchemy.org/en/20/orm/quickstart.html)
 - Allow any User to Add Comments to Blogposts
 - Flask Gravatars - [Docs](https://pythonhosted.org/Flask-Gravatar/)
 
 - Useful stuff
-  - [one-to-many relations](https://www.youtube.com/watch?v=VVX7JIWx-ss&list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW)
+    - [one-to-many relations](https://www.youtube.com/watch?v=VVX7JIWx-ss&list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW)
 
 The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day73)
 
@@ -51,7 +62,8 @@ Day72 - Blog Capstone Project - Part4.1
 
 - Register new Users and Login Register Users
 
-The end Project is [Blog Capstone Project - Part4](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day72)
+The end Project
+is [Blog Capstone Project - Part4](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day72)
 
 ### R1D71--------------------------------------------------------------------------------
 
