@@ -18,6 +18,14 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D76--------------------------------------------------------------------------------
+
+- Data Science
+    - Pandas [Docs](https://pandas.pydata.org/)
+    - Matplotlib [Docs](https://matplotlib.org/stable/index.html)
+
+The end Project is [TOP Programming languages ](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day76)
+
 ### R1D75--------------------------------------------------------------------------------
 
 - Data Science
