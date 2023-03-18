@@ -18,6 +18,21 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D77--------------------------------------------------------------------------------
+
+- Data Science
+    - Pandas [Docs](https://pandas.pydata.org/)
+    - Matplotlib [Docs](https://matplotlib.org/stable/index.html)
+
+- useful sites:
+  - Cheatsheets [pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+  - How to select rows based on columns values [solutions](https://www.statology.org/pandas-select-rows-based-on-column-values/)
+  - pandas [agg](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.agg.html?highlight=agg#pandas.DataFrame.agg)
+  - Select rows of df with date index [stack question](https://stackoverflow.com/questions/39961862/select-rows-of-dataframe-with-datetime-index-based-on-date)
+  - Matplotlib [scatter plot](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.scatter.html)
+
+The end Project is [Exploring LEGO dataset](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day77)
+
 ### R1D76--------------------------------------------------------------------------------
 
 - Data Science
