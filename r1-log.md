@@ -18,7 +18,33 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D79--------------------------------------------------------------------------------
+
+- Day79 - Beautiful Plotly Charts & Analysing the android App Store
+
+- Pandas:
+    - Return a random sample of items from an axis of
+      object [sample](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sample.html)
+    - Return boolean Series denoting duplicate
+      rows [duplicated](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.duplicated.html)
+    - Return DataFrame with duplicate rows
+      removed [drop_duplicates](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop_duplicates.html)
+    - Return a reshaped DataFrame or Series having a multi-level
+      index [stack](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.stack.html)
+    -
+- Ploty:
+    - Pie Charts in Python [Pie](https://plotly.com/python/pie-charts/)
+    - Scatter chart in Python [Scatter](https://plotly.com/python-api-reference/generated/plotly.express.scatter.html)
+    - Categorical Axes in
+      Python [Categorical Axes](https://plotly.com/python/categorical-axes/#automatically-sorting-categories-by-name-or-total-value)
+    - Built-in Continuous Color Scales in
+      Python [continuous color scales](https://plotly.com/python/builtin-colorscales/#using-builtin-continuous-color-scales)
+
+The end Project is [Google Play Store App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day79)
+
 ### R1D78--------------------------------------------------------------------------------
+
+- Day78 - Google Trends Data: Resampling and Visualising Time Series
 
 - Pandas:
     - [Pandas Resample](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.resample.html)
@@ -36,6 +62,8 @@ The end Project is [Google Trends](https://github.com/RuiFSP/100-days-of-code/tr
 
 ### R1D77--------------------------------------------------------------------------------
 
+- Day77 - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+
 - Data Science
     - Pandas [Docs](https://pandas.pydata.org/)
     - Matplotlib [Docs](https://matplotlib.org/stable/index.html)
@@ -45,7 +73,7 @@ The end Project is [Google Trends](https://github.com/RuiFSP/100-days-of-code/tr
     - How to select rows based on columns
       values [solutions](https://www.statology.org/pandas-select-rows-based-on-column-values/)
     -
-    pandas [agg](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.agg.html?highlight=agg#pandas.DataFrame.agg)
+  pandas [agg](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.agg.html?highlight=agg#pandas.DataFrame.agg)
     - Select rows of df with date
       index [stack question](https://stackoverflow.com/questions/39961862/select-rows-of-dataframe-with-datetime-index-based-on-date)
     - Matplotlib [scatter plot](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.scatter.html)
@@ -54,6 +82,8 @@ The end Project is [Exploring LEGO dataset](https://github.com/RuiFSP/100-days-o
 
 ### R1D76--------------------------------------------------------------------------------
 
+- Day76 - Data Visualisation with Matplotlib: Programming Languages
+
 - Data Science
     - Pandas [Docs](https://pandas.pydata.org/)
     - Matplotlib [Docs](https://matplotlib.org/stable/index.html)
@@ -61,6 +91,8 @@ The end Project is [Exploring LEGO dataset](https://github.com/RuiFSP/100-days-o
 The end Project is [TOP Programming languages ](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day76)
 
 ### R1D75--------------------------------------------------------------------------------
+
+Day75 - Data Exploration with Pandas: College Major vs Your Salary
 
 - Data Science
     - GoogleColab [Start](https://colab.research.google.com/)
