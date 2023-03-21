@@ -18,6 +18,26 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D80--------------------------------------------------------------------------------
+
+- Day80 - Computation with NumPy and N-Dimensional Arrays
+
+- NumPy:
+    - The fundamental package for scientific computing with Python [NumPy](https://numpy.org/)
+    - Return evenly spaced values within a given
+      interval [Arrange](https://numpy.org/devdocs/reference/generated/numpy.arange.html)
+    - Return random
+      integers [random.Generator.integers](https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.integers.html#numpy.random.Generator.integers)
+    - Return evenly spaced numbers over a specified
+      interval [linspace](https://numpy.org/doc/stable/reference/generated/numpy.linspace.html)
+    - Matrix product of two arrays "@" or [matmul](https://numpy.org/doc/stable/reference/generated/numpy.matmul.html)
+
+- Matplotlib:
+    - Display data as an image, i.e., on a 2D regular
+      raster [imshow](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imshow.html)
+
+The end Project is [Google Play Store App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day80)
+
 ### R1D79--------------------------------------------------------------------------------
 
 - Day79 - Beautiful Plotly Charts & Analysing the android App Store
