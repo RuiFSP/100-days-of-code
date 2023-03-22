@@ -18,6 +18,21 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D81--------------------------------------------------------------------------------
+
+- Day81 - Linear Regression and Data visualisation with Seaborn
+
+- Pandas:
+    - Query the columns of a DataFrame with a boolean expression [query](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.query.html)
+
+- Seaborn:
+    - Seaborn is a Python data visualization library based on matplotlib [seaborn](https://seaborn.pydata.org/)
+
+- Scikit-Learn:
+  - Machine Learning in Python [scikit learn](https://scikit-learn.org/stable/)
+
+The end Project is [Google Play Store App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day81)
+
 ### R1D80--------------------------------------------------------------------------------
 
 - Day80 - Computation with NumPy and N-Dimensional Arrays
