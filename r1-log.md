@@ -18,6 +18,21 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D82--------------------------------------------------------------------------------
+
+- Day82 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn
+
+- Pandas:
+    - 
+
+- Seaborn:
+    - 
+
+
+
+The end Project is [Nobel Prize](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day82)
+
+
 ### R1D81--------------------------------------------------------------------------------
 
 - Day81 - Linear Regression and Data visualisation with Seaborn
@@ -31,7 +46,7 @@ My working IDE
 - Scikit-Learn:
   - Machine Learning in Python [scikit learn](https://scikit-learn.org/stable/)
 
-The end Project is [Google Play Store App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day81)
+The end Project is [Movies Budget](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day81)
 
 ### R1D80--------------------------------------------------------------------------------
 
