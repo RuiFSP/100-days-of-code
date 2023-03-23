@@ -22,12 +22,11 @@ My working IDE
 
 - Day82 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn
 
-- Pandas:
-    - 
-
-- Seaborn:
-    - 
-
+- Plotly Bar & Donut Charts: analyse Prize Categories & Women Winning Prizes
+- Using Matplotlib to Visualise Trends over Time
+- A choropleth Map and the Countries with the Most Prizes
+- Create sunburst Charts for a Detailed Regional Breakdown of research Locations
+- Unearthing Patterns in the Laureate age at the time of the award
 
 
 The end Project is [Nobel Prize](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day82)
