@@ -18,6 +18,21 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D83--------------------------------------------------------------------------------
+
+- Day83 - The tragic discovery of Handwashing : t-Tests & Distribuitions
+
+- How to make a compelling argument using data 
+- How to superimpose histograms to show differences in distributions 
+- How to use a Kernel Density Estimate (KDE) to show a graphic estimate of a distribution. 
+- How to use scipy and test for statistical significance by looking at p-values. 
+- How to highlight different parts of a time series chart in Matplotib. 
+- How to add and configure a Legend in Matplotlib. 
+- Use NumPy's .where() function to process elements depending on a condition.
+
+
+The end Project is [Postpartum infections Investigation](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day83)
+
 ### R1D82--------------------------------------------------------------------------------
 
 - Day82 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn
@@ -28,22 +43,21 @@ My working IDE
 - Create sunburst Charts for a Detailed Regional Breakdown of research Locations
 - Unearthing Patterns in the Laureate age at the time of the award
 
-
 The end Project is [Nobel Prize](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day82)
-
 
 ### R1D81--------------------------------------------------------------------------------
 
 - Day81 - Linear Regression and Data visualisation with Seaborn
 
 - Pandas:
-    - Query the columns of a DataFrame with a boolean expression [query](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.query.html)
+    - Query the columns of a DataFrame with a boolean
+      expression [query](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.query.html)
 
 - Seaborn:
     - Seaborn is a Python data visualization library based on matplotlib [seaborn](https://seaborn.pydata.org/)
 
 - Scikit-Learn:
-  - Machine Learning in Python [scikit learn](https://scikit-learn.org/stable/)
+    - Machine Learning in Python [scikit learn](https://scikit-learn.org/stable/)
 
 The end Project is [Movies Budget](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day81)
 
