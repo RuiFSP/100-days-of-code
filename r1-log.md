@@ -18,6 +18,16 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+
+### R1D85--------------------------------------------------------------------------------
+
+- Day85 - Capstone Project: Text to Morse Code Converter
+
+- Morse Code [Wikipedia](https://en.wikipedia.org/wiki/Morse_code)
+
+The end Project is [Text to Morse Code converter](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day85)
+
+
 ### R1D84--------------------------------------------------------------------------------
 
 - Day84 - Capstone Project: Predict House Prices
