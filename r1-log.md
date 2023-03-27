@@ -18,10 +18,20 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D86--------------------------------------------------------------------------------
+
+- Day86 - Capstone Project 2/20: Portfolio Website
+
+- Started working on portfolio project with flask, bootstrap, css, grid. 
+- Finished header and navbar.
+- working on main section
+
+The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day86)
+
 
 ### R1D85--------------------------------------------------------------------------------
 
-- Day85 - Capstone Project: Text to Morse Code Converter
+- Day85 - Capstone Project 1/20: Text to Morse Code Converter
 
 - Morse Code [Wikipedia](https://en.wikipedia.org/wiki/Morse_code)
 
