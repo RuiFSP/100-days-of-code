@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="../static/style.css" />
     <link rel="icon" type="image/png" href="../static/img/asset-15.jpg" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
-    <script src="../static/script.js" defer></script>
     <script src="../static/bootstrap/js/bundle.min.js" defer></script>
+    <script src="../static/script.js" defer></script>
     <title>Rui Code</title>
   </head>
   <body>
@@ -38,10 +38,10 @@
       <nav id="navbar" class="nav-menu">
         <ul class="nav flex-column">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#"><i class="bi bi-house"></i> Home</a>
+            <a class="nav-link active" aria-current="page" href="#home"><i class="bi bi-house"></i> Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#"><i class="bi bi-person"></i> About</a>
+            <a class="nav-link" href="#about"><i class="bi bi-person"></i> About</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#"><i class="bi bi-list-check"></i> Skills</a>
@@ -60,7 +60,7 @@
     </aside>
   
     <main id="main">
-      <section id="start" class="row m-0 p-0">
+      <section id="home" class="row m-0 p-0">
         <div class="col-md-5 d-flex justify-content-center align-items-center flex-column">
           <h2 class="text-white text-shadow">Rui Pinto</h2>
           <span id="subtitle" class="text-white text-shadow">Junior Developer, Marathon Runner and Nice Guy 😀</span>
@@ -69,9 +69,87 @@
         <div class="col-md-7 d-flex justify-content-end align-items-end flex-column">
           <div id="scroll_down" class="d-flex align-items-center">
             <i class="bi bi-arrow-down text-white pe-2 fs-2" ></i>
-            <a href="">Scroll Down</a>
+            <a href="#about">Scroll Down</a>
           </div>
         </div>
+      </section>
+      <section class="container mt-5" id="about">
+      
+        <div class="row w-120">
+          <div class="col-md-12">
+            <h2 class="pt-3">About</h2>
+            <p>
+              Life is full of unexpected twists and turns, and sometimes we are forced to reinvent ourselves in
+              order to thrive in new circumstances. This was the case for me after the onset of Covid-19, which
+              me to pivot from my career in lean six sigma methodology and explore one of my true passions: programming.
+              
+              Despite being a novice in this field, I was determined to succeed and enrolled in a coding bootcamp
+              to learn the skills necessary to excel in this exciting and dynamic industry. Since then, I have
+              never looked back and have become increasingly passionate about programming, eager to absorb as much
+              knowledge and expertise as possible.
+              
+              This experience has taught me that it is never too late to learn and pursue your passions. Life is
+              full of opportunities to reinvent yourself and explore new passions, and we should seize these
+              opportunities with enthusiasm and determination. With a commitment to continuous learning and growth,
+              there are no limits to what we can achieve.
+            </p>
+          </div>
+        </div>
+        
+        <div class="row mt-4">
+          <div class="col-md-4">
+            <img class="img-fluid shadow" src="../static/img/perfil2.jpg" alt="rui foto2" srcset="">
+          </div>
+          <div class="col-md-8">
+            <h3>Junior Software Developer</h3>
+            <p> As a professional currently employed with BNP Paribas CIB in the GBA team
+              (Global Booking and Allocation), I am responsible for implementing and managing the deployment
+              of a Java-based application. This application is critical to the operations of our team and helps
+              us efficiently manage bookings and allocations.
+            </p>
+              <div class="row mt-3 mb-3">
+                <div class="col-md-6">
+                  <ul class="list-group list-group-flush fs-5">
+                    <li class="list-group-item">
+                      Birthday: <span class="fw-lighter">23 de March de 1980</span>
+                    </li>
+                    <li class="list-group-item">
+                      Age: <span class="fw-lighter">43 years</span>
+                    </li>
+                    <li class="list-group-item">
+                      Country: <span class="fw-lighter">Portugal</span>
+                    </li>
+                  </ul>
+                </div>
+                <div class="col-md-6">
+                  <ul class="list-group list-group-flush fs-5">
+                    <li class="list-group-item">
+                      City: <span class="fw-lighter">Lisbon</span>
+                    </li>
+                    <li class="list-group-item">
+                      Work: <a href="https://www.hexa-group.pt/"
+                               target="_blank"
+                               class="fw-lighter text-decoration-none link-dark">Hexa Consulting</a></li>
+                    </li>
+                    <li class="list-group-item">
+                      Experience: <span class="fw-lighter">+1 years</span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            <p>
+                My diverse set of interests and hobbies includes marathon running, cooking, data science,
+              building prediction models, gaming, and traveling. As a runner, I push myself to my limits and
+              enjoy the mental and physical challenges that come with long-distance races. Cooking is another
+              passion that allows me to explore new flavors and techniques, while data science challenges me to
+              analyze patterns and create predictive models. Gaming provides a fun escape and a chance to engage in
+              strategic thinking and socializing with others, while traveling broadens my horizons and provides a
+              unique opportunity for exploration and self-discovery
+            </p>
+            
+          </div>
+        </div>
+      
       </section>
     </main>
   </body>
