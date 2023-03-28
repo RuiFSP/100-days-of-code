@@ -18,9 +18,18 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D87--------------------------------------------------------------------------------
+
+- Day87 - Capstone Project 2/20: Portfolio Website - Part 2/
+
+- Added responsive menu
+
+The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day87)
+
+
 ### R1D86--------------------------------------------------------------------------------
 
-- Day86 - Capstone Project 2/20: Portfolio Website
+- Day86 - Capstone Project 2/20: Portfolio Website - - Part 1/
 
 - Started working on portfolio project with flask, bootstrap, css, grid. 
 - Finished header and navbar.
