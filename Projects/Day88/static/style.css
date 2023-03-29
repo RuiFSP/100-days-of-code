@@ -43,7 +43,6 @@ html, body {
     color: #fff;
     padding: 0.6rem;
     margin-right: 1rem;
-    border-radius;
     transition: 0.3s;
     text-decoration: none;
     border-radius: 50%;
@@ -63,11 +62,11 @@ html, body {
     align-items: center;
     color: #a8a9b4;
     transition: 0.3s;
-    font-size 15px;
+    font-size: 15px;
 }
 
 .nav-menu a i,.nav-menu a:focus i{
-    font-size. 24px;
+    font-size: 24px;
     padding-right: 0.8rem;
     color: #677180;
 }
@@ -102,7 +101,6 @@ section#home h2 {
 }
 
 section#home span#subtitle {
-    /*margin-right: 8rem;*/
     font-size: 1.5rem;
 }
 
@@ -202,7 +200,7 @@ i.menu-mobile {
 }
 
 .cv .cv-item h4 {
-    line-weight: 18px;
+    line-height: 18px;
     font-weight: 600;
     text-transform: uppercase;
     font-family: "Poppins", sans-serif;
@@ -244,6 +242,34 @@ i.menu-mobile {
     margin-bottom: -35px;
 }
 
+
+/* ----- animation ------ */
+[data-anime] {
+    opacity: 0;
+    transition: 2s;
+}
+
+[data-anime="down"] {
+    transform: translate3d(0, -100%, 0);
+}
+
+[data-anime="up"] {
+    transform: translate3d(0, 100%, 0);
+}
+
+[data-anime="left"] {
+    transform: translate3d(-100%, 0, 0);
+}
+
+[data-anime="right"] {
+    transform: translate3d(50px, 0, 0);
+}
+
+[data-anime].animate {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+}
+
 @media (max-width: 1860px){
     .carousel-control-prev {
         margin-left: 0;
@@ -251,5 +277,8 @@ i.menu-mobile {
 
     .carousel-control-next {
         margin-right: 0;
+    }
+    [data-anime="right"] {
+        transform: translate3d(0,100%, 0);
     }
 }
