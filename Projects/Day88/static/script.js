@@ -1,4 +1,4 @@
-/* Open and close navbar bar for mobile */
+// Open and close navbar bar for mobile
 
 const mobileMenu = document.querySelector('.menu-mobile');
 const body = document.querySelector('body');
@@ -10,7 +10,7 @@ mobileMenu.addEventListener('click', () => {
     body.classList.toggle('menu-nav-active');
 });
 
-/* Close menu when an item is clicked and change icon to list */
+// Close menu when an item is clicked and change icon to list
 
 const navItem = document.querySelectorAll('.nav-item')
 
@@ -21,5 +21,24 @@ navItem.forEach(item => {
             mobileMenu.classList.replace('bi-x', 'bi-list')
         }
     })
+})
 
+// animate all data-anime items
+
+const item = document.querySelectorAll("[data-anime]");
+
+const animeScroll = () => {
+    const windowTop = window.pageYOffset + window.innerHeight * 0.85;
+
+    item.forEach(el => {
+        if (windowTop > el.offsetTop) {
+            el.classList.add("animate")
+        } else {
+            el.classList.remove("animate")
+        }
+    });
+};
+
+window.addEventListener("scroll", () => {
+    animeScroll();
 })
