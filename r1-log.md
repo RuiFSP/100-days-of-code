@@ -24,7 +24,9 @@ My working IDE
 
 - Skills Section
 - Curriculum Section
-- 
+- Portfolio Section
+- Contact Section
+- Responsive Layout 
 
 The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day88)
 
