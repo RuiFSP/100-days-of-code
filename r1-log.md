@@ -22,6 +22,8 @@ My working IDE
 
 - Day88 - Capstone Project 2/20: Portfolio Website - Part 3/
 
+- Skills Section
+- Curriculum Section
 
 The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day88)
 
