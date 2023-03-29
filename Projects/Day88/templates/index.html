@@ -515,24 +515,31 @@
             
             <div class="col-md-7 mt-5 mt-md-0">
               <div class="card p-5 h-100 shadow border-0" data-anime="left">
-                <form class="row g-3">
+                
+                <form class="row g-3" action="/send" method="POST">
                   <div class="col-md-6">
                     <label for="name" class="form-label">Name:</label>
                     <input type="text" class="form-control" id="name" name="name"
-                           placeholder="Write your name">
+                           placeholder="Write your name" required>
                   </div>
                   <div class="col-md-6">
                     <label for="email" class="form-label">Email:</label>
                     <input type="email" class="form-control" id="email" name="email"
-                           placeholder="Write your email">
+                           placeholder="Write your email" required>
                   </div>
                   <div class="col-12">
                     <label for="message" class="form-label">Message:</label>
                     <textarea class="form-control" id="message" rows="10"
-                              placeholder="Write your message" name="message"></textarea>
+                              placeholder="Write your message" name="message" required></textarea>
                   </div>
                   <div class="col-12 d-flex justify-content-center mt-4">
-                    <button type="submit" class="btn btn-primary">Send your message</button>
+                    <button id="btn-send" type="submit" class="btn btn-primary">Send your message</button>
+                    
+                    <button id="btn-send-loader" class="btn btn-primary" type="button" disabled>
+                      <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                      Sending Message...
+                    </button>
+                    
                   </div>
                 </form>
                 
@@ -545,8 +552,27 @@
         
       </section>
       
+      {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        {% for message in messages %}
+        <div id="msg-alert" class="alert alert-success alert-dismissible fade show" role="alert">
+          <i class="bi bi-check-circle"></i> {{ message }}
+          <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+        {% endfor %}
+      {% endif %}
+      {% endwith %}
+      
     </main>
-  
+    
+    <footer id="footer">
+      <div class="container">
+        <div class="text-center">
+          &copy; Copyright <strong>Rui Pinto</strong>
+        </div>
+      </div>
+      
+    </footer>
     
   </body>
 </html>

@@ -42,3 +42,20 @@ const animeScroll = () => {
 window.addEventListener("scroll", () => {
     animeScroll();
 })
+
+// send loading button
+
+const btnSend = document.querySelector("btn-send")
+const btnSendLoader = document.querySelector("btn-send-loader")
+
+
+btnSend.addEventListener("click", () => {
+    btnSendLoader.style.display = "block";
+    btnSend.style.display = "none";
+})
+
+//delete confirmation message after 5 seg
+
+setTimeout(() => {
+    document.querySelector('msg-alert').style.display = 'none';
+}, 3000)
