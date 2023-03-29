@@ -18,11 +18,19 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D88--------------------------------------------------------------------------------
+
+- Day88 - Capstone Project 2/20: Portfolio Website - Part 3/
+
+
+The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day88)
+
 ### R1D87--------------------------------------------------------------------------------
 
 - Day87 - Capstone Project 2/20: Portfolio Website - Part 2/
 
 - Added responsive menu
+- Finished About me section
 
 The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day87)
 
