@@ -18,38 +18,45 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D89--------------------------------------------------------------------------------
+
+- Day89 - Capstone Project 2/20: Portfolio Website - Part 4/4
+
+- updated images and links to project in portfolio
+- deployed website on netlify
+
+The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day89)
+
 ### R1D88--------------------------------------------------------------------------------
 
-- Day88 - Capstone Project 2/20: Portfolio Website - Part 3/
+- Day88 - Capstone Project 2/20: Portfolio Website - Part 3/4
 
 - Skills Section
 - Curriculum Section
 - Portfolio Section
 - Contact Section
-- Responsive Layout 
+- Responsive Layout
 
 The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day88)
 
 ### R1D87--------------------------------------------------------------------------------
 
-- Day87 - Capstone Project 2/20: Portfolio Website - Part 2/
+- Day87 - Capstone Project 2/20: Portfolio Website - Part 2/4
 
 - Added responsive menu
 - Finished About me section
 
 The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day87)
 
-
 ### R1D86--------------------------------------------------------------------------------
 
-- Day86 - Capstone Project 2/20: Portfolio Website - - Part 1/
+- Day86 - Capstone Project 2/20: Portfolio Website - - Part 1/4
 
-- Started working on portfolio project with flask, bootstrap, css, grid. 
+- Started working on portfolio project with flask, bootstrap, css, grid.
 - Finished header and navbar.
 - working on main section
 
 The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day86)
-
 
 ### R1D85--------------------------------------------------------------------------------
 
@@ -59,36 +66,34 @@ The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-cod
 
 The end Project is [Text to Morse Code converter](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day85)
 
-
 ### R1D84--------------------------------------------------------------------------------
 
 - Day84 - Capstone Project: Predict House Prices
 
-- How to quickly spot relationships in a dataset using Seaborn's .pairplot(). 
-- How to split the data into a training and testing dataset to better evaluate a model's performance. 
-- How to run a multivariable regression. 
-- How to evaluate that regression-based on the sign of its coefficients. 
-- How to analyse and look for patterns in a model's residuals. 
-- How to improve a regression model using (a log) data transformation. 
+- How to quickly spot relationships in a dataset using Seaborn's .pairplot().
+- How to split the data into a training and testing dataset to better evaluate a model's performance.
+- How to run a multivariable regression.
+- How to evaluate that regression-based on the sign of its coefficients.
+- How to analyse and look for patterns in a model's residuals.
+- How to improve a regression model using (a log) data transformation.
 - How to specify your own values for various features a
 
 The end Project is [Predict House Prices](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day84)
-
 
 ### R1D83--------------------------------------------------------------------------------
 
 - Day83 - The tragic discovery of Handwashing : t-Tests & Distribuitions
 
-- How to make a compelling argument using data 
-- How to superimpose histograms to show differences in distributions 
-- How to use a Kernel Density Estimate (KDE) to show a graphic estimate of a distribution. 
-- How to use scipy and test for statistical significance by looking at p-values. 
-- How to highlight different parts of a time series chart in Matplotib. 
-- How to add and configure a Legend in Matplotlib. 
+- How to make a compelling argument using data
+- How to superimpose histograms to show differences in distributions
+- How to use a Kernel Density Estimate (KDE) to show a graphic estimate of a distribution.
+- How to use scipy and test for statistical significance by looking at p-values.
+- How to highlight different parts of a time series chart in Matplotib.
+- How to add and configure a Legend in Matplotlib.
 - Use NumPy's .where() function to process elements depending on a condition.
 
-
-The end Project is [Postpartum infections Investigation](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day83)
+The end Project
+is [Postpartum infections Investigation](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day83)
 
 ### R1D82--------------------------------------------------------------------------------
 
