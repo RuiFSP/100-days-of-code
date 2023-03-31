@@ -18,6 +18,17 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D90--------------------------------------------------------------------------------
+
+- Day90 - Tic Tac Toe - OOP version
+  - implemented a simple tic-tac-toe
+  - focused on using oop
+  - refactoring some classes
+  - creating docstrings for documentation
+
+
+The end Project is [Tic Tac Toe](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day90)
+
 ### R1D89--------------------------------------------------------------------------------
 
 - Day89 - Capstone Project 2/20: Portfolio Website - Part 4/4
