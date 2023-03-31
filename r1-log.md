@@ -21,6 +21,10 @@ My working IDE
 ### R1D90--------------------------------------------------------------------------------
 
 - Day90 - Tic Tac Toe - OOP version
+  - implemented a simple tic-tac-toe
+  - focused on using oop
+  - refactoring some classes
+  - creating docstrings for documentation
 
 
 The end Project is [Tic Tac Toe](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day90)
