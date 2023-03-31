@@ -7,7 +7,8 @@ class Board:
 
     Methods:
         display_board(): Displays the board game.
-        update_board(position: int, marker: str) -> None: Updates the board with the specified marker at the given position.
+        update_board(position: int, marker: str) -> None: Updates the board with the specified marker at the given
+        position.
         is_position_empty(position: int) -> bool: Returns True if the given position is empty, False otherwise.
         is_board_full() -> bool: Returns True if the board is full, False otherwise.
     """

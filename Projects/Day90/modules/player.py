@@ -38,4 +38,3 @@ class Player:
                     print('Move must be between 1 and 9. Try again.')
             except ValueError:
                 print('Invalid input. Try again.')
-

@@ -1,5 +1,6 @@
 from Projects.Day90.modules.tictactoe import TicTacToe
 
+
 def main() -> None:
     """
     The main function that runs the TicTacToe game.
