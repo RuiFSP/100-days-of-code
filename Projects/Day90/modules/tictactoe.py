@@ -7,11 +7,6 @@ class TicTacToe:
         """
         Initializes a new Tic Tac Toe game.
 
-        Args:
-        None
-
-        Returns:
-        None
         """
         self.board: List[str] = [" "] * 9
         self.current_player: str = "X"
@@ -20,11 +15,6 @@ class TicTacToe:
         """
         Draws the Tic Tac Toe board.
 
-        Args:
-        None
-
-        Returns:
-        None
         """
         for i in range(0, 9, 3):
             row = self.board[i:i + 3]
@@ -51,12 +41,6 @@ class TicTacToe:
     def switch_player(self) -> None:
         """
         Switches the current player.
-
-        Args:
-        None
-
-        Returns:
-        None
         """
         if self.current_player == "X":
             self.current_player = "O"
@@ -85,9 +69,6 @@ class TicTacToe:
         """
         Checks if the board is full.
 
-        Args:
-        None
-
         Returns:
         bool: True if the board is full, False otherwise.
         """
@@ -96,12 +77,6 @@ class TicTacToe:
     def play(self) -> None:
         """
         Starts the Tic Tac Toe game.
-
-        Args:
-        None
-
-        Returns:
-        None
         """
         while True:
             if self.current_player == "X":
