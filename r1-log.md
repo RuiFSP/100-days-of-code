@@ -31,10 +31,10 @@ The end Project is [Tic Tac Toe](https://github.com/RuiFSP/100-days-of-code/tree
 ### R1D91--------------------------------------------------------------------------------
 
 - Day91 - Capstone Project 4/20: A Desktop program where you can upload images and add a watermark
-    -
-    - 
-The end Project
-is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day91)
+    - Created a desktop program with image upload and watermark feature using tkinter. Paid attention to documentation,
+    - type safety, and robustness. Excited to keep building
+
+The end Project is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day91)
 
 ### R1D90--------------------------------------------------------------------------------
 
