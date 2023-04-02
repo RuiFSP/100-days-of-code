@@ -18,6 +18,16 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D92--------------------------------------------------------------------------------
+
+- Day92 - Capstone Project 5/20: A Tkinter GUI desktop application that tests your typing speed
+    - added csv file to save highest score
+    - code is well documented
+    - implemented some type safety
+
+The end Project is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day92)
+
+
 ### R1D91--------------------------------------------------------------------------------
 
 - Day91 - Capstone Project 4/20: A Desktop program where you can upload images and add a watermark
