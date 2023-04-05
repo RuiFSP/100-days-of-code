@@ -18,6 +18,34 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D95--------------------------------------------------------------------------------
+
+- Day95 - Capstone Project 7/20: Finished building a website that lists cafes with wifi and power for remote working
+    - created new templates
+    - add new functionality to edit and delete cafes form database
+    - conversion from csv to sqlite
+
+The end Project is [Cafe and Wifi Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day95)
+
+### R1D94--------------------------------------------------------------------------------
+
+- Day94 - Capstone Project 7/20: Started building a website that lists cafes with wifi and power for remote workingd
+  - Working on building a website that helps remote workers find cafes with wifi and power. Excited to dive into SQL 
+  - alchemy and add some awesome features to make it even better
+
+The end Project is [Cafe and Wifi Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day94)
+
+
+### R1D93--------------------------------------------------------------------------------
+
+- Day93 - Capstone Project 6/20: Using Python Turtle, build a clone of the 80s hit game Breakout 
+    - I had a blast building this game with Python Turtle! It was a fun challenge to recreate a classic game 
+    - like Breakout and see it come to life on the screen. Although I still need to refactor the code to make 
+    - it fully OOP
+
+The end Project is [Breakout Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day93)
+
+
 ### R1D92--------------------------------------------------------------------------------
 
 - Day92 - Capstone Project 5/20: A Tkinter GUI desktop application that tests your typing speed
