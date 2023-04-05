@@ -1,0 +1,60 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block styles %}
+    {{ super() }}
+       <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+{% endblock %}
+
+
+{% block title %}Restaurants{% endblock %}
+
+{% block content %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+
+      <h1>All Cafes</h1>
+
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Location</th>
+            <th>Open Time</th>
+            <th>Close Time</th>
+            <th>Coffee Rating</th>
+            <th>Wifi Rating</th>
+            <th>Power Rating</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for cafe in cafes %}
+            <tr>
+              <td>{{ cafe.name }}</td>
+              <td>{{ cafe.location }}</td>
+              <td>{{ cafe.open_time }}</td>
+              <td>{{ cafe.close_time }}</td>
+              <td>{{ cafe.coffee_rating }}</td>
+              <td>{{ cafe.wifi_rating }}</td>
+              <td>{{ cafe .power_rating }}</td>
+              <td>
+                <a href="{{ url_for('edit_cafe', id=cafe.id) }}" class="btn btn-warning btn-sm">Edit</a>
+              </td>
+              <td>
+                <form action="{{ url_for('delete_cafe', id=cafe.id) }}" method="POST">
+                  <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                </form>
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <p><a href="{{ url_for('home') }}">Return to index page</a></p>
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}
