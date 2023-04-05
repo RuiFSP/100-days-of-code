@@ -1,0 +1,93 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block styles %}
+    {{ super() }}
+       <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+{% endblock %}
+
+{% block title %}Restaurants{% endblock %}
+
+{% block content %}
+  <h1>Edit Cafe</h1>
+  <form method="POST">
+    {{ form.hidden_tag() }}
+    <div class="form-group">
+      {{ form.name.label() }}
+      {{ form.name(class="form-control") }}
+      {% if form.name.errors %}
+        <ul class="errors">
+          {% for error in form.name.errors %}
+            <li>{{ error }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    <div class="form-group">
+      {{ form.location.label() }}
+      {{ form.location(class="form-control") }}
+      {% if form.location.errors %}
+        <ul class="errors">
+          {% for error in form.location.errors %}
+            <li>{{ error }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    <div class="form-group">
+      {{ form.open_time.label() }}
+      {{ form.open_time(class="form-control") }}
+      {% if form.open_time.errors %}
+        <ul class="errors">
+          {% for error in form.open_time.errors %}
+            <li>{{ error }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    <div class="form-group">
+      {{ form.close_time.label() }}
+      {{ form.close_time(class="form-control") }}
+      {% if form.close_time.errors %}
+        <ul class="errors">
+          {% for error in form.close_time.errors %}
+            <li>{{ error }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    <div class="form-group">
+      {{ form.coffee_rating.label() }}
+      {{ form.coffee_rating(class="form-control") }}
+      {% if form.coffee_rating.errors %}
+        <ul class="errors">
+          {% for error in form.coffee_rating.errors %}
+            <li>{{ error }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    <div class="form-group">
+      {{ form.wifi_rating.label() }}
+      {{ form.wifi_rating(class="form-control") }}
+      {% if form.wifi_rating.errors %}
+        <ul class="errors">
+          {% for error in form.wifi_rating.errors %}
+            <li>{{ error }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    <div class="form-group">
+      {{ form.power_rating.label() }}
+      {{ form.power_rating(class="form-control") }}
+      {% if form.power_rating.errors %}
+        <ul class="errors">
+          {% for error in form.power_rating.errors %}
+            <li>{{ error }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    <button type="submit" class="btn btn-primary">Update Cafe</button>
+  </form>
+{% endblock %}
