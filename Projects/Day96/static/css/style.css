@@ -1,0 +1,47 @@
+body {
+  font-family: 'Courier New', monospace;
+  background: #000 url('/static/img/matrix_background.png');
+}
+
+h1, .navbar-brand {
+  font: 700 'Orbitron', sans-serif;
+  color: #00FF00;
+  text-shadow: 2px 2px #008000;
+}
+
+.list-group-item:not(.list-group-item-success) {
+  border-color: #00ff00;
+  color: white;
+  background-color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.1rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.list-group-item .title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+
+.list-group-item .btn {
+  margin-left: 1.1rem;
+}
+
+.list-group-item .btn + .btn {
+  margin-left: 0.5rem;
+}
+
+.jumbotron {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+  color: #00FF00;
+  text-shadow: 2px 2px #008000;
+}
