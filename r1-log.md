@@ -18,6 +18,21 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D96--------------------------------------------------------------------------------
+
+- Day96 - Capstone Project 8/20: Build a todo list website
+    - created flask app with routing to display homepage and handle for submission
+    - set up sqlalchemy models for todo items
+    - create a database connection and session with flask app
+    - add functionality to add new item to the database
+    - add functionality to retrieve and display todo items from database
+    - add buttons to complete and delete todo items
+    - add bootstrap styling
+
+The end Project is [Cafe and Wifi Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day95)
+
+
+
 ### R1D95--------------------------------------------------------------------------------
 
 - Day95 - Capstone Project 7/20: Finished building a website that lists cafes with wifi and power for remote working
