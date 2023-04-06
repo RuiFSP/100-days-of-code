@@ -29,7 +29,7 @@ My working IDE
     - add buttons to complete and delete todo items
     - add bootstrap styling
 
-The end Project is [Cafe and Wifi Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day95)
+The end Project is [Todo List Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day96)
 
 
 
