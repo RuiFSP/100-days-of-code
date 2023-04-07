@@ -18,6 +18,21 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D97--------------------------------------------------------------------------------
+
+- Day97 - Capstone Project 9/20: An online writing app where if you stop typing, your work will disappear
+    - The Tkinter library is used to create the graphical user interface (GUI) of the typing app.
+    - The PIL (Python Imaging Library) is used to display the logo of the app.
+    - The CSV library is used to store and retrieve the highest score achieved by a user.
+    - The app consists of a top frame that displays the user's score and highest score achieved.
+    - The app also contains a textbox where the user can type in the given text.
+    - The check_typing function is responsible for checking the user's input and updating the score.
+    - The fade_out function is responsible for fading out the textbox and resetting the score.
+    - The load_highest_score function reads the highest score from the scores.csv file.
+    - The run function runs the main loop of the GUI and executes the fade_out function after 3 seconds.
+
+The end Project is [GUI Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day97)
+
 ### R1D96--------------------------------------------------------------------------------
 
 - Day96 - Capstone Project 8/20: Build a todo list website
@@ -31,8 +46,6 @@ My working IDE
 
 The end Project is [Todo List Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day96)
 
-
-
 ### R1D95--------------------------------------------------------------------------------
 
 - Day95 - Capstone Project 7/20: Finished building a website that lists cafes with wifi and power for remote working
@@ -45,21 +58,19 @@ The end Project is [Cafe and Wifi Website](https://github.com/RuiFSP/100-days-of
 ### R1D94--------------------------------------------------------------------------------
 
 - Day94 - Capstone Project 7/20: Started building a website that lists cafes with wifi and power for remote workingd
-  - Working on building a website that helps remote workers find cafes with wifi and power. Excited to dive into SQL 
-  - alchemy and add some awesome features to make it even better
+    - Working on building a website that helps remote workers find cafes with wifi and power. Excited to dive into SQL
+    - alchemy and add some awesome features to make it even better
 
 The end Project is [Cafe and Wifi Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day94)
 
-
 ### R1D93--------------------------------------------------------------------------------
 
-- Day93 - Capstone Project 6/20: Using Python Turtle, build a clone of the 80s hit game Breakout 
-    - I had a blast building this game with Python Turtle! It was a fun challenge to recreate a classic game 
-    - like Breakout and see it come to life on the screen. Although I still need to refactor the code to make 
+- Day93 - Capstone Project 6/20: Using Python Turtle, build a clone of the 80s hit game Breakout
+    - I had a blast building this game with Python Turtle! It was a fun challenge to recreate a classic game
+    - like Breakout and see it come to life on the screen. Although I still need to refactor the code to make
     - it fully OOP
 
 The end Project is [Breakout Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day93)
-
 
 ### R1D92--------------------------------------------------------------------------------
 
@@ -68,8 +79,8 @@ The end Project is [Breakout Game](https://github.com/RuiFSP/100-days-of-code/tr
     - code is well documented
     - implemented some type safety
 
-The end Project is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day92)
-
+The end Project
+is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day92)
 
 ### R1D91--------------------------------------------------------------------------------
 
@@ -77,7 +88,8 @@ The end Project is [Image Watermarking Desktop App](https://github.com/RuiFSP/10
     - Created a desktop program with image upload and watermark feature using tkinter. Paid attention to documentation,
     - type safety, and robustness. Excited to keep building
 
-The end Project is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day91)
+The end Project
+is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day91)
 
 ### R1D90--------------------------------------------------------------------------------
 
