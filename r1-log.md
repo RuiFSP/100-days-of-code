@@ -18,6 +18,22 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D98--------------------------------------------------------------------------------
+
+- Day98 - Write a Python script that takes a PDF file and converts it into speech
+  - The program converts a PDF file to an audio file. 
+  - The user is prompted to select the PDF file using a file dialog. 
+  - The PyPDF2 library is used to read the PDF file and extract the text from each page. 
+  - The pyttsx3 library is used to convert the text to speech. 
+  - The user is prompted to enter the name of the audio file to save. 
+  - The program saves the audio file in the MP3 format. 
+  - The program uses object-oriented programming principles to organize the code into a class. 
+  - The class contains methods for selecting the PDF file, extracting text from the PDF file, converting the text to
+  speech, and saving the audio file. 
+  - The program uses docstrings to provide documentation for the methods in the class.
+
+The end Project is [Convert PDF to Audiobook](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day98)
+
 ### R1D97--------------------------------------------------------------------------------
 
 - Day97 - Capstone Project 9/20: An online writing app where if you stop typing, your work will disappear
