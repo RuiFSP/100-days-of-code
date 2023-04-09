@@ -1,4 +1,4 @@
-from Projects.Day90.modules.tictactoe import TicTacToe
+from Project_100_Python.Day90.modules.tictactoe import TicTacToe
 
 
 def main() -> None:

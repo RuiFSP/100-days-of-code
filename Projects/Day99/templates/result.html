@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="row">
+  <div class="col-md-6 d-flex justify-content-center">
+    <img src="{{ url_for('static', filename='uploads/' + image_filename) }}" alt="Uploaded Image" class="img-fluid centered-image">
+  </div>
+  <div class="col-md-6 d-flex justify-content-center align-items-center">
+    <div>
+      <h4 class="mb-3 text-center">Top Colors</h4>
+      <div class="container table-container">
+        <table class="color-table">
+          <tbody>
+            <tr>
+              <th>Color</th>
+              <th>Rank</th>
+              <th>RGB Value</th>
+            </tr>
+            {% for i in range(5) %}
+            <tr>
+              <td>
+                <div class="color-circle" style="background-color: rgb({{ top_colors[i*2][0] }}, {{ top_colors[i*2][1] }}, {{ top_colors[i*2][2] }});"></div>
+              </td>
+              <td>{{ i*2+1 }}</td>
+              <td>RGB({{ top_colors[i*2][0] }},{{ top_colors[i*2][1] }},{{ top_colors[i*2][2] }})</td>
+            </tr>
+            <tr>
+              <td>
+                <div class="color-circle" style="background-color: rgb({{ top_colors[i*2+1][0] }}, {{ top_colors[i*2+1][1] }}, {{ top_colors[i*2+1][2] }});"></div>
+              </td>
+              <td>{{ i*2+2 }}</td>
+              <td>RGB({{ top_colors[i*2+1][0] }},{{ top_colors[i*2+1][1] }},{{ top_colors[i*2+1][2] }})</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      <div class="text-center mt-4">
+        <a href="{{ url_for('index') }}" class="btn btn-primary">Generate Another Palette</a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
