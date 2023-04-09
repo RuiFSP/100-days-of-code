@@ -18,6 +18,32 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R1D99--------------------------------------------------------------------------------
+
+- Day99 - A website that finds the most common colours in an uploaded image
+
+- Main
+  - Imports necessary modules and functions 
+  - Defines a Flask app and sets configuration parameters 
+  - Defines a form class for file uploads 
+  - Defines a route to display the upload form 
+  - Defines a route to handle file uploads 
+  - Checks if file is valid and saves it to the uploads directory 
+  - Reads the image file and passes it to a function to get the top colors 
+  - Renders a template with the top colors and image filename
+- Modules 
+  - Defines a function to check if the file extension is allowed 
+  - Defines a function to get the top colors of an image 
+  - Uses k-means clustering to group similar colors together 
+  - Sorts the colors by frequency and returns the top colors
+- Templates 
+  - Defines a base HTML template with Bootstrap CSS and custom CSS 
+  - Defines an index HTML template with a file upload form 
+  - Defines a result HTML template to display the uploaded image and top colors
+
+The end Project is [Convert PDF to Audiobook](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day99)
+
+
 ### R1D98--------------------------------------------------------------------------------
 
 - Day98 - Write a Python script that takes a PDF file and converts it into speech
