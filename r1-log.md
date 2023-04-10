@@ -18,6 +18,34 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+
+### R1D100--------------------------------------------------------------------------------
+
+- Day100 - A website that finds the most common colours in an uploaded image 
+  - Import necessary modules and packages including load_dotenv from dotenv, webdriver from selenium, Service from selenium.webdriver.chrome.service, and pandas, matplotlib, and numpy. 
+  - Define the scrape_data function to scrape data from a website, extract data from a table, and save it to a CSV file. 
+  - Create a ChromeOptions object op and add the experimental option "detach" to ensure the browser doesn't close when the script ends. 
+  - Set the path to the Chrome webdriver using chrome_drive_path. 
+  - Launch Chrome using webdriver.Chrome(service=chrome_drive_path, options=op). 
+  - Maximize the browser window and navigate to the desired webpage using driver.maximize_window() and driver.get(). 
+  - Use driver.find_elements() to extract all headers and save them to all_headers, then use a list comprehension to extract all but the last 5 headers (which are not needed). 
+  - Use driver.find_elements() to extract all rows and save them to rows. 
+  - Determine the size of the data table by getting the length of the rows and the list_header_names.
+  - Use driver.find_element() to find the table and save it to table. 
+  - Iterate over each row in table, extract the data using row.find_elements() and save it to row_data, then append row_data to data. 
+  - Create a pandas dataframe from data, using the headers in list_header_names as the column names, and save it to a CSV file using df.to_csv('data.csv', index=False). 
+  - Define the plot_correlation function to load data from the CSV file, calculate the goal difference and correlation coefficient, and plot the correlation. 
+  - Load the data from the CSV file using pd.read_csv('data.csv'). 
+  - Calculate the goal difference by subtracting goals against (GA) from goals for (GF). 
+  - Calculate the correlation coefficient using np.corrcoef(). 
+  - Plot the correlation between the goal difference and the total points using plt.scatter(), and add a trend line using np.polyfit() and np.poly1d(). 
+  - Add the correlation coefficient value to the plot using plt.text(). 
+  - Display the plot using plt.show(). 
+  - Use an if __name__ == '__main__' statement to call scrape_data() and plot_correlation() when the script is run directly.
+
+
+The end Project is [Webscraping Football Data](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day100)
+
 ### R1D99--------------------------------------------------------------------------------
 
 - Day99 - A website that finds the most common colours in an uploaded image
