@@ -12,7 +12,7 @@ project at the end of each day.
 
 All my projects and training exercises will be separated by day
 
-- Project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects)
+- Project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1)
 
 My working IDE
 
@@ -44,7 +44,7 @@ My working IDE
   - Use an if __name__ == '__main__' statement to call scrape_data() and plot_correlation() when the script is run directly.
 
 
-The end Project is [Webscraping Football Data](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day100)
+The end Project is [Webscraping Football Data](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day100)
 
 ### R1D99--------------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ The end Project is [Webscraping Football Data](https://github.com/RuiFSP/100-day
   - Defines an index HTML template with a file upload form 
   - Defines a result HTML template to display the uploaded image and top colors
 
-The end Project is [Common Colours App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day99)
+The end Project is [Common Colours App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day99)
 
 
 ### R1D98--------------------------------------------------------------------------------
@@ -86,7 +86,7 @@ The end Project is [Common Colours App](https://github.com/RuiFSP/100-days-of-co
   speech, and saving the audio file. 
   - The program uses docstrings to provide documentation for the methods in the class.
 
-The end Project is [Convert PDF to Audiobook](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day98)
+The end Project is [Convert PDF to Audiobook](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day98)
 
 ### R1D97--------------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ The end Project is [Convert PDF to Audiobook](https://github.com/RuiFSP/100-days
     - The load_highest_score function reads the highest score from the scores.csv file.
     - The run function runs the main loop of the GUI and executes the fade_out function after 3 seconds.
 
-The end Project is [GUI Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day97)
+The end Project is [GUI Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day97)
 
 ### R1D96--------------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ The end Project is [GUI Desktop App](https://github.com/RuiFSP/100-days-of-code/
     - add buttons to complete and delete todo items
     - add bootstrap styling
 
-The end Project is [Todo List Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day96)
+The end Project is [Todo List Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day96)
 
 ### R1D95--------------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ The end Project is [Todo List Website](https://github.com/RuiFSP/100-days-of-cod
     - add new functionality to edit and delete cafes form database
     - conversion from csv to sqlite
 
-The end Project is [Cafe and Wifi Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day95)
+The end Project is [Cafe and Wifi Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day95)
 
 ### R1D94--------------------------------------------------------------------------------
 
@@ -131,7 +131,7 @@ The end Project is [Cafe and Wifi Website](https://github.com/RuiFSP/100-days-of
     - Working on building a website that helps remote workers find cafes with wifi and power. Excited to dive into SQL
     - alchemy and add some awesome features to make it even better
 
-The end Project is [Cafe and Wifi Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day94)
+The end Project is [Cafe and Wifi Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day94)
 
 ### R1D93--------------------------------------------------------------------------------
 
@@ -140,7 +140,7 @@ The end Project is [Cafe and Wifi Website](https://github.com/RuiFSP/100-days-of
     - like Breakout and see it come to life on the screen. Although I still need to refactor the code to make
     - it fully OOP
 
-The end Project is [Breakout Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day93)
+The end Project is [Breakout Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day93)
 
 ### R1D92--------------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ The end Project is [Breakout Game](https://github.com/RuiFSP/100-days-of-code/tr
     - implemented some type safety
 
 The end Project
-is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day92)
+is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day92)
 
 ### R1D91--------------------------------------------------------------------------------
 
@@ -159,7 +159,7 @@ is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/t
     - type safety, and robustness. Excited to keep building
 
 The end Project
-is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day91)
+is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day91)
 
 ### R1D90--------------------------------------------------------------------------------
 
@@ -169,7 +169,7 @@ is [Image Watermarking Desktop App](https://github.com/RuiFSP/100-days-of-code/t
     - refactoring some classes
     - creating docstrings for documentation
 
-The end Project is [Tic Tac Toe](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day90)
+The end Project is [Tic Tac Toe](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day90)
 
 ### R1D89--------------------------------------------------------------------------------
 
@@ -178,7 +178,7 @@ The end Project is [Tic Tac Toe](https://github.com/RuiFSP/100-days-of-code/tree
 - updated images and links to project in portfolio
 - deployed website on render [ruipinto_website](https://my-personal-portfolio-r3sr.onrender.com/)
 
-The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day89)
+The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day89)
 
 ### R1D88--------------------------------------------------------------------------------
 
@@ -190,7 +190,7 @@ The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-cod
 - Contact Section
 - Responsive Layout
 
-The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day88)
+The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day88)
 
 ### R1D87--------------------------------------------------------------------------------
 
@@ -199,7 +199,7 @@ The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-cod
 - Added responsive menu
 - Finished About me section
 
-The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day87)
+The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day87)
 
 ### R1D86--------------------------------------------------------------------------------
 
@@ -209,7 +209,7 @@ The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-cod
 - Finished header and navbar.
 - working on main section
 
-The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day86)
+The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day86)
 
 ### R1D85--------------------------------------------------------------------------------
 
@@ -217,7 +217,7 @@ The end Project is [Portfolio Website](https://github.com/RuiFSP/100-days-of-cod
 
 - Morse Code [Wikipedia](https://en.wikipedia.org/wiki/Morse_code)
 
-The end Project is [Text to Morse Code converter](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day85)
+The end Project is [Text to Morse Code converter](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day85)
 
 ### R1D84--------------------------------------------------------------------------------
 
@@ -231,7 +231,7 @@ The end Project is [Text to Morse Code converter](https://github.com/RuiFSP/100-
 - How to improve a regression model using (a log) data transformation.
 - How to specify your own values for various features a
 
-The end Project is [Predict House Prices](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day84)
+The end Project is [Predict House Prices](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day84)
 
 ### R1D83--------------------------------------------------------------------------------
 
@@ -246,7 +246,7 @@ The end Project is [Predict House Prices](https://github.com/RuiFSP/100-days-of-
 - Use NumPy's .where() function to process elements depending on a condition.
 
 The end Project
-is [Postpartum infections Investigation](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day83)
+is [Postpartum infections Investigation](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day83)
 
 ### R1D82--------------------------------------------------------------------------------
 
@@ -258,7 +258,7 @@ is [Postpartum infections Investigation](https://github.com/RuiFSP/100-days-of-c
 - Create sunburst Charts for a Detailed Regional Breakdown of research Locations
 - Unearthing Patterns in the Laureate age at the time of the award
 
-The end Project is [Nobel Prize](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day82)
+The end Project is [Nobel Prize](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day82)
 
 ### R1D81--------------------------------------------------------------------------------
 
@@ -274,7 +274,7 @@ The end Project is [Nobel Prize](https://github.com/RuiFSP/100-days-of-code/tree
 - Scikit-Learn:
     - Machine Learning in Python [scikit learn](https://scikit-learn.org/stable/)
 
-The end Project is [Movies Budget](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day81)
+The end Project is [Movies Budget](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day81)
 
 ### R1D80--------------------------------------------------------------------------------
 
@@ -294,7 +294,7 @@ The end Project is [Movies Budget](https://github.com/RuiFSP/100-days-of-code/tr
     - Display data as an image, i.e., on a 2D regular
       raster [imshow](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imshow.html)
 
-The end Project is [Google Play Store App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day80)
+The end Project is [Google Play Store App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day80)
 
 ### R1D79--------------------------------------------------------------------------------
 
@@ -318,7 +318,7 @@ The end Project is [Google Play Store App](https://github.com/RuiFSP/100-days-of
     - Built-in Continuous Color Scales in
       Python [continuous color scales](https://plotly.com/python/builtin-colorscales/#using-builtin-continuous-color-scales)
 
-The end Project is [Google Play Store App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day79)
+The end Project is [Google Play Store App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day79)
 
 ### R1D78--------------------------------------------------------------------------------
 
@@ -336,7 +336,7 @@ Useful links:
 
 - [Convert Strings to Datetime in Pandas DataFrame](https://datatofish.com/strings-to-datetime-pandas/)
 
-The end Project is [Google Trends](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day78)
+The end Project is [Google Trends](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day78)
 
 ### R1D77--------------------------------------------------------------------------------
 
@@ -356,7 +356,7 @@ The end Project is [Google Trends](https://github.com/RuiFSP/100-days-of-code/tr
       index [stack question](https://stackoverflow.com/questions/39961862/select-rows-of-dataframe-with-datetime-index-based-on-date)
     - Matplotlib [scatter plot](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.scatter.html)
 
-The end Project is [Exploring LEGO dataset](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day77)
+The end Project is [Exploring LEGO dataset](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day77)
 
 ### R1D76--------------------------------------------------------------------------------
 
@@ -366,7 +366,7 @@ The end Project is [Exploring LEGO dataset](https://github.com/RuiFSP/100-days-o
     - Pandas [Docs](https://pandas.pydata.org/)
     - Matplotlib [Docs](https://matplotlib.org/stable/index.html)
 
-The end Project is [TOP Programming languages ](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day76)
+The end Project is [TOP Programming languages ](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day76)
 
 ### R1D75--------------------------------------------------------------------------------
 
@@ -378,7 +378,7 @@ Day75 - Data Exploration with Pandas: College Major vs Your Salary
     - Pandas [Docs](https://pandas.pydata.org/)
     - Beautiful Soup [Docs](https://beautiful-soup-4.readthedocs.io/en/latest/#)
 
-The end Project is [The Highest Paying Job ](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day75)
+The end Project is [The Highest Paying Job ](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day75)
 
 ### R1D74--------------------------------------------------------------------------------
 
@@ -391,7 +391,7 @@ Day74 - Deploying Your Web Application with Render
     - gunicorn [website]()
     - gitignore templates [gitignore](https://www.toptal.com/developers/gitignore/)
 
-The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day74)
+The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day74)
 
 ### R1D73--------------------------------------------------------------------------------
 
@@ -406,7 +406,7 @@ features:
 - Useful stuff
     - [one-to-many relations](https://www.youtube.com/watch?v=VVX7JIWx-ss&list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW)
 
-The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day73)
+The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day73)
 
 ### R1D72--------------------------------------------------------------------------------
 
@@ -415,7 +415,7 @@ Day72 - Blog Capstone Project - Part4.1
 - Register new Users and Login Register Users
 
 The end Project
-is [Blog Capstone Project - Part4](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day72)
+is [Blog Capstone Project - Part4](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day72)
 
 ### R1D71--------------------------------------------------------------------------------
 
@@ -439,7 +439,7 @@ Wekzeud [generate password hash](https://werkzeug.palletsprojects.com/en/2.2.x/u
     - pwned password form data breaches [haveibeenpwned](https://haveibeenpwned.com/Passwords)
     - not a hacker [hackertyper](https://hackertyper.net/)
 
-The end Project is [Flask Authentication](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day71)
+The end Project is [Flask Authentication](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day71)
 
 ### R1D70--------------------------------------------------------------------------------
 
@@ -453,7 +453,7 @@ Day70 - Blog Capstone Project Part3
     - datetime library [Docs](https://www.w3schools.com/python/python_datetime.asp)
     - Jinja safe [Docs](https://jinja.palletsprojects.com/en/2.11.x/templates/#safe)
 
-The end Project is [Blog Post - Part3](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day70)
+The end Project is [Blog Post - Part3](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day70)
 
 ### R1D69 --------------------------------------------------------------------------------
 
@@ -467,7 +467,7 @@ Day69 - Building your Own API with RESTful routing
           documentation [PostMan](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)
     - HTTS Status Codes [Glossary](https://www.webfx.com/web-development/glossary/http-status-codes/)
 
-The end Project is [cafe API](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day69)
+The end Project is [cafe API](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day69)
 
 ### R1D68 --------------------------------------------------------------------------------
 
@@ -528,7 +528,7 @@ Day67 - My Top 10 Movies Website
 
 - Movie Database [API](https://developers.themoviedb.org/3/getting-started/introduction)
 
-The end Project is [Top 10 Movies Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day67)
+The end Project is [Top 10 Movies Website](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day67)
 
 ### R1D66 --------------------------------------------------------------------------------
 
@@ -543,13 +543,13 @@ Day66 - Databases with SQLite and SQLAlchemy
     - sqlitebrowser [Docs](https://sqlitebrowser.org/dl/)
     - Flask-SQLAlchemy [Docs](https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/quickstart/)
 
-The end Project is [Virtual Bookshelf](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day66)
+The end Project is [Virtual Bookshelf](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day66)
 
 ### R1D65 --------------------------------------------------------------------------------
 
 Day65 - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
 
-The end Project is [Coffee & wifi Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day65)
+The end Project is [Coffee & wifi Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day65)
 
 ### R1D64 --------------------------------------------------------------------------------
 
@@ -568,7 +568,7 @@ Day64 - Building advanced Forms with flask-WTForms
 - The bootstrap/wtf.html template contains macros to help you output forms
   quickly [Flask-bootstrap](https://pythonhosted.org/Flask-Bootstrap/basic-usage.html)
 
-The end Project is [Flask-Bootstrap WTF Forms](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day64)
+The end Project is [Flask-Bootstrap WTF Forms](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day64)
 
 ### R1D63 --------------------------------------------------------------------------------
 
@@ -584,7 +584,7 @@ Day63 - Make POST Requests with Flask and HTML Forms
       flask [stackoverflow](https://stackoverflow.com/questions/11556958/sending-data-from-html-form-to-a-python-script-in-flask)
 
 The end Project
-is [Blog Capstone Project - contact form improvement](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day63)
+is [Blog Capstone Project - contact form improvement](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day63)
 
 ### R1D62 --------------------------------------------------------------------------------
 
@@ -593,7 +593,7 @@ Day62 - Blog Capstone Project - Part 2
 - Bootstrap not rendering
   color [stackoverflow](https://stackoverflow.com/questions/65272229/style-tag-in-flask-doesnt-render-the-text-color)
 
-The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day62)
+The end Project is [Blog Capstone Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day62)
 
 ### R1D61 --------------------------------------------------------------------------------
 
@@ -624,7 +624,7 @@ Day61 - Web Foundation Bootstrap - part 4/4
     - last css rule has priority
     - html element < class selector < id selector < inline style(avoid last one)
 
-The end Project is [TinDog - Part4](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day61)
+The end Project is [TinDog - Part4](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day61)
 
 ### R1D60 --------------------------------------------------------------------------------
 
@@ -642,7 +642,7 @@ Day60 - Web Foundation Bootstrap - part 3/4
 
 - Test if website is mobile friendly[Mobile Check](https://search.google.com/test/mobile-friendly)
 
-The end Project is [TinDog - Part3](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day60)
+The end Project is [TinDog - Part3](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day60)
 
 ### R1D59 --------------------------------------------------------------------------------
 
@@ -653,7 +653,7 @@ Day59 - Web Foundation Bootstrap - part 2/4
     - Containers [docs](https://getbootstrap.com/docs/4.5/layout/overview/#containers)
     - Buttons [docs](https://getbootstrap.com/docs/4.5/components/buttons/)
 
-The end Project is [TinDog - Part2](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day59)
+The end Project is [TinDog - Part2](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day59)
 
 ### R1D58 --------------------------------------------------------------------------------
 
@@ -665,7 +665,7 @@ Day58 - Web Foundation Bootstrap - part 1/4
 - Explore design portfolios [dribble](https://dribbble.com/)
 - User Interface Design Patterns [UIPatterns](https://ui-patterns.com/patterns)
 
-The end Project is [TinDog - Part1](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day58)
+The end Project is [TinDog - Part1](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day58)
 
 ### R1D57 --------------------------------------------------------------------------------
 
@@ -681,7 +681,7 @@ Day57 - URL Building and Templating with Jinja in Flask Application
 - Determine the gender of a name: [gender-api](https://genderize.io/)
 - Predict the age of a name: [age-api](https://agify.io/)
 
-The end Project is [Higher or Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day57)
+The end Project is [Higher or Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day57)
 
 ### R1D56 --------------------------------------------------------------------------------
 
@@ -700,7 +700,7 @@ Day56 - Rendering HTML/Static files and Using website Templates
         document.body.contentEditable=true
       ``` 
 
-The end Project is [Higher or Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day56)
+The end Project is [Higher or Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day56)
 
 ### R1D55 --------------------------------------------------------------------------------
 
@@ -710,7 +710,7 @@ Day55 - Introduction to Web Development with Flask
 - Variables Rules [flask docs](https://flask.palletsprojects.com/en/1.1.x/quickstart/#variable-rules)
 - Gifs at [Ghiphy](https://giphy.com/)
 
-The end Project is [Higher or Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day55)
+The end Project is [Higher or Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day55)
 
 ### R1D54 --------------------------------------------------------------------------------
 
@@ -733,7 +733,7 @@ Day54 - Introduction to Web Development with Flask
     - pip install flask [DOCS](https://pypi.org/project/Flask/)
     - Pycharm Integration [community version](https://flask.palletsprojects.com/en/2.0.x/cli/#pycharm-integration)
 
-The end Project is [Python Decorators](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day54)
+The end Project is [Python Decorators](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day54)
 
 ### R1D53 --------------------------------------------------------------------------------
 
@@ -743,7 +743,7 @@ Day53 - Capstone Project - Data Entry Job
   Zillow [stackoverflow link](https://stackoverflow.com/questions/69024599/scraping-data-from-zillow-com-using-beautifulsoup)
 - Useful video [video youtube](https://www.youtube.com/watch?v=dRcvJRmqFHQ)
 
-The end Project is [Data Entry Job](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day53)
+The end Project is [Data Entry Job](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day53)
 
 ### R1D52 --------------------------------------------------------------------------------
 
@@ -755,7 +755,7 @@ Day52 - Internet Follower Bot (careful you might get banned/restricted)
 - ElementScrollTop [MDN link](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop)
 - ElementScrollHeight [MDN link](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollHeight)
 
-The end Project is [Instagram Follower Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day52)
+The end Project is [Instagram Follower Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day52)
 
 ### R1D51 --------------------------------------------------------------------------------
 
@@ -764,7 +764,7 @@ Day51 - Internet Speed Twitter Complain Bot
 - Make tinder account [twitter account](https://twitter.com/home)
 - Speedtest Site [speedtest](https://www.speedtest.net/)
 
-The end Project is [Twitter Complain Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day51)
+The end Project is [Twitter Complain Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day51)
 
 ### R1D50 --------------------------------------------------------------------------------
 
@@ -781,7 +781,7 @@ Day50 - Auto Tinder Swiping Bot
         - NoSuchElementException
         - ElementClickInterceptedException
 
-The end Project is [Auto Tinder Swiping Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day50)
+The end Project is [Auto Tinder Swiping Bot](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day50)
 
 ### R1D49 --------------------------------------------------------------------------------
 
@@ -789,7 +789,7 @@ Day49 - Automated Job Application with Selenium
 
 - This problem is outdated, because of all linkedin verifications to prevent bots
 
-The end Project is [Job Application Linkedin](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day49)
+The end Project is [Job Application Linkedin](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day49)
 
 ### R1D48 --------------------------------------------------------------------------------
 
@@ -816,7 +816,7 @@ Day48 - Selenium Web Driver
     - bypass language
       question [selenium cookie-clicker](https://stackoverflow.com/questions/72813898/i-am-not-able-to-bypass-language-question-in-cookieclicker-site-with-my-selenium)
 
-The end Project is [Cookie Clicker](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day48)
+The end Project is [Cookie Clicker](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day48)
 
 ### R1D47 --------------------------------------------------------------------------------
 
@@ -830,7 +830,7 @@ Day47 - Amazon Price Tracker Project
     - SMTP protocol client: [smtplib](https://docs.python.org/3/library/smtplib.html)
     - Beautiful soup: [bs4](https://beautiful-soup-4.readthedocs.io/en/latest/)
 
-The end Project is [Amazon Price Tracker](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day47)
+The end Project is [Amazon Price Tracker](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day47)
 
 ### R1D46 --------------------------------------------------------------------------------
 
@@ -841,7 +841,7 @@ Day46 - Create a Spotify Playlist using a Musical Time machine
     - SignUp [Spotify SignUp](https://open.spotify.com/)
     - Developer [Spotify Developer](https://developer.spotify.com/dashboard/)
 
-The end Project is [Musical Time Machine](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day46)
+The end Project is [Musical Time Machine](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day46)
 
 ### R1D45 --------------------------------------------------------------------------------
 
@@ -849,7 +849,7 @@ Day45 - Web Scraping with Beautiful Soup
 
 - Documentation [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-The end Project is [Top 100 Movies](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day45)
+The end Project is [Top 100 Movies](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day45)
 
 ### R1D44 --------------------------------------------------------------------------------
 
@@ -891,7 +891,7 @@ Day44 - Web Foundation - Intermediate CSS
         - Text generator [Lorem ipsum](https://loremipsum.io/)
         - Packs of Icons [Flaticon](https://www.flaticon.com/)
 
-The end Project is [HTML+CSS Intermediate](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day44)
+The end Project is [HTML+CSS Intermediate](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day44)
 
 ### R1D43 --------------------------------------------------------------------------------
 
@@ -918,7 +918,7 @@ Day43 - Web Foundation - Introduction CSS
   
           ```
 
-The end Project is [HTML+CSS Introduction](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day43)
+The end Project is [HTML+CSS Introduction](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day43)
 
 ### R1D42 --------------------------------------------------------------------------------
 
@@ -931,7 +931,7 @@ Day42 - Web Foundation - Intermediate HTML
         - [Inputs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
         - [Github Pages](https://pages.github.com/)
 
-The end Project is [HTML Intermediate](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day42)
+The end Project is [HTML Intermediate](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day42)
 
 ### R1D41 --------------------------------------------------------------------------------
 
@@ -942,7 +942,7 @@ Day41 - Web Foundation - Introduction HTML
     - CSS - styling the website
     - Javascript - behaviour and functionality - do stuff
 
-The end Project is [Revisions](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day41)
+The end Project is [Revisions](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day41)
 
 ### R1D40 --------------------------------------------------------------------------------
 
@@ -954,7 +954,7 @@ Day40 - Capstone Part2: Flight Deal Finder
     - Tequila [API](https://tequila.kiwi.com/portal/login)
 - Google Sheets to read/save data [Google Sheets](https://www.google.com/sheets/about/)
 
-The end Project is [Flight Deal Finder](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day40)
+The end Project is [Flight Deal Finder](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day40)
 
 ### R1D39 --------------------------------------------------------------------------------
 
@@ -966,7 +966,7 @@ Day39 - Capstone Part1: Flight Deal Finder
     - Tequila [API](https://tequila.kiwi.com/portal/login)
 - Google Sheets to read/save data [Google Sheets](https://www.google.com/sheets/about/)
 
-The end Project is [Flight Deal Finder](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day39)
+The end Project is [Flight Deal Finder](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day39)
 
 ### R1D38 --------------------------------------------------------------------------------
 
@@ -980,7 +980,7 @@ Day38 - Workout Tracking with Python and Google Sheets
 - Authorization Headers
 - Environment Variables
 
-The end Project is [Workout Tracking](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day38)
+The end Project is [Workout Tracking](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day38)
 
 ### R1D37 --------------------------------------------------------------------------------
 
@@ -1004,7 +1004,7 @@ Day37 - Advanced Authentication and POST/ PUT / DELETE Requests
     print(x.strftime("%B")) 
   ```
 
-The end Project is [Habit Tracker](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day37)
+The end Project is [Habit Tracker](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day37)
 
 ### R1D36 --------------------------------------------------------------------------------
 
@@ -1024,7 +1024,7 @@ Day36 - Stock New Monitoring Project
     - [Twilio API](https://www.twilio.com/docs/sms)
 
 The end Project
-is [Stock News Monitoring Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day36)
+is [Stock News Monitoring Project](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day36)
 
 ### R1D35 --------------------------------------------------------------------------------
 
@@ -1057,7 +1057,7 @@ Day35 - API Keys, Authentication & Environment Variables: Send SMS
     - add variables in
       Pycharm - [wiki](https://www.jetbrains.com/help/objc/add-environment-variables-and-program-arguments.html)
 
-The end Project is [Rain Alert](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day35)
+The end Project is [Rain Alert](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day35)
 
 ### R1D34 --------------------------------------------------------------------------------
 
@@ -1100,7 +1100,7 @@ Day34 - The Trivia API and The Quizz Mania App
   return f"Hello + {name}"
   ```
 
-The end Project is [Trivia APP Update](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day34)
+The end Project is [Trivia APP Update](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day34)
 
 ### R1D33 --------------------------------------------------------------------------------
 
@@ -1123,7 +1123,7 @@ Day33 - API endpoints & API Parameters - ISS Overhead Notifier
     - ISS API - [API](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
         - WIKI [International Space Station](https://en.wikipedia.org/wiki/International_Space_Station)
 
-The end Project is [ISS Overhead Notifier](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day33)
+The end Project is [ISS Overhead Notifier](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day33)
 
 ### R1D32 --------------------------------------------------------------------------------
 
@@ -1178,7 +1178,7 @@ Day32 - Send email and Manage Dates
   ```
 - run python code in Cloud [Python Anywhere](https://www.pythonanywhere.com/)
 
-The end Project is [Automated Birthday Wisher](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day32)
+The end Project is [Automated Birthday Wisher](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day32)
 
 ### R1D31 --------------------------------------------------------------------------------
 
@@ -1194,7 +1194,7 @@ Day31 - Capstone Project - Flash Card App
     -
   Pandas [convert DataFrame to Dictionary](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_dict.html)
 
-The end Project is [Flash Card App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day31)
+The end Project is [Flash Card App](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day31)
 
 ### R1D30 --------------------------------------------------------------------------------
 
@@ -1237,7 +1237,7 @@ Day30 - Errors, Exceptions and JSON data. Improving Password Manager
                      json.dump(data, fp=data_file, indent=4)
               ```
 
-The end Project is [Improved Password Manager](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day30)
+The end Project is [Improved Password Manager](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day30)
 
 ### R1D29 --------------------------------------------------------------------------------
 
@@ -1249,7 +1249,7 @@ Day29 - Building a Password Manager GUI App with Tkinter
 - cool package to immediately copy stuff to clipboard: https://pypi.org/project/pyperclip/
 - messages boxes for popups:  https://docs.python.org/3/library/tkinter.messagebox.html
 
-The end Project is [Password Manager](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day29)
+The end Project is [Password Manager](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day29)
 
 ### R1D28 --------------------------------------------------------------------------------
 
@@ -1271,7 +1271,7 @@ Day28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
     - playsound: ```pip install playsound```
     - add you .mp3 or .wav file
 
-The end Project is [Pomodoro Timer](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day28)
+The end Project is [Pomodoro Timer](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day28)
 
 ### R1D27 --------------------------------------------------------------------------------
 
@@ -1308,7 +1308,7 @@ Day27 - Graphical User Interfaces (GUI) with Tkinter and function Arguments
             - calculate(add=3, multiply=5)
             - creates a dict {'add': 3, 'multiply': 5}
 
-The end Project is [Mile Converter](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day27)
+The end Project is [Mile Converter](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day27)
 
 ### R1D26 --------------------------------------------------------------------------------
 
@@ -1325,7 +1325,7 @@ Day26 - List and Dictionary Comprehensions
       dataframes: [DataFrame.iterrows()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iterrows.html)
         - <b>for (index, row) in data_frame.iterrows():</b>
 
-The end Project is [NATO Alphabet](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day26)
+The end Project is [NATO Alphabet](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day26)
 
 ### R1D25 --------------------------------------------------------------------------------
 
@@ -1342,7 +1342,7 @@ Day25 - Working with csv files and analysing Data with Pandas
     - creating dataframes from a list or dictionary <b>pandas.DataFrame(arg)</b>
     - converting dataframes to csv
 
-The end Project is [USA States Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day25)
+The end Project is [USA States Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day25)
 
 ### R1D24 --------------------------------------------------------------------------------
 
@@ -1359,7 +1359,7 @@ Day24 - Mail merger example to read, write files
     - Relative File Path
         - related to the working directory
 
-The end Project is [Mail Merger](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day24)
+The end Project is [Mail Merger](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day24)
 
 ### R1D23 --------------------------------------------------------------------------------
 
@@ -1373,7 +1373,7 @@ Day23 - Capstone Project - Turtle Crossing
     - Step5: detect turtle reach finished line
     - Step6: create scoreboard and increase level difficulty by increasing car speed
 
-The end Project is [Turtle Crossing](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day23)
+The end Project is [Turtle Crossing](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day23)
 
 ### R1D22 --------------------------------------------------------------------------------
 
@@ -1389,7 +1389,7 @@ Day22 - Building the famous game - Pong
     - Step7: Detect when paddle misses
     - Step8: Keep Score
 
-The end Project is [Pong Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day22)
+The end Project is [Pong Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day22)
 
 ### R1D21 --------------------------------------------------------------------------------
 
@@ -1405,7 +1405,7 @@ Day21 - Finished Snake Game Part-2/2
     - <b>list[start slice : end slice : step]</b>
 - turtle.write() - write text on screen: https://docs.python.org/3/library/turtle.html#turtle.write
 
-The end Project is [Snake - Part 2/2](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day21)
+The end Project is [Snake - Part 2/2](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day21)
 
 ### R1D20 --------------------------------------------------------------------------------
 
@@ -1417,7 +1417,7 @@ Day20 - Started working on Snake Game Part-1/2
 - Used time library to handle time related tasks: https://docs.python.org/3/library/time.html
 - Used a combination of Turtle methods tracer() and update() to work with turtle animations
 
-The end Project is [Snake - Part 1/2](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day20)
+The end Project is [Snake - Part 1/2](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day20)
 
 ### R1D19 --------------------------------------------------------------------------------
 
@@ -1432,7 +1432,7 @@ Day19 - Instances, State and Higher Order functions
 - Multiple Instances - object is and instance of a class
     - Each instance can have different states
 
-The end Project is [Turtle Race](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day19)
+The end Project is [Turtle Race](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day19)
 
 ### R1D18 --------------------------------------------------------------------------------
 
@@ -1448,7 +1448,7 @@ Day 18 - Turtle library and The Graphical User Interface
         - library: https://pypi.org/
 - Generating Tuples and RGB Colours - immutable value
 
-The end Project is [The Hirst Painting](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day18)
+The end Project is [The Hirst Painting](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day18)
 
 ### R1D17 --------------------------------------------------------------------------------
 
@@ -1459,7 +1459,7 @@ Day 17 - OOP - Creating Classes
 - Manipulation JSON files : https://docs.python.org/3/library/json.html
 - Transforming JSON file to a list of dictionaries
 
-The end Project is [The Quiz](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day17)
+The end Project is [The Quiz](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day17)
 
 ### R1D16 --------------------------------------------------------------------------------
 
@@ -1473,7 +1473,7 @@ Day16 - Object-Oriented-Programming
     - The Python Package Index (PyPI) is a repository of software for the Python programming language
         - python packages: https://pypi.org/
 
-The end Project is [OOP Coffee Machine](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day16)
+The end Project is [OOP Coffee Machine](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day16)
 
 ### R1D15 --------------------------------------------------------------------------------
 
@@ -1495,7 +1495,7 @@ Day15 - Local Development environment and project coffee machine
     - Dictionaries, Nesting
     - Score of variables
 
-The end Project is [Coffee Machine](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day15)
+The end Project is [Coffee Machine](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day15)
 
 ### R1D14 --------------------------------------------------------------------------------
 
@@ -1509,7 +1509,7 @@ Day14 - Final project for beginner section
         - write code -> run code -> fix code
         - next task
 
-The end Project is [Higher Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day14)
+The end Project is [Higher Lower](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day14)
 
 ### R1D13 --------------------------------------------------------------------------------
 
@@ -1552,7 +1552,7 @@ Today there was no final project, but took the opportunity to do a smaller proje
 - explored a new library for time: https://docs.python.org/3/library/time.html
 - formatted strings: https://docs.python.org/3/tutorial/inputoutput.html#the-string-format-method
 
-The end Project is [Countdown Timer](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day13)
+The end Project is [Countdown Timer](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day13)
 
 ### R1D12 --------------------------------------------------------------------------------
 
@@ -1573,7 +1573,7 @@ Day12 - Scope
     - This way is easier to not modify it inside local scope
 - ASCII Art: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
-The end Project is [Guessing Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day12)
+The end Project is [Guessing Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day12)
 
 ### R1D11 --------------------------------------------------------------------------------
 
@@ -1582,7 +1582,7 @@ Day11 - The Blackjack Capstone Project
 - The project was a recap and practical approach of all the concepts learn in previous days 😀
 - For the record: Blackjack is my favorite casino game, o I had tons of fun with it 😂
 
-The end Project is [Blackjack](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day11)
+The end Project is [Blackjack](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day11)
 
 ### R1D10 --------------------------------------------------------------------------------
 
@@ -1595,7 +1595,7 @@ Day10 - Functions with outputs
 - call a function with a string: https://docs.python.org/3/library/functions.html#globals
     - <b>globals()"myfunction"()</b>
 
-The end Project is [Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day10)
+The end Project is [Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day10)
 
 ### R1D9 --------------------------------------------------------------------------------
 
@@ -1604,7 +1604,7 @@ Day9 - Dictionaries and Nesting
 - Dictionaries -> <b>{Key: Value}</b>
 - Nesting Lists and Dictionaries
 
-The end Project is [Secret Action](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day9)
+The end Project is [Secret Action](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day9)
 
 ### R1D8 --------------------------------------------------------------------------------
 
@@ -1614,7 +1614,7 @@ Day8 - Functions with inputs
 - Parameter vs Argument
 - Positional Arguments vs Keyword Arguments
 
-The end project is [Caeser Cipher](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day8)
+The end project is [Caeser Cipher](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day8)
 
 ### R1D7 --------------------------------------------------------------------------------
 
@@ -1627,7 +1627,7 @@ Day7 - Dedicated to revisions of past knowledge with a bigger project
     - from x import y,x
     - import os.system("cls" or "clear") to clear terminal
 
-The end project is [HangMan](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day7)
+The end project is [HangMan](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day7)
 
 ### R1D6 --------------------------------------------------------------------------------
 
@@ -1646,7 +1646,7 @@ Day5 - Python Loops, Range and Code Blocks
 - for loop, for loop with range
 - random.shuffle, random.sample, random.choice
 
-The end project is [Password Generator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day5)
+The end project is [Password Generator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day5)
 
 ### R1D4 --------------------------------------------------------------------------------
 
@@ -1658,7 +1658,7 @@ Day4 - Randomization and Python Lists
     - IndexErrors - outbound
     - Nested Lists - list[[],[]]
 
-The end project is [Rock Paper Scissors](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day4)
+The end project is [Rock Paper Scissors](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day4)
 
 ### R1D3 --------------------------------------------------------------------------------
 
@@ -1668,13 +1668,13 @@ Day3 - Revision about Control Flow and Logical Operators
 - if/else, nested if/else, if/elif /else, multiple if
 - and, or, not
 
-The end project is [Treasure Island](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day3)
+The end project is [Treasure Island](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day3)
 
 ### R1D2 --------------------------------------------------------------------------------
 
 Day2 - Revision about understanding types and how to manipulate strings.
 
-The end project is [Tip Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day2)
+The end project is [Tip Calculator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day2)
 
 ### R1D1 --------------------------------------------------------------------------------
 
@@ -1682,7 +1682,7 @@ Day1 - Revision about variables and how to manage data.
 
 - print, inputs
 
-The end project is [Band Name Generator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects/Day1)
+The end project is [Band Name Generator](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R1/Day1)
 
 
 
