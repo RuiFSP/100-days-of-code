@@ -4,8 +4,6 @@ The log of my <b>#100DaysOfCode</b> challenge. Started on [April 11, Sunday, 202
 
 ## Log
 
-Yu [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) which
-
 All my projects and training exercises will be separated by day
 
 - Project folder: [All Projects](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2)
