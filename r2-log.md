@@ -12,9 +12,28 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D2 --------------------------------------------------------------------------------
+
+- Day2 - Write Python code to play the Google Dinosaur Game - Part 2/2
+  - Changed the code form yesterday and found a simpler solution:
+    - This code uses Python's pyautogui module to play the Chrome Dino game automatically. 
+    - The image_grab() function grabs an image of the game and returns the sum of the pixels in the obstacle area. 
+    - The jump() function simulates a spacebar key press and release to make the dinosaur jump. 
+    - The restart() function clicks on the replay button to restart the game. 
+    - The main() function plays the game by continuously capturing screenshots of the game, checking for obstacles, 
+    - and jumping whenever there is an obstacle in front of the dinosaur. 
+    - The function also handles any exceptions that might occur during gameplay by restarting 
+    - the game to recover from the error.
+
+  - At the end of the code, the game is opened in the Chrome browser and main() is called to play the game automatically
+
+The end project
+is [GUI Automation Google Dinosaur Game](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day2)
+
+
 ### R2D1 --------------------------------------------------------------------------------
 
-- Day1 - Write Python code to play the Google Dinosaur Game.
+- Day1 - Write Python code to play the Google Dinosaur Game - Part 1/2
   - The game imports necessary libraries: PIL, pyautogui, cv2, numpy, and time. 
   - The game uses pyautogui to press the Windows key, type in "chrome," and press Enter to open Chrome. 
   - The game then types in the URL for the Chrome dinosaur game and presses the space bar to start the game. 
