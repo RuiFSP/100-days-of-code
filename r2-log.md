@@ -12,9 +12,27 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D3 --------------------------------------------------------------------------------
+
+- Day3 -  Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 1/
+  - The game involves shooting down alien ships using a space ship controlled by the player. 
+  - The player's space ship can move left and right using the left and right arrow keys on the keyboard. 
+  - The player's space ship can fire bullets using the space bar on the keyboard. 
+  - The game features multiple alien ships that move closer to the player's ship every second. 
+  - The game includes barriers that offer the player defensive positions. 
+  - The player must avoid colliding with the alien ships or the game will end. 
+  - The player can score points by shooting down alien ships, with each alien ship being worth 10 points. 
+  - The game features sound effects for shooting and collisions. 
+  - The game keeps track of the player's score and displays it on the screen. 
+  - The game is designed using Python Turtle, which allows for easy graphical design and animations.
+
+The end project
+is [Space Invaders](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day2)
+
+
 ### R2D2 --------------------------------------------------------------------------------
 
-- Day2 - Write Python code to play the Google Dinosaur Game - Part 2/2
+- Day2 - Capstone Project 13/20 -  Write Python code to play the Google Dinosaur Game - Part 2/2
   - Changed the code form yesterday and found a simpler solution:
     - This code uses Python's pyautogui module to play the Chrome Dino game automatically. 
     - The image_grab() function grabs an image of the game and returns the sum of the pixels in the obstacle area. 
@@ -33,7 +51,7 @@ is [GUI Automation Google Dinosaur Game](https://github.com/RuiFSP/100-days-of-c
 
 ### R2D1 --------------------------------------------------------------------------------
 
-- Day1 - Write Python code to play the Google Dinosaur Game - Part 1/2
+- Day1 - Capstone Project 13/20 - Write Python code to play the Google Dinosaur Game - Part 1/2
   - The game imports necessary libraries: PIL, pyautogui, cv2, numpy, and time. 
   - The game uses pyautogui to press the Windows key, type in "chrome," and press Enter to open Chrome. 
   - The game then types in the URL for the Chrome dinosaur game and presses the space bar to start the game. 
