@@ -6,7 +6,7 @@ import random
 wn = turtle.Screen()
 wn.bgcolor("black")
 wn.title("Space Invaders")
-wn.bgpic("background2.gif")
+wn.bgpic("background.gif")
 
 print(wn.screensize())
 
