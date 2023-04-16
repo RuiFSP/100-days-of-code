@@ -16,6 +16,7 @@ My working IDE
 
 - Day5 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 3/
     - Refactoring the code
+    - Incorporating sounds
 
 The end project is [Space Invaders](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day5)
 
