@@ -12,6 +12,13 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D6 --------------------------------------------------------------------------------
+
+- Day6 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 4/
+    - Refactoring the code
+
+The end project is [Space Invaders](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day6)
+
 ### R2D5 --------------------------------------------------------------------------------
 
 - Day5 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 3/
