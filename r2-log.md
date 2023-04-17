@@ -12,16 +12,31 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D7 --------------------------------------------------------------------------------
+
+- Day7 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 5/5
+    - Set up the game screen and background
+    - Create the player's spaceship, enemies, and scoring/game over system
+    - Define the player's movement functions and projectile firing function
+    - Define the enemy movement function and enemy projectile firing function
+    - Define the collision detection function to handle when a projectile hits an enemy or the player
+    - Define the explosion function to add a visual effect when a projectile hits an enemy or the player
+    - Set up keyboard events to move the player's spaceship and fire projectiles
+    - Use a loop to continuously update the game by moving the enemies and enemy projectiles,
+    - checking for collisions, and updating the score
+
+The end project is [Space Invaders](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day7)
+
 ### R2D6 --------------------------------------------------------------------------------
 
-- Day6 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 4/
+- Day6 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 4/5
     - Refactoring the code
 
 The end project is [Space Invaders](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day6)
 
 ### R2D5 --------------------------------------------------------------------------------
 
-- Day5 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 3/
+- Day5 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 3/5
     - Refactoring the code
     - Incorporating sounds
 
@@ -29,14 +44,14 @@ The end project is [Space Invaders](https://github.com/RuiFSP/100-days-of-code/t
 
 ### R2D4 --------------------------------------------------------------------------------
 
-- Day4 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 2/
+- Day4 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 2/5
     - Refactoring the code
 
 The end project is [Space Invaders](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day4)
 
 ### R2D3 --------------------------------------------------------------------------------
 
-- Day3 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 1/
+- Day3 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 1/5
     - The game involves shooting down alien ships using a space ship controlled by the player.
     - The player's space ship can move left and right using the left and right arrow keys on the keyboard.
     - The player's space ship can fire bullets using the space bar on the keyboard.
