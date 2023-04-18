@@ -27,7 +27,7 @@ with app.app_context():
 @app.route('/')
 def home():
     all_books = db.session.query(Book).all()
-    return render_template("index.html", books_list=all_books)
+    return render_template("base.html", books_list=all_books)
 
 
 @app.route("/add", methods=['GET', 'POST'])

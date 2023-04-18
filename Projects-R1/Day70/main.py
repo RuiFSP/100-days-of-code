@@ -43,7 +43,7 @@ class CreatePostForm(FlaskForm):
 @app.route('/')
 def get_all_posts():
     posts = db.session.query(BlogPost).all()
-    return render_template("index.html", all_posts=posts)
+    return render_template("base.html", all_posts=posts)
 
 
 @app.route("/post/<int:index>", methods=['GET', 'POST'])

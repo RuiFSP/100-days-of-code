@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block title %}Magic Card Search{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <form method="post" action="{{ url_for('index') }}">
+                    <div class="form-group">
+                        <label for="cardname">Enter Card Name:</label>
+                        <input type="text" name="cardname" id="cardname" class="form-control" placeholder="e.g. Black Lotus">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Search</button>
+                </form>
+            </div>
+            <div class="col-md-6">
+                {% if card_data %}
+                    <div class="card mb-3">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <img src="{{ card_data['image_uris']['normal'] }}" class="card-img" alt="{{ card_data['name'] }}">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">{{ card_data['name'] }}</h5>
+                                    <p class="card-text">{{ card_data['oracle_text'] }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+{% endblock %}

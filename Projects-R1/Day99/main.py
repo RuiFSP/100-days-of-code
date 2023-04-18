@@ -25,7 +25,7 @@ class UploadForm(FlaskForm):
 @app.route('/')
 def index():
     form = UploadForm()
-    return render_template('index.html', form=form)
+    return render_template('base.html', form=form)
 
 
 # Define a route to handle the file upload
