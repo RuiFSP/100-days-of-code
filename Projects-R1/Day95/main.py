@@ -52,7 +52,7 @@ with app.app_context():
 
 @app.route("/")
 def home():
-    return render_template("index.html", cafes=Cafe.query.all())
+    return render_template("base.html", cafes=Cafe.query.all())
 
 
 @app.route('/add', methods=['GET', 'POST'])

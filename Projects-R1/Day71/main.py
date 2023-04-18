@@ -30,7 +30,7 @@ class User(UserMixin, db.Model):
 @app.route('/')
 def home():
     # Every render_template has a logged_in variable set.
-    return render_template("index.html", logged_in=current_user.is_authenticated)
+    return render_template("base.html", logged_in=current_user.is_authenticated)
 
 
 @app.route('/register', methods=['GET', 'POST'])

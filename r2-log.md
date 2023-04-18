@@ -12,6 +12,20 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D8 --------------------------------------------------------------------------------
+
+- Day8 - Capstone Project 15/20 - Build a custom website using an API that of Magic The Gathering
+    - [Docs - MTG-DEV](https://docs.magicthegathering.io/)
+    - [Flask-Bootstrap](https://bootstrap-flask.readthedocs.io/en/stable/)
+        - Flask Bootstrap: a Flask extension that provides a set of base templates with Bootstrap CSS and
+        - JavaScript already included, making it easy to create a consistent look and feel for your web application.
+        - Requests: a Python library for making HTTP requests. In this case, you are using it to make requests to an
+        - API to retrieve data about Magic cards.
+        - Jinja2: a templating language for Python that is used in conjunction with Flask to dynamically generate
+        - HTML pages
+
+The end project is [Space Invaders](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day8)
+
 ### R2D7 --------------------------------------------------------------------------------
 
 - Day7 - Capstone Project 14/20 - Using Python Turtle, build the classic space invaders - Part 5/5

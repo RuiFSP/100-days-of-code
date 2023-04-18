@@ -58,7 +58,7 @@ def home():
         # This line gives each movie a new ranking reversed from their order in all_movies
         all_movies[i].ranking = len(all_movies) - i
     db.session.commit()
-    return render_template("index.html", movie_list=all_movies)
+    return render_template("base.html", movie_list=all_movies)
 
 
 @app.route("/edit", methods=['GET', 'POST'])

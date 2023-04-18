@@ -39,7 +39,7 @@ app = create_app()
 
 @app.route("/")
 def home():
-    return render_template('index.html')
+    return render_template('base.html')
 
 
 @app.route("/login", methods=['GET', 'POST'])
