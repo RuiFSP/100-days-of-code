@@ -12,6 +12,19 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D9 --------------------------------------------------------------------------------
+
+- Day9 - Capstone Project 19/20 - Started building an eCommerce website with payment processing - Part 1/
+    - Requirements:
+      - Website using Flask
+      - Website needs to have a working cart and checkout. 
+      - It should be able to display items for sale and take real payment from users. 
+      - It should have login/registration authentication features
+      - It should consider using the Stripe API
+
+The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day9)
+
+
 ### R2D8 --------------------------------------------------------------------------------
 
 - Day8 - Capstone Project 15/20 - Build a custom website using an API that of Magic The Gathering
