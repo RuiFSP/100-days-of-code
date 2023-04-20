@@ -12,9 +12,18 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D10 -----------------------------------------------------------------------------
+
+- Day10 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 2/
+    - Requirements:
+      - Reading documentation for new features
+
+The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day10)
+
+
 ### R2D9 --------------------------------------------------------------------------------
 
-- Day9 - Capstone Project 19/20 - Started building an eCommerce website with payment processing - Part 1/
+- Day9 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 1/
     - Requirements:
       - Website using Flask
       - Website needs to have a working cart and checkout. 
