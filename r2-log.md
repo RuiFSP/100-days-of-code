@@ -12,27 +12,33 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D11 -----------------------------------------------------------------------------
+
+- Day11 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 3/
+    - Flask web application that uses SQLAlchemy to communicate with a SQLite database
+    - Flask-Bcrypt for password hashing
+    - Flask-Uploads for handling image uploads
+
+The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day11)
+
 ### R2D10 -----------------------------------------------------------------------------
 
 - Day10 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 2/
-    - Requirements:
-      - Reading documentation for new features
+    - Reading documentation for new features
 
 The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day10)
-
 
 ### R2D9 --------------------------------------------------------------------------------
 
 - Day9 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 1/
     - Requirements:
-      - Website using Flask
-      - Website needs to have a working cart and checkout. 
-      - It should be able to display items for sale and take real payment from users. 
-      - It should have login/registration authentication features
-      - It should consider using the Stripe API
+        - Website using Flask
+        - Website needs to have a working cart and checkout.
+        - It should be able to display items for sale and take real payment from users.
+        - It should have login/registration authentication features
+        - It should consider using the Stripe API
 
 The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day9)
-
 
 ### R2D8 --------------------------------------------------------------------------------
 
