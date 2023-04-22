@@ -12,6 +12,15 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D12 -----------------------------------------------------------------------------
+
+- Day12 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 4/
+    - add products to database
+    - display products in admin page
+    - display brands and categories
+
+The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day12)
+
 ### R2D11 -----------------------------------------------------------------------------
 
 - Day11 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 3/
