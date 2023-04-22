@@ -37,9 +37,6 @@ def addcat():
 
 @app.route('/addproduct', methods=['GET', 'POST'])
 def addproduct():
-    if 'email' not in session:
-        flash('Please login first', 'danger')
-        return redirect(url_for('login'))
     brands = Brand.query.all()
     categories = Category.query.all()
     form = AddProductForm(request.form)
