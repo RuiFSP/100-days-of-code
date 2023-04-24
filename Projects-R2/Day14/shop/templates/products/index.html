@@ -1,0 +1,99 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+    {% block styles %}
+        <style>
+             .discount_text{
+                text-shadow: 1px 1px 2px #000;
+                color: #f00;
+                transform: rotate(-15deg);
+                position: absolute;
+                top: 20%;
+                left: 20%;
+             }
+        </style>
+    {% endblock %}
+
+<!--navbar starts-->
+<div class="container">
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/">Home</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" href="/">All Products</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Brands
+            </a>
+            <ul class="dropdown-menu">
+              {% for brand in brands%}
+                <li><a class="dropdown-item" href="{{url_for('get_brand', id = brand.id)}}">{{brand.name}}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled">Disabled</a>
+          </li>
+        </ul>
+        <form class="d-flex" role="search">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+</div>
+<!--navbar ends-->
+<div class="container">
+  <div class="row">
+    {% if brand %}
+      {% for b in brand %}
+      <div class="col-md-3 mt-3">
+        <div class="card">
+          <img src="{{url_for('static',filename='images/' + b.image_1)}}" alt="{{b.name}}"
+               class="card-img-top" height="200px">
+          <div class="card-body">
+            {% if b.discount > 0 %}
+              <h5 class="discount_text"> Discount: {{b.discount}} %</h5>
+            {% endif %}
+            <h5 class="text-center">{{b.name}}</h5>
+            <p class="text-center">Price ${{b.price}}</p>
+          </div>
+          <div class="card-footer">
+            <a href="#" class="float-start btn btn-sm btn-primary"> Details </a>
+            <a href="#" class="float-end btn btn-sm btn-warning"> Add to cart </a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    {% else %}
+      {% for product in products %}
+      <div class="col-md-3 mt-3">
+        <div class="card">
+          <img src="{{url_for('static',filename='images/' + product.image_1)}}" alt="{{product.name}}" class="card-img-top" height="200px">
+          <div class="card-body">
+            {% if product.discount > 0 %}
+              <h5 class="discount_text"> Discount: {{product.discount}} %</h5>
+            {% endif %}
+            <h5 class="text-center">{{product.name}}</h5>
+            <p class="text-center">Price ${{product.price}}</p>
+          </div>
+          <div class="card-footer">
+            <a href="#" class="float-start btn btn-sm btn-primary"> Details </a>
+            <a href="#" class="float-end btn btn-sm btn-warning"> Add to cart </a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
+
+{% endblock content %}

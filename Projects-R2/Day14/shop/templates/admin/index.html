@@ -1,0 +1,86 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    {% include '_messages.html' %}
+
+    <div class="container">
+       <nav class="navbar navbar-expand-lg bg-body-tertiary">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#">Admin</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="#">Home<span class="sr-only"></span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="/brands">Brands</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="/category">Categories</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+    </div>
+    <div class="container mt-5">
+        <table class="table table-sm table-condensed table-striped">
+            <caption>Table of products</caption>
+            <thead>
+                <th>Sr</th>
+                <th>Product</th>
+                <th>Price</th>
+                <th>Discount</th>
+                <th>Brand</th>
+                <th>Image</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </thead>
+            <tbody>
+                {% for product in products %}
+                <tr>
+                    <td>{{loop.index}}</td>
+                    <td>{{product.name}}</td>
+                    <td>{{product.price}}</td>
+                    <td>{{product.discount}} %</td>
+                    <td>{{product.brand.name}}</td>
+                    <td>
+                        <img src="{{url_for('static', filename='images/' + product.image_1)}}" width="50" height="40" alt="product_image">
+                    </td>
+                    <td>
+                        <a href="{{url_for('updateproduct', id=product.id)}}" class="btn btn-info btn-sm">Edit</a>
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#exampleModal-{{product.id}}">
+                            Delete
+                        </button>
+                    </td>
+                </tr>
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModal-{{product.id}}" tabindex="-1" aria-labelledby="exampleModalLabelProduct" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h1 class="modal-title fs-5" id="exampleModalLabelProduct">{{product.name}}</h1>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <p class="text-danger">Are you sure that to delete the product {{product.name}}</p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-warning btn-sm" data-bs-dismiss="modal">Cancel</button>
+                                <form id="delete-form-{{product.id}}" action="{{url_for('deleteproduct', id=product.id)}}" method="POST">
+                                    <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endblock content%}

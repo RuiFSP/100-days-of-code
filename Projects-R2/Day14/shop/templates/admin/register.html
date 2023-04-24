@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    <div class="container">
+        <div class="text-center h1 text-danger">Register</div>
+        {% from "_formhelpers.html" import render_field %}
+            <form method="post" enctype="multipart/form-data">
+                  <div>
+                    {{ render_field(form.name, class="form-control") }}
+                    {{ render_field(form.username, class="form-control") }}
+                    {{ render_field(form.email, class="form-control") }}
+                    {{ render_field(form.password, class="form-control") }}
+                    {{ render_field(form.confirm, class="form-control") }}
+                    <input type="file" name="photo">
+                  </div>
+                
+                <p><input type=submit value="Register" class="btn btn-info mt-2"></p>
+            </form>
+    </div>
+
+{% endblock content %}
