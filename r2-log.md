@@ -12,13 +12,20 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D16 -----------------------------------------------------------------------------
+
+- Day16 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 8/
+    - display single product details
+    - 
+
+The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day16)
+
 ### R2D15 -----------------------------------------------------------------------------
 
 - Day15 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 7/
     - filter products by categories
     - pagination conditions
     - footer
-
 
 The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day15)
 
@@ -28,7 +35,6 @@ The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree
     - delete products route
     - display all products in main page
     - filter products by brand
-
 
 The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day14)
 
@@ -40,7 +46,6 @@ The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree
     - delete routes and templates for brands and categories
 
 The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day13)
-
 
 ### R2D12 -----------------------------------------------------------------------------
 
