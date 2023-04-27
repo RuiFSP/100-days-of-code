@@ -27,4 +27,3 @@ with app.app_context():
 
 from .admin import routes, models, forms
 from .products import routes, models, forms
-from .carts import carts

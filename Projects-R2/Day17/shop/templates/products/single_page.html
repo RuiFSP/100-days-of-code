@@ -42,9 +42,8 @@
               
               
               <li class="nav-item">
-                <a class="nav-link disabled">Cart ({{ session['shopping_cart']|length }})</a>
+                <a class="nav-link disabled">Disabled</a>
               </li>
-              
             </ul>
             <form class="d-flex" role="search">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -68,29 +67,13 @@
                 {% if product.discount > 0 %}
                 <p>Product discount: {{ product.discount }}%</p>
                 {% endif %}
-                <hr>
                 <b>Product Description</b>
                 <p>{{ product.description }}</p>
-                <hr>
-                <form action="{{url_for('add_cart')}}" method="POST">
-                    <input type="hidden" name="product_id" value="{{product.id}}">
-                    <button type="submit" class="btn btn-sm btn-warning">Add to cart</button>
-                    <label for="">Quantity:</label>
-                    <input type="number" name="quantity" value="1" min="1" max="{{product.stock}}">
-                    {% set colors = product.color.split(',') %}
-                    <label for="colors"> Colors:</label>
-                    <select name="colors" id="">
-                        {% for color in colors %}
-                        {% set col = color.split(':') %}
-                        <option value="{{col[0]}}">{{col[0]|capitalize}}</option>
-                        {% endfor %}
-                    </select>
-                </form>
+                <a href="" class="btn btn-warning">Add to Cart</a>
             </div>
         </div>
         <div class="row">
             <div class="col-md-12 mt-3" id="s_image">
-                <hr>
                 <img class="p-3" src="{{url_for('static', filename='images/' + product.image_1)}}" alt="{{product.name}}" width="120" height="120">
                 <img class="p-3" src="{{url_for('static', filename='images/' + product.image_2)}}" alt="{{product.name}}" width="120" height="120">
                 <img class="p-3" src="{{url_for('static', filename='images/' + product.image_3)}}" alt="{{product.name}}" width="120" height="120">
