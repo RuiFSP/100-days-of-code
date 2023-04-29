@@ -1,0 +1,60 @@
+{% extends 'layout.html' %}
+{% include 'navbar.html' %}
+{% block content %}
+    <div class="container mt-5">
+        {% include '_messages.html' %}
+        <div class="row">
+            <div class="col-md-6" id="b_image">
+                <img src="{{url_for('static', filename='images/' + product.image_1)}}" alt="{{product.name}}" width="400" height="400">
+            </div>
+            <div class="col-md-6">
+                <h4>Product name: {{ product.name }}</h4>
+                <hr>
+                <p>Product price: ${{ product.price}}</p>
+                {% if product.discount > 0 %}
+                <p>Product discount: {{ product.discount }}%</p>
+                {% endif %}
+                <hr>
+                <b>Product Description</b>
+                <p>{{ product.description }}</p>
+                <hr>
+                <form action="{{url_for('add_cart')}}" method="POST">
+                    <input type="hidden" name="product_id" value="{{product.id}}">
+                    <button type="submit" class="btn btn-sm btn-warning">Add to cart</button>
+                    <label for="quantity">Quantity:</label>
+                    <input type="number" name="quantity" id="quantity" value="1" min="1" max="{{product.stock}}">
+                    {% set colors = product.color.split(',') %}
+                    <label for="colors"> Colors:</label>
+                    <select name="colors" id="colors">
+                        {% for color in colors %}
+                            {% set col = color.split(':') %}
+                            <option value="{{col[0]}}">{{col[0]|capitalize}}</option>
+                        {% endfor %}
+                    </select>
+                </form>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 mt-3" id="s_image">
+                <hr>
+                <img class="p-3" src="{{url_for('static', filename='images/' + product.image_1)}}" alt="{{product.name}}" width="120" height="120">
+                <img class="p-3" src="{{url_for('static', filename='images/' + product.image_2)}}" alt="{{product.name}}" width="120" height="120">
+                <img class="p-3" src="{{url_for('static', filename='images/' + product.image_3)}}" alt="{{product.name}}" width="120" height="120">
+            </div>
+        </div>
+        
+    </div>
+
+    <script>
+      const b_image = document.querySelector('#b_image');
+      const s_image = document.querySelector('#s_image');
+    
+      s_image.addEventListener('click', function(event) {
+        if (event.target.tagName === 'IMG') {
+          const imageSrc = event.target.getAttribute('src');
+          b_image.innerHTML = `<img src="${imageSrc}" width="400" height="400">`;
+        }
+      });
+    </script>
+
+{% endblock content %}

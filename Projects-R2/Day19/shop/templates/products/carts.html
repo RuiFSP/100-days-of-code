@@ -1,0 +1,77 @@
+{% extends 'layout.html' %}
+{% include 'navbar.html' %}
+{% block content %}
+    <div class="container mt-4">
+        {% include '_messages.html' %}
+        <div class="row">
+            <div class="col-md-12">
+                <table class="table table-hover table-sm">
+                    <caption>Shopping Cart</caption>
+                    <thead>
+                        <th>Sr</th>
+                        <th>Images</th>
+                        <th>Name</th>
+                        <th>Color</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Discount</th>
+                        <th>Subtotal</th>
+                        <th>Update</th>
+                        <th>Remove</th>
+                    </thead>
+                    <tbody>
+                        {% for key, product in session['shopping_cart'].items() %}
+                        {% set discount = "%0.2f" |format((product.discount/100) *  product.price|float) %}
+                        <tr>
+                            <td>{{loop.index}}</td>
+                            <!-- product image-->
+                            <td><img src="{{url_for('static', filename='images/' + product.image)}}" alt="{{product.name}}" width="50" height="45"></td>
+                            <!-- product name-->
+                            <td>{{ product.name }}</td>
+                            <form action="{{url_for('update_cart',id=key)}}" method="POST">
+                                <!-- product color-->
+                                <td>
+                                    <div class="form-group float-start">
+                                        <select class="form-control" id="color" name="colors">
+                                            <option selected>{{ product.color }}</option>
+                                            {% for color in product.colors %}
+                                                <option value="{{ color }}">{{ color }}</option>
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+                                </td>
+                                <!-- product price-->
+                                <td>${{ product.price }}</td>
+                                <!-- product quantity-->
+                                <td><input type="number" name="quantity" min="1" max="5" value="{{product.quantity}}"></td>
+                                <!-- product discount-->
+                                {% if product.discount > 0 %}
+                                    <td>{{ product.discount }}% &nbsp; is ${{discount}}</td>
+                                {% else %}
+                                    <td></td>
+                                {% endif %}
+                                {% set subtotal = product.quantity|int * product.price|float%}
+                                <!-- product subtotal-->
+                                <td>${{'%.2f'|format((subtotal|float) - discount|float)}}</td>
+                                <!-- product update-->
+                                <td><button type="submit" class="btn btn-sm btn-info">Update</button></td>
+                            </form>
+                            <td><a href="{{url_for('delete_item', id=key)}}" class="btn btn-sm btn-danger">Remove</a></td>
+                        </tr>
+                        {% endfor %}
+                        
+                        <tr>
+                            <td><a href="/" class="btn btn-sm btn-success">Checkout</a></td>
+                            <td></td>
+                            <td colspan="3"><h4>Tax: ${{tax}}</h4></td>
+                            <td colspan="4"><h4>Grand Total: ${{grand_total}}</h4></td>
+                            <td> <a href="{{url_for('clear_cart')}}" class="btn btn-warning btn-sm">Clear cart</a></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+{% endblock content %}
+

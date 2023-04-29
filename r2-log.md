@@ -12,6 +12,20 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D19 -----------------------------------------------------------------------------
+
+- Day19 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 11/
+    - make searchable products with [flask_msearch](https://pypi.org/project/flask-msearch/)
+    - [flask-wtf](https://flask-wtf.readthedocs.io/en/0.15.x/form/)
+      - create customer registration form
+      - create customer registration template
+      - create customer registration model
+    - form validation and user login with [flask-login](https://pypi.org/project/Flask-Login/)
+    - logout user
+    - SQLAlchemy Migrations with [Flask-Migrate](https://flask-migrate.readthedocs.io/en/latest/)
+
+The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day19)
+
 ### R2D18 -----------------------------------------------------------------------------
 
 - Day18 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 10/
