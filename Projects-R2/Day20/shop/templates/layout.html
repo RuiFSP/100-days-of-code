@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{title}}</title>
+      <link href="{{ url_for('static', filename='fontawesome-free/css/all.min.css')}}" rel="stylesheet" type="text/css">
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css')}}">
+      <script defer src="{{ url_for('static', filename='js/bootstrap.bundle.min.js')}}"></script>
+  </head>
+  <body class="d-flex flex-column min-vh-100">
+      {% block content %}
+      {% endblock content %}
+  </body>
+  <footer class="bg-light text-center text-white mt-auto">
+    <!-- Grid container -->
+    <div class="container p-4 pb-0">
+      <!-- Section: Social media -->
+      <section class="mb-4">
+  
+        <!-- Twitter -->
+        <a
+          class="btn text-white btn-floating m-1"
+          style="background-color: #55acee;"
+          href="https://twitter.com/RuiFSPinto"
+          role="button"
+          ><i class="fab fa-twitter"></i
+        ></a>
+        
+        <!-- Linkedin -->
+        <a
+          class="btn text-white btn-floating m-1"
+          style="background-color: #0082ca;"
+          href="https://www.linkedin.com/in/ruifspinto/"
+          role="button"
+          ><i class="fab fa-linkedin-in"></i
+        ></a>
+        <!-- Github -->
+        <a
+          class="btn text-white btn-floating m-1"
+          style="background-color: #333333;"
+          href="https://github.com/RuiFSP"
+          role="button"
+          ><i class="fab fa-github"></i
+        ></a>
+      </section>
+      <!-- Section: Social media -->
+    </div>
+    <!-- Grid container -->
+  
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+      © 2023 Copyright:
+      <a class="text-white" href="">Ruifspinto</a>
+    </div>
+    <!-- Copyright -->
+  </footer>
+</html>

@@ -12,6 +12,18 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D20 -----------------------------------------------------------------------------
+
+- Day20 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 12/
+    - create customer order table
+    - insert customer order into table
+    - display customer orders
+    - generate dynamic pdf of order 
+      - [pdfkit](https://pypi.org/project/pdfkit/)
+      - [wkhtmltopdf](https://wkhtmltopdf.org/)
+
+The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day20)
+
 ### R2D19 -----------------------------------------------------------------------------
 
 - Day19 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 11/
