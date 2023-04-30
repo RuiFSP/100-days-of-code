@@ -1,0 +1,76 @@
+{% extends 'layout.html' %}
+{% include 'navbar.html' %}
+{% block content %}
+    <div class="container mt-4">
+        {% include '_messages.html' %}
+        <div class="row">
+            Invoice: {{orders.invoice}}
+            <br>
+            Status: {{orders.status}}
+            <br>
+            Customer Name: {{customer.name}}
+            <br>
+            Customer Email: {{customer.email}}
+            <br>
+            Customer Contact: {{customer.contact}}
+            <br>
+            <br>
+            <div class="col-md-12">
+                <table class="table table-hover table-sm">
+                    <caption>Shopping Cart</caption>
+                    <thead>
+                        <th>Sr</th>
+                        <th>Name</th>
+                        <th>Color</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Discount</th>
+                        <th>Subtotal</th>
+                    </thead>
+                    <tbody>
+                        {% for key, product in orders.orders.items() %}
+                        {% set discount = "%0.2f" |format((product.discount/100) *  product.price|float) %}
+                        <tr>
+                            <td>{{loop.index}}</td>
+                            <!-- product name-->
+                            <td>{{ product.name }}</td>
+                            <form action="{{url_for('update_cart',id=key)}}" method="POST">
+                                <!-- product color-->
+                                <td>
+                                    {{product.color|capitalize}}
+                                </td>
+                                <!-- product price-->
+                                <td>${{ product.price }}</td>
+                                <!-- product quantity-->
+                                <td class="text-center">{{product.quantity}}</td>
+                                <!-- product discount-->
+                                {% if product.discount > 0 %}
+                                    <td>{{ product.discount }}% &nbsp; is ${{discount}}</td>
+                                {% else %}
+                                    <td></td>
+                                {% endif %}
+                                {% set sub_total = product.quantity|int * product.price|float%}
+                                <!-- product sub_total-->
+                                <td>${{'%.2f'|format((sub_total|float) - discount|float)}}</td>
+                            </form>
+                        </tr>
+                        {% endfor %}
+                        
+                        <tr>
+                            <td><a href="#" class="btn btn-sm btn-success">Check out</a></td>
+                            <td colspan="3" ><h5>Tax: ${{tax}}</h5></td>
+                            <td colspan="2"><h5>Grand Total: ${{grand_total}}</h5></td>
+                            <td>
+                                <form action="{{url_for('get_pdf', invoice=orders.invoice)}}" method="POST">
+                                    <button type="submit" class="btn btn-info btn-sm">Get PDF</button>
+                                </form>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+{% endblock content %}
+
