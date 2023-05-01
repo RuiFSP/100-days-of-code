@@ -12,9 +12,18 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D21 -----------------------------------------------------------------------------
+
+- Day21 - Capstone Project 16/20 - Finished building an eCommerce website with payment processing - Part 13/13
+    - integrate stripe payment
+        - [install stripe](https://pypi.org/project/stripe/)
+
+The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day20)
+
+
 ### R2D20 -----------------------------------------------------------------------------
 
-- Day20 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 12/
+- Day20 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 12/13
     - create customer order table
     - insert customer order into table
     - display customer orders
@@ -26,7 +35,7 @@ The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree
 
 ### R2D19 -----------------------------------------------------------------------------
 
-- Day19 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 11/
+- Day19 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 11/13
     - make searchable products with [flask_msearch](https://pypi.org/project/flask-msearch/)
     - [flask-wtf](https://flask-wtf.readthedocs.io/en/0.15.x/form/)
       - create customer registration form
@@ -40,7 +49,7 @@ The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree
 
 ### R2D18 -----------------------------------------------------------------------------
 
-- Day18 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 10/
+- Day18 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 10/13
     - display cart items
     - update cart items
     - remove cart items
@@ -50,21 +59,21 @@ The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree
 
 ### R2D17 -----------------------------------------------------------------------------
 
-- Day17 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 9/
+- Day17 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 9/13
     - add cart online to shop
 
 The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day17)
 
 ### R2D16 -----------------------------------------------------------------------------
 
-- Day16 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 8/
+- Day16 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 8/13
     - display single product details
 
 The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day16)
 
 ### R2D15 -----------------------------------------------------------------------------
 
-- Day15 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 7/
+- Day15 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 7/13
     - filter products by categories
     - pagination conditions
     - footer
@@ -73,7 +82,7 @@ The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree
 
 ### R2D14 -----------------------------------------------------------------------------
 
-- Day14 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 6/
+- Day14 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 6/13
     - delete products route
     - display all products in main page
     - filter products by brand
@@ -82,7 +91,7 @@ The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree
 
 ### R2D13 -----------------------------------------------------------------------------
 
-- Day13 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 5/
+- Day13 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 5/13
     - delete images from database
     - update routes and templates for brands and categories
     - delete routes and templates for brands and categories
@@ -91,7 +100,7 @@ The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree
 
 ### R2D12 -----------------------------------------------------------------------------
 
-- Day12 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 4/
+- Day12 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 4/13
     - add products to database
     - display products in admin page
     - display brands and categories
@@ -100,7 +109,7 @@ The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree
 
 ### R2D11 -----------------------------------------------------------------------------
 
-- Day11 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 3/
+- Day11 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 3/13
     - Flask web application that uses SQLAlchemy to communicate with a SQLite database
     - Flask-Bcrypt for password hashing
     - Flask-Uploads for handling image uploads
@@ -109,14 +118,14 @@ The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree
 
 ### R2D10 -----------------------------------------------------------------------------
 
-- Day10 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 2/
+- Day10 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 2/13
     - Reading documentation for new features
 
 The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day10)
 
 ### R2D9 --------------------------------------------------------------------------------
 
-- Day9 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 1/
+- Day9 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 1/13
     - Requirements:
         - Website using Flask
         - Website needs to have a working cart and checkout.

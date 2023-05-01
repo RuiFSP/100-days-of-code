@@ -1,0 +1,60 @@
+{% extends "layout.html" %}
+
+{% block content %}
+  {% block styles %}
+    <style>
+      /* Custom CSS to center the message */
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+
+      .card {
+        box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+      }
+
+      .card-title {
+        font-weight: 700;
+        color: #4c4c4c;
+      }
+
+      .card-text {
+        font-size: 1.2rem;
+        color: #4c4c4c;
+      }
+
+      .btn {
+        background-color: #3385ff;
+        color: #fff;
+        font-size: 1.2rem;
+        font-weight: 500;
+        border-radius: 0;
+        border: none;
+      }
+
+      .btn:hover,
+      .btn:focus {
+        background-color: #2673e6;
+        color: #fff;
+      }
+    </style>
+  {% endblock styles %}
+
+  <div class="container extra">
+    <div class="row justify-content-center">
+      <div class="col-md-8 col-lg-6">
+        <div class="card">
+          <div class="card-body">
+            <h1 class="card-title text-center mb-4">Thank You For Your Order</h1>
+            <p class="card-text text-center">We appreciate your business and will do our best to fulfill your order as soon as possible.</p>
+            <div class="d-grid mt-4">
+              <a href="{{url_for('home')}}" class="btn">Back to Home</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
