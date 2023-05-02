@@ -12,13 +12,35 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D22 -----------------------------------------------------------------------------
+
+- Day22 - Capstone Project 17/20 - Folder Organizer
+  - This Python program uses the shutil, tkinter, os, collections, and pathlib modules to organize files in a selected 
+  directory based on their file extensions.
+
+    1) The program starts by creating a Tkinter root window and prompting the user to select a directory to organize. If 
+    a directory is not selected, the program prints "No directory selected." and exits.
+    2) Next, the program creates folders for the different file extensions if they do not already exist. The extensions 
+    are stored in a dictionary named 'extensions', and the number of files moved to each folder is counted using the 
+    defaultdict module. 
+    3) The program then loops through all the files and subdirectories in the selected directory using the os.walk() 
+    method. For each file, it checks its extension and moves it to the appropriate folder based on the extension. 
+    If the file's extension is not recognized, the program asks the user to enter a folder name for files with that 
+    extension, creates a new folder with that name, and moves the file there. 
+    4) After moving all the files, the program displays the number of files moved to each folder and removes any empty 
+    directories. 
+    5) Finally, the program asks the user if they want to open the destination folder and, if yes, opens it using 
+    the os.startfile() method.
+
+The end project is [File Organizer](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day22)
+
 ### R2D21 -----------------------------------------------------------------------------
 
 - Day21 - Capstone Project 16/20 - Finished building an eCommerce website with payment processing - Part 13/13
     - integrate stripe payment
         - [install stripe](https://pypi.org/project/stripe/)
 
-The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day20)
+The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day21)
 
 
 ### R2D20 -----------------------------------------------------------------------------
