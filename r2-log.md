@@ -12,6 +12,20 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D24 -----------------------------------------------------------------------------
+
+-  Day24 - Code wars exercises
+  - [Who Likes It](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/likes.py) - [[Link]](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+  - [Get the mean of an Array](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/mean_array.py) - [[Link]](https://www.codewars.com/kata/563e320cee5dddcf77000158)
+
+### R2D23 -----------------------------------------------------------------------------
+
+- Day23 - Capstone Project 18/20 - Started exploring a Space Race in 1957
+  - Just started exploring a dataset with data on space missions dating back to the Space Race in 1957, I can't wait 
+  - to dive in and discover new insights about the trends over time
+
+The end project is [Space Missions dData](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day23)
+
 ### R2D22 -----------------------------------------------------------------------------
 
 - Day22 - Capstone Project 17/20 - Folder Organizer
