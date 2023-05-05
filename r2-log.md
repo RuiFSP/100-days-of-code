@@ -16,7 +16,7 @@ My working IDE
 
 -  Day25 - CodeWars exercises
   - [Smallest possible sum](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/smallest_possible_sum.py) - [[Link]](https://www.codewars.com/kata/52f677797c461daaf7000740)
-  - [Find the odd int](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/find_it) - [[Link]](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+  - [Find the odd int](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/find_it.py) - [[Link]](https://www.codewars.com/kata/54da5a58ea159efa38000836)
   - [Reverse List Order](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/reverse_list.py) - [[Link]](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
 
 ### R2D24 -----------------------------------------------------------------------------
