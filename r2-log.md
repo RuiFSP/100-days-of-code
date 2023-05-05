@@ -12,9 +12,16 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D25 -----------------------------------------------------------------------------
+
+-  Day25 - CodeWars exercises
+  - [Smallest possible sum](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/smallesy_possible_sum.py) - [[Link]](https://www.codewars.com/kata/52f677797c461daaf7000740)
+  - [Find the odd int](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/find_it) - [[Link]](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+  - [Reverse List Order](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/reverse_list.py) - [[Link]](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
+
 ### R2D24 -----------------------------------------------------------------------------
 
--  Day24 - Code wars exercises
+-  Day24 - CodeWars exercises
   - [Who Likes It](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/likes.py) - [[Link]](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
   - [Get the mean of an Array](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/mean_array.py) - [[Link]](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 
