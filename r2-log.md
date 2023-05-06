@@ -24,7 +24,7 @@ My working IDE
 
 The end project is [Space Missions dData](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day26)
 
-### R2D26 -----------------------------------------------------------------------------
+### R2D25 -----------------------------------------------------------------------------
 
 -  Day25 - CodeWars exercises
   - [Smallest possible sum](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/smallest_possible_sum.py) - [[Link]](https://www.codewars.com/kata/52f677797c461daaf7000740)
