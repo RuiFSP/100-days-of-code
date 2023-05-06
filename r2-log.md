@@ -12,7 +12,19 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-### R2D25 -----------------------------------------------------------------------------
+### R2D26 -----------------------------------------------------------------------------
+
+- Day26 - Capstone Project 18/20 - Exploring a Space Race in 1957 - Part 2/
+  - Preliminary Data Exploration
+    - Data Cleaning - Check for Missing Values and Duplicates
+    - Descriptive Statistics
+  - Number of Launches per company
+  - Number of active versus retired Rockets
+  - Distribution of Mission status
+
+The end project is [Space Missions dData](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day26)
+
+### R2D26 -----------------------------------------------------------------------------
 
 -  Day25 - CodeWars exercises
   - [Smallest possible sum](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/smallest_possible_sum.py) - [[Link]](https://www.codewars.com/kata/52f677797c461daaf7000740)
@@ -27,7 +39,7 @@ My working IDE
 
 ### R2D23 -----------------------------------------------------------------------------
 
-- Day23 - Capstone Project 18/20 - Started exploring a Space Race in 1957
+- Day23 - Capstone Project 18/20 - Started exploring a Space Race in 1957 - Part 1/
   - Just started exploring a dataset with data on space missions dating back to the Space Race in 1957, I can't wait 
   - to dive in and discover new insights about the trends over time
 
