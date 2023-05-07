@@ -12,58 +12,71 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D27 -----------------------------------------------------------------------------
+
+- Day27 - CodeWars exercises
+- [Maximum subarray sum](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/maximum_subarray_sum.py) - [[Link]](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
+- [Simple Pig Latin](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/pig_it.py) - [[Link]](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
+- [Multiples of 3 or 5](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/solution.py) - [[Link]](https://www.codewars.com/kata/514b92a657cdc65150000006)
+- [Count characters in your string](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/count.py) - [[Link]](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
+
 ### R2D26 -----------------------------------------------------------------------------
 
 - Day26 - Capstone Project 18/20 - Exploring a Space Race in 1957 - Part 2/
-  - Preliminary Data Exploration
-    - Data Cleaning - Check for Missing Values and Duplicates
-    - Descriptive Statistics
-  - Number of Launches per company
-  - Number of active versus retired Rockets
-  - Distribution of Mission status
+    - Preliminary Data Exploration
+        - Data Cleaning - Check for Missing Values and Duplicates
+        - Descriptive Statistics
+    - Number of Launches per company
+    - Number of active versus retired Rockets
+    - Distribution of Mission status
 
 The end project is [Space Missions dData](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day26)
 
 ### R2D25 -----------------------------------------------------------------------------
 
--  Day25 - CodeWars exercises
-  - [Smallest possible sum](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/smallest_possible_sum.py) - [[Link]](https://www.codewars.com/kata/52f677797c461daaf7000740)
-  - [Find the odd int](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/find_it.py) - [[Link]](https://www.codewars.com/kata/54da5a58ea159efa38000836)
-  - [Reverse List Order](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/reverse_list.py) - [[Link]](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
+- Day25 - CodeWars exercises
+- [Smallest possible sum](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/smallest_possible_sum.py) - [[Link]](https://www.codewars.com/kata/52f677797c461daaf7000740)
+- [Find the odd int](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/find_it.py) - [[Link]](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+- [Reverse List Order](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/reverse_list.py) - [[Link]](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
 
 ### R2D24 -----------------------------------------------------------------------------
 
--  Day24 - CodeWars exercises
-  - [Who Likes It](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/likes.py) - [[Link]](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
-  - [Get the mean of an Array](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/mean_array.py) - [[Link]](https://www.codewars.com/kata/563e320cee5dddcf77000158)
+- Day24 - CodeWars exercises
+- [Who Likes It](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/likes.py) - [[Link]](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+- [Get the mean of an Array](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/mean_array.py) - [[Link]](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 
 ### R2D23 -----------------------------------------------------------------------------
 
 - Day23 - Capstone Project 18/20 - Started exploring a Space Race in 1957 - Part 1/
-  - Just started exploring a dataset with data on space missions dating back to the Space Race in 1957, I can't wait 
-  - to dive in and discover new insights about the trends over time
+    - Just started exploring a dataset with data on space missions dating back to the Space Race in 1957, I can't wait
+    - to dive in and discover new insights about the trends over time
 
 The end project is [Space Missions dData](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day23)
 
 ### R2D22 -----------------------------------------------------------------------------
 
 - Day22 - Capstone Project 17/20 - Folder Organizer
-  - This Python program uses the shutil, tkinter, os, collections, and pathlib modules to organize files in a selected 
-  directory based on their file extensions.
+    - This Python program uses the shutil, tkinter, os, collections, and pathlib modules to organize files in a selected
+      directory based on their file extensions.
 
-    1) The program starts by creating a Tkinter root window and prompting the user to select a directory to organize. If 
-    a directory is not selected, the program prints "No directory selected." and exits.
-    2) Next, the program creates folders for the different file extensions if they do not already exist. The extensions 
-    are stored in a dictionary named 'extensions', and the number of files moved to each folder is counted using the 
-    defaultdict module. 
-    3) The program then loops through all the files and subdirectories in the selected directory using the os.walk() 
-    method. For each file, it checks its extension and moves it to the appropriate folder based on the extension. 
-    If the file's extension is not recognized, the program asks the user to enter a folder name for files with that 
-    extension, creates a new folder with that name, and moves the file there. 
-    4) After moving all the files, the program displays the number of files moved to each folder and removes any empty 
-    directories. 
-    5) Finally, the program asks the user if they want to open the destination folder and, if yes, opens it using 
-    the os.startfile() method.
+        1) The program starts by creating a Tkinter root window and prompting the user to select a directory to
+           organize. If
+           a directory is not selected, the program prints "No directory selected." and exits.
+        2) Next, the program creates folders for the different file extensions if they do not already exist. The
+           extensions
+           are stored in a dictionary named 'extensions', and the number of files moved to each folder is counted using
+           the
+           defaultdict module.
+        3) The program then loops through all the files and subdirectories in the selected directory using the os.walk()
+           method. For each file, it checks its extension and moves it to the appropriate folder based on the extension.
+           If the file's extension is not recognized, the program asks the user to enter a folder name for files with
+           that
+           extension, creates a new folder with that name, and moves the file there.
+        4) After moving all the files, the program displays the number of files moved to each folder and removes any
+           empty
+           directories.
+        5) Finally, the program asks the user if they want to open the destination folder and, if yes, opens it using
+           the os.startfile() method.
 
 The end project is [File Organizer](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day22)
 
@@ -75,16 +88,15 @@ The end project is [File Organizer](https://github.com/RuiFSP/100-days-of-code/t
 
 The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day21)
 
-
 ### R2D20 -----------------------------------------------------------------------------
 
 - Day20 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 12/13
     - create customer order table
     - insert customer order into table
     - display customer orders
-    - generate dynamic pdf of order 
-      - [pdfkit](https://pypi.org/project/pdfkit/)
-      - [wkhtmltopdf](https://wkhtmltopdf.org/)
+    - generate dynamic pdf of order
+        - [pdfkit](https://pypi.org/project/pdfkit/)
+        - [wkhtmltopdf](https://wkhtmltopdf.org/)
 
 The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day20)
 
@@ -93,9 +105,9 @@ The end project is [Online Shop](https://github.com/RuiFSP/100-days-of-code/tree
 - Day19 - Capstone Project 16/20 - Started building an eCommerce website with payment processing - Part 11/13
     - make searchable products with [flask_msearch](https://pypi.org/project/flask-msearch/)
     - [flask-wtf](https://flask-wtf.readthedocs.io/en/0.15.x/form/)
-      - create customer registration form
-      - create customer registration template
-      - create customer registration model
+        - create customer registration form
+        - create customer registration template
+        - create customer registration model
     - form validation and user login with [flask-login](https://pypi.org/project/Flask-Login/)
     - logout user
     - SQLAlchemy Migrations with [Flask-Migrate](https://flask-migrate.readthedocs.io/en/latest/)
