@@ -12,6 +12,13 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D29 -----------------------------------------------------------------------------
+
+- Day29 - CodeWars exercises
+- [Sum by Factors](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/sum_for_list.py) - [[Link]](https://www.codewars.com/kata/54d496788776e49e6b00052f)
+- [Alphabetized](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/alphabetized.py) - [[Link]](https://www.codewars.com/kata/5970df092ef474680a0000c9)
+- [Factorial](https://github.com/RuiFSP/CodeWars/blob/main/Python/7%20kyu/factorial.py) - [[Link]](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/)
+
 ### R2D28 -----------------------------------------------------------------------------
 
 - Day28 - Capstone Project 18/20 - Exploring a Space Race in 1957 - Part 3/3
