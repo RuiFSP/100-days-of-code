@@ -12,6 +12,31 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D30 -----------------------------------------------------------------------------
+
+- Day30 - Capstone Project 19/20 - Analyse Deaths involving Police in the United States
+    - Preliminary Data Exploration
+        - Data Cleaning - Check for Missing Values and Duplicates
+    - Chart the Poverty Rate in each US State
+    - Chart the High School Graduation Rate by US State
+    - Visualise the Relationship between Poverty Rates and High School Graduation Rates
+      - Scatter plot to visualise the same relationship
+      - Linear regression between the poverty ratio and the high school graduation ratio
+    - Create a Bar Chart with Subsections Showing the Racial Makeup of Each US State
+    - Create Donut Chart by of People Killed by Race
+    - Create a Chart Comparing the Total Number of Deaths of Men and Women
+    - Create a Box Plot Showing the Age and Manner of Death
+    - Were People Armed?
+    - How Old Were the People Killed?
+    - Race of People Killed
+    - Mental Illness and Police Killings
+    - In Which Cities Do the Most Police Killings Take Place?
+    - Rate of Death by Race
+    - Create a Choropleth Map of Police Killings by US State
+    - Number of Police Killings Over Time
+
+The end project is [Analyse Deaths involving Police in the United States](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day30)
+
 ### R2D29 -----------------------------------------------------------------------------
 
 - Day29 - CodeWars exercises
@@ -41,7 +66,7 @@ My working IDE
   - For Every Year Show which Country was in the Lead in terms of Total Number of Launches up to and including 2020)
   - Create a Year-on-Year Chart Showing the Organisation Doing the Most Number of Launches
 
-The end project is [Space Missions dData](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day28)
+The end project is [Space Missions Data](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day28)
 
 ### R2D27 -----------------------------------------------------------------------------
 
@@ -61,7 +86,7 @@ The end project is [Space Missions dData](https://github.com/RuiFSP/100-days-of-
     - Number of active versus retired Rockets
     - Distribution of Mission status
 
-The end project is [Space Missions dData](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day26)
+The end project is [Space Missions Data](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day26)
 
 ### R2D25 -----------------------------------------------------------------------------
 
@@ -82,7 +107,7 @@ The end project is [Space Missions dData](https://github.com/RuiFSP/100-days-of-
     - Just started exploring a dataset with data on space missions dating back to the Space Race in 1957, I can't wait
     - to dive in and discover new insights about the trends over time
 
-The end project is [Space Missions dData](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day23)
+The end project is [Space Missions Data](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day23)
 
 ### R2D22 -----------------------------------------------------------------------------
 
