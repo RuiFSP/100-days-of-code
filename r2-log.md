@@ -12,6 +12,25 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D31 -----------------------------------------------------------------------------
+
+- Day31 - Capstone Project 20/20 - Predict Earnings using Multivariable Regression
+    - Preliminary Data Exploration
+        - Data Cleaning - Check for Missing Values and Duplicates
+        - Descriptive Statistics
+        - Visualise the Features
+    - Split Training & Test Dataset
+    - Simple Linear Regression
+      - Evaluate the Coefficients of the Model
+      - Analyse the Estimated Values & Regression Residuals
+    - Multivariable Regression
+      - Evaluate the Coefficients of the Model
+      - Analyse the Estimated Values & Regression Residuals
+    - Use Your Model to Make a Prediction
+    - Experiment and Investigate Further
+
+The end project is [Multivariable Regression to predict salaries](https://github.com/RuiFSP/100-days-of-code/tree/master/Projects-R2/Day31)
+
 ### R2D30 -----------------------------------------------------------------------------
 
 - Day30 - Capstone Project 19/20 - Analyse Deaths involving Police in the United States
