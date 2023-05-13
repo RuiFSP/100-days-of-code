@@ -12,6 +12,17 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+
+### R2D32 -----------------------------------------------------------------------------
+
+- Day32 - Revisions about Data Structures and Algorithms
+    - Intro to BigO notation
+      - time complexity
+    - Revisions about Classes and Pointers
+      - memory locations vs values
+
+Check Repo [My datastructures and algorithms studies](https://github.com/RuiFSP/Data-Structures-and-Algoritms)
+
 ### R2D31 -----------------------------------------------------------------------------
 
 - Day31 - Capstone Project 20/20 - Predict Earnings using Multivariable Regression
