@@ -12,6 +12,10 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D38 -----------------------------------------------------------------------------
+
+- Day38 - Solving codewars problems
+
 ### R2D37 -----------------------------------------------------------------------------
 
 - Day37 - Solving codewars problems
