@@ -14,7 +14,7 @@ My working IDE
 
 ### R2D33 - R2D39 ---------------------------------------------------------------------
 
-- Day33 - 39 Solving data structures and algorithms
+- Day (33 - 40) Solving data structures and algorithms
 
 ### R2D32 -----------------------------------------------------------------------------
 
