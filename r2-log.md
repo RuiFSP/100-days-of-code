@@ -12,7 +12,7 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-### R2D33 - R2D39 ---------------------------------------------------------------------
+### R2D33 - R2D40 ---------------------------------------------------------------------
 
 - Day (33 - 40) Solving data structures and algorithms
 
