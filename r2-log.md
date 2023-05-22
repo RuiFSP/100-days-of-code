@@ -12,10 +12,15 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D42 ----------------------------------------------    -------------------------------
+
+- Day 42 - solving coding exercises
+  - 1 codewars exercise: [The Vowel Code](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/the_vowel_code.py)
+
 ### R2D41 -----------------------------------------------------------------------------
 
 - Day 41 - Started doing some revisions about spring boot 3
-  - New Repo [SpringBoot](https://github.com/RuiFSP/SpringBoot)
+    - New Repo [SpringBoot](https://github.com/RuiFSP/SpringBoot)
 
 ### R2D33 - R2D40 ---------------------------------------------------------------------
 
