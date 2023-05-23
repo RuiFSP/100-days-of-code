@@ -12,10 +12,10 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-### R2D42 ----------------------------------------------    -------------------------------
+### R2D42 - R2D3 ----------------------------------------------------------------------
 
-- Day 42 - solving coding exercises
-  - 1 codewars exercise: [The Vowel Code](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/the_vowel_code.py)
+- Day (42 - 43) - solving coding exercises
+  - codewars exercises
 
 ### R2D41 -----------------------------------------------------------------------------
 
