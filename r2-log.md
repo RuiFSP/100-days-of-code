@@ -12,9 +12,9 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-### R2D42 - R2D44 ----------------------------------------------------------------------
+### R2D42 - R2D45 ----------------------------------------------------------------------
 
-- Day (42 - 44) - solving coding exercises
+- Day (42 - 45) - solving coding exercises
   - codewars exercises
 
 ### R2D41 -----------------------------------------------------------------------------
