@@ -12,6 +12,17 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D49 -----------------------------------------------------------------------------
+
+- Day 49 - Studying Linked List from scratch
+  - append (add to end)
+  - pop (remove end)
+  - get (by index)
+  - insert (by index)
+  - pop_first (remove start)
+  - prepend (add to start)
+  - set_value (change value of index)
+
 ### R2D42 - R2D48 ----------------------------------------------------------------------
 
 - Day (42 - 48) - solving coding exercises
