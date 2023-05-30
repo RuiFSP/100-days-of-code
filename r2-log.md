@@ -12,6 +12,18 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D50-----------------------------------------------------------------------------
+
+- Day 50 - Studying Linked List from scratch
+  - reverse linked list
+  - remove method
+  - Leet Code challenges:
+    - easy
+      - linked list cycle
+      - middle of linked list
+    - medium
+      - reverse linked list II
+
 ### R2D49 -----------------------------------------------------------------------------
 
 - Day 49 - Studying Linked List from scratch
