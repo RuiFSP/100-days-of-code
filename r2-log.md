@@ -12,6 +12,13 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D51-----------------------------------------------------------------------------
+
+- Day 51 - Studying Linked List from scratch
+  - Leet Code challenges:
+  - medium
+    - partition list - 86
+
 ### R2D50-----------------------------------------------------------------------------
 
 - Day 50 - Studying Linked List from scratch
@@ -19,10 +26,10 @@ My working IDE
   - remove method
   - Leet Code challenges:
     - easy
-      - linked list cycle
-      - middle of linked list
+      - linked list cycle - 141
+      - middle of linked list - 876
     - medium
-      - reverse linked list II
+      - reverse linked list II - 92
 
 ### R2D49 -----------------------------------------------------------------------------
 
