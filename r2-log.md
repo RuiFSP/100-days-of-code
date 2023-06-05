@@ -12,6 +12,18 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D56-----------------------------------------------------------------------------
+
+- Day 56 - Finished Linked List and started studying double linked lists
+  - Leet Code challenges:
+    - easy
+      - remove duplicates from sorted ll - 83
+    - medium
+      - remove duplicates from unsorted ll - 1836
+  - Double Linked Lists
+    - constructor
+    - append (add to end)
+
 ### R2D52 - R2D55 -------------------------------------------------------------------
 
 - Day (52 - 55)- solving coding exercises
