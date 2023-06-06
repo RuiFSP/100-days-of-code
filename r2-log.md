@@ -12,6 +12,11 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D57 -------------------------------------------------------------------
+
+- Day 57- solving coding exercises
+  - codewars exercises
+
 ### R2D56-----------------------------------------------------------------------------
 
 - Day 56 - Finished Linked List and started studying double linked lists
