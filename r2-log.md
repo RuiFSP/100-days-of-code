@@ -12,9 +12,9 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-### R2D57 -------------------------------------------------------------------
+### R2D57 - R2D58 --------------------------------------------------------------------
 
-- Day 57- solving coding exercises
+- Day (57 - 58) - solving coding exercises
   - codewars exercises
 
 ### R2D56-----------------------------------------------------------------------------
@@ -29,7 +29,7 @@ My working IDE
     - constructor
     - append (add to end)
 
-### R2D52 - R2D55 -------------------------------------------------------------------
+### R2D52 - R2D55 --------------------------------------------------------------------
 
 - Day (52 - 55)- solving coding exercises
   - codewars exercises
