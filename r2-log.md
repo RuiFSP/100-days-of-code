@@ -12,6 +12,18 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+### R2D60-----------------------------------------------------------------------------
+
+- Day 60 - Finished studying Double Linked List
+  - pop (remove end)
+  - prepend (add to start)
+  - pop_first (remove start)
+  - get (by index)
+  - set_value (change value of index)
+  - insert (by index)
+  - remove (by index)
+
+  
 ### R2D57 - R2D59 --------------------------------------------------------------------
 
 - Day (57 - 59) - solving coding exercises
