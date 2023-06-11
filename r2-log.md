@@ -12,9 +12,9 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-### R2D61 ----------------------------------------------------------------------------
+### R2D62 ----------------------------------------------------------------------------
 
-- Day 61 - solving coding exercises
+- Day 62 - solving coding exercises
   - codewars exercises
 
 ### R2D60-----------------------------------------------------------------------------
@@ -27,8 +27,7 @@ My working IDE
   - set_value (change value of index)
   - insert (by index)
   - remove (by index)
-
-  
+ 
 ### R2D57 - R2D59 --------------------------------------------------------------------
 
 - Day (57 - 59) - solving coding exercises
