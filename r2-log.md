@@ -12,7 +12,7 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-### R2D61 - R2D70 --------------------------------------------------------------------
+### R2D61 - R2D71 --------------------------------------------------------------------
 
 - Day (61 - 71) - solving coding exercises
   - codewars exercises
