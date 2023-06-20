@@ -14,7 +14,7 @@ My working IDE
 
 ### R2D61 - R2D70 --------------------------------------------------------------------
 
-- Day (61 - 70) - solving coding exercises
+- Day (61 - 71) - solving coding exercises
   - codewars exercises
 
 ### R2D60-----------------------------------------------------------------------------
