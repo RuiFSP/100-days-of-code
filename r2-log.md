@@ -18,6 +18,8 @@ My working IDE
   - codewars exercises
   - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=14)
     - Advanced SQL
+      - CTE - Common Table Expressions
+      - Temp Tables
 
 ###  R2D79 --------------------------------------------------------------------------
 
@@ -25,6 +27,10 @@ My working IDE
   - codewars exercises
   - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=10)
     - Intermediate SQL
+      - Partitions
+      - Aliasing
+      - Updating/Deleting Data
+      - Having Clause
 
 ###  R2D78 --------------------------------------------------------------------------
 
@@ -32,6 +38,9 @@ My working IDE
   - codewars exercises
   - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=7)
     - Intermediate SQL
+      - Case statement
+      - Unions
+      - Inner/Outer Joins
 
 ###  R2D77 --------------------------------------------------------------------------
 
@@ -39,6 +48,9 @@ My working IDE
   - codewars exercises
   - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=1)
     - Beginner SQL
+      - Select + from
+      - where statements
+      - group by + order by
 
 ### R2D61 - R2D76 --------------------------------------------------------------------
 
