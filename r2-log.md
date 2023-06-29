@@ -16,21 +16,21 @@ My working IDE
 
 - Day80 - solving coding exercises and Data Analyst Bootcamp - Advanced SQL
   - codewars exercises
-  - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=1)
+  - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=14)
     - Advanced SQL
 
 ###  R2D79 --------------------------------------------------------------------------
 
 - Day 79 - solving coding exercises and Data Analyst Bootcamp - Intermediate SQL
   - codewars exercises
-  - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=1)
+  - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=10)
     - Intermediate SQL
 
 ###  R2D78 --------------------------------------------------------------------------
 
 - Day 78 - solving coding exercises and Data Analyst Bootcamp - Intermediate SQL
   - codewars exercises
-  - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=1)
+  - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=7)
     - Intermediate SQL
 
 ###  R2D77 --------------------------------------------------------------------------
