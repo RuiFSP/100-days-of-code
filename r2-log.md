@@ -12,6 +12,11 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+###  R2D82 --------------------------------------------------------------------------
+
+- Day82 - solving coding exercises furing vacations
+  - codewars exercises
+
 ###  R2D81 --------------------------------------------------------------------------
 
 - Day81 - solving coding exercises and Data Analyst Bootcamp - Advanced SQL
