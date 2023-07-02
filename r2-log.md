@@ -12,14 +12,14 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-###  R2D82 --------------------------------------------------------------------------
+###  R2D82 - R2D83-------------------------------------------------------------------
 
-- Day82 - solving coding exercises furing vacations
+- Day (82 - 83) - solving coding exercises during vacations
   - codewars exercises
 
 ###  R2D81 --------------------------------------------------------------------------
 
-- Day81 - solving coding exercises and Data Analyst Bootcamp - Advanced SQL
+- Day 81 - solving coding exercises and Data Analyst Bootcamp - Advanced SQL
   - codewars exercises
   - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=16)
     - Advanced SQL
@@ -29,7 +29,7 @@ My working IDE
 
 ###  R2D80 --------------------------------------------------------------------------
 
-- Day80 - solving coding exercises and Data Analyst Bootcamp - Advanced SQL
+- Day 80 - solving coding exercises and Data Analyst Bootcamp - Advanced SQL
   - codewars exercises
   - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=14)
     - Advanced SQL
