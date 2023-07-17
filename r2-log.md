@@ -12,9 +12,9 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
-###  R2D82 - R2D97-------------------------------------------------------------------
+###  R2D82 - R2D98-------------------------------------------------------------------
 
-- Day (82 - 97) - solving coding exercises during vacations
+- Day (82 - 98) - solving coding exercises during vacations
   - codewars exercises
 
 ###  R2D81 --------------------------------------------------------------------------
