@@ -12,6 +12,16 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+
+###  R2D99 --------------------------------------------------------------------------
+
+- Day 99 - solving coding exercises and Data Analyst Bootcamp - Advanced SQL
+  - codewars exercises
+  - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=17)
+    - Advanced SQL
+      - Procedures + Use Cases
+      - Subqueries
+
 ###  R2D82 - R2D98-------------------------------------------------------------------
 
 - Day (82 - 98) - solving coding exercises during vacations
@@ -24,8 +34,6 @@ My working IDE
   - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=16)
     - Advanced SQL
       - Functions + Use Cases
-      - Procedures + Use Cases
-      - Subqueries
 
 ###  R2D80 --------------------------------------------------------------------------
 
