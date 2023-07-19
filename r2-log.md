@@ -12,6 +12,12 @@ My working IDE
 
 - Pycharm community version from JetBrains: https://www.jetbrains.com/pycharm/
 
+##  R2D100--------------------------------------------------------------------------
+
+- Day 100 - solving coding exercises and Data Analyst Bootcamp - SQL Data Exploration 
+  - codewars exercises
+  - [Data Analytics Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=19)
+    - Portfolio Project | SQL Data Exploration
 
 ###  R2D99 --------------------------------------------------------------------------
 
